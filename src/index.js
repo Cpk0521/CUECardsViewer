@@ -1,20 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, HashRouter, Routes, Route } from "react-router-dom";
 
 import Home from './pages/Home';
 import CardDetail from './pages/CardDetail';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
         <Routes>
           <Route path='/' element={<Home />}/>
           <Route path='/CardDetail/:cid' element={<CardDetail />}/>
 
           <Route path='*' element={<Home />}/>
         </Routes>
-    </BrowserRouter>
+    </HashRouter>
     
   )
 }
