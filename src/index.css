@@ -296,7 +296,7 @@
     .option {
         width: 100%;
         background: #FFF;
-        height: calc(100vw*.9 / 15);
+        height: calc(100vw*.9 / 14);
         border: 1px solid rgb(246 246 246);
         text-align: center;
         padding: 1vh 0;
@@ -694,7 +694,7 @@
     .option {
         width: 100%;
         background: #FFF;
-        height: calc(100vw*.9 / 4.5);
+        height: calc(100vw/4);
         border: 1px solid rgb(246 246 246);
         text-align: center;
         padding: 1vh 0;

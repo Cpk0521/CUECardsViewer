@@ -9,7 +9,7 @@ const App = () => {
   return (
     <HashRouter>
         <Routes>
-          <Route path='/' element={<Home />}/>
+          <Route path='/#' element={<Home />}/>
           <Route path='/CardDetail/:cid' element={<CardDetail />}/>
 
           <Route path='*' element={<Home />}/>
