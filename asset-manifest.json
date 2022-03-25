@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CUECardsViewer/static/css/main.57cebfa7.css",
-    "main.js": "/CUECardsViewer/static/js/main.ce055f7b.js",
+    "main.css": "/CUECardsViewer/static/css/main.df8b663f.css",
+    "main.js": "/CUECardsViewer/static/js/main.264a1bd6.js",
     "index.html": "/CUECardsViewer/index.html",
-    "main.57cebfa7.css.map": "/CUECardsViewer/static/css/main.57cebfa7.css.map",
-    "main.ce055f7b.js.map": "/CUECardsViewer/static/js/main.ce055f7b.js.map"
+    "main.df8b663f.css.map": "/CUECardsViewer/static/css/main.df8b663f.css.map",
+    "main.264a1bd6.js.map": "/CUECardsViewer/static/js/main.264a1bd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.57cebfa7.css",
-    "static/js/main.ce055f7b.js"
+    "static/css/main.df8b663f.css",
+    "static/js/main.264a1bd6.js"
   ]
 }
