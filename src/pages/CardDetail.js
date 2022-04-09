@@ -1,5 +1,5 @@
-import {useState} from 'react'
-import {useLocation} from "react-router-dom";
+import {useState, useEffect} from 'react'
+import {useLocation, useParams} from "react-router-dom";
 
 import Header from '../conponents/Header';
 import CardViewer from '../conponents/CardViewer';
@@ -10,11 +10,23 @@ import '../index.css';
 export default function CardDetail() {
 
     const location = useLocation();
-    const Carddetail = location.state;
-
+    const params = useParams();
+    
+    const [Carddetail, setCarddetail] = useState(location.state)
     const [viewerstate, setvViewerstate] = useState('image');
     const [imageurl, setImageurl] = useState('');
 
+    useEffect(async ()=>{
+
+       if(!Carddetail){
+            const res = await fetch('./Jsondata/CardsData.json');
+            const data = await res.json();
+            let detail = data.Cards.find(x => x.cardId == params.cid);
+            setCarddetail(detail);
+       }
+
+    },[])
+    
     return (
         <>
             <Header />
@@ -22,11 +34,11 @@ export default function CardDetail() {
             <div className='cardd-content'>
 
                 <div className='cardd-content-left'>
-                    <CardViewer Carddetail={Carddetail} viewerstate={viewerstate} imageurl={imageurl}/>
+                    {(!Carddetail)?'':<CardViewer Carddetail={Carddetail} viewerstate={viewerstate} imageurl={imageurl}/>}
                 </div>
 
                 <div className='cardd-content-right'>
-                    <ViewerOptions Carddetail={Carddetail} setvViewerstate={setvViewerstate} setImageurl={setImageurl} />
+                    {(!Carddetail)?'':<ViewerOptions Carddetail={Carddetail} setvViewerstate={setvViewerstate} setImageurl={setImageurl} />}
                 </div>
 
             </div>
