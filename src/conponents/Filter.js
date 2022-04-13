@@ -15,6 +15,11 @@ export default function Filter({kaika, setKaika, sortlist, revsort, setrevsort, 
     backupchecked.current = [...charslist].map(x => x.name);
   }, [charslist])
 
+  useEffect(()=>{
+    ismobile && shown?(document.body.style.overflow='hidden'):(document.body.style.overflow='unset');
+  },[shown])
+
+
   const togglekaika = ()=> {
     setKaika(!kaika);
   }
