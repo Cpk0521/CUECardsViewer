@@ -107,12 +107,11 @@ export default function Filter({kaika, setKaika, sortlist, revsort, setrevsort, 
               </div>
             </div>
           </div>
-
-        </div>
-
-        <div id='filterSidebar-footer'>
+          
+          <div id='filterSidebar-footer'>
               {ismobile?<button onClick={toggleshown}>やめる</button>:<></>}
               <button id='submitbtn' onClick={submit}>決定</button>
+          </div>
         </div>
       </div>
     </>

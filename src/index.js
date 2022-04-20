@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, HashRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route , Navigate} from "react-router-dom";
 
 import Home from './pages/Home';
 import CardDetail from './pages/CardDetail';
