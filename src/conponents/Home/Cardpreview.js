@@ -1,9 +1,14 @@
-import '../index.css'
+import '../../index.css'
+
 import { useNavigate } from "react-router-dom";
+import { useContext } from 'react';
 
-export default function Cardpreview( {Card, kaika} ) {
+import {FilterContext} from '../../index'
 
+export default function Cardpreview( {Card} ) {
+  
   const navigate = useNavigate();
+  const {kaika} = useContext(FilterContext);
 
   const checkalias = (alias) => {
     if(alias == "0"){
@@ -35,7 +40,7 @@ export default function Cardpreview( {Card, kaika} ) {
           </div>
       </div>
 
-      {Card?<button id='more-btn' onClick={()=>{navigate(`/CardDetail/${Card.cardId}`, {state:Card})}}><span>詳細確認</span></button>:<></>}
+      {Card?<button id='more-btn' onClick={()=>{navigate(`/CardDetail/${Card.cardId}`)}}><span>詳細確認</span></button>:<></>}
 
     </>
   )

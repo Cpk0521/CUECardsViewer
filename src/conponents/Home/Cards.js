@@ -1,13 +1,18 @@
+import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 
-export default function Cards( {data, selected, onselecting, kaika, ismobile} ) {
+import {FilterContext} from '../../index'
+
+export default function Cards( {data, selected, onSelectCard} ) {
+
+  const {kaika, ismobile} = useContext(FilterContext);
 
   const navigate = useNavigate();
 
   const onclick = () => {
-    onselecting(data);
+    onSelectCard(data);
     if(!ismobile){
-      navigate(`/CardDetail/${data.cardId}`, {state:data});
+      navigate(`/CardDetail/${data.cardId}`);
     }
   }
 

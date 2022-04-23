@@ -1,6 +1,6 @@
 {
   "name": "react_cardviewer",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "homepage": "https://cpk0521.github.io/CUECardsViewer",
   "private": true,
   "dependencies": {

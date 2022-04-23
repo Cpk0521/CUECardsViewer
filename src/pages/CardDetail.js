@@ -1,36 +1,26 @@
-import {useState, useEffect} from 'react'
-import {useLocation, useParams} from "react-router-dom";
+import {useState} from 'react'
+import {useParams} from "react-router-dom";
 
-import Header from '../conponents/Header';
-import CardViewer from '../conponents/CardViewer';
-import ViewerOptions from '../conponents/ViewerOptions';
+import Header from '../conponents/CardDetail/Header';
+import CardViewer from '../conponents/CardDetail/CardViewer';
+import ViewerOptions from '../conponents/CardDetail/ViewerOptions';
 
 import '../index.css';
+import { CardsData } from '../data/Data';
 
 export default function CardDetail() {
 
-    const location = useLocation();
+    // const location = useLocation();
     const params = useParams();
     
-    const [Carddetail, setCarddetail] = useState(location.state)
+    const [Carddetail, setCarddetail] = useState(CardsData.find(x => x.cardId == params.cid))
     const [viewerstate, setvViewerstate] = useState('image');
     const [imageurl, setImageurl] = useState('');
 
-    useEffect(async ()=>{
-
-       if(!Carddetail){
-            const res = await fetch('./Jsondata/CardsData.json');
-            const data = await res.json();
-            let detail = data.Cards.find(x => x.cardId == params.cid);
-            setCarddetail(detail);
-       }
-
-    },[])
-    
     return (
         <>
-            <Header />
-            
+            <Header />        
+
             <div className='cardd-content'>
 
                 <div className='cardd-content-left'>
