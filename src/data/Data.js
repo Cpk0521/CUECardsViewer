@@ -204,7 +204,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1010001/Card_1010001_1_c.png",
             "Normal": "Cards/1010001/Card_1010001_1_b.png",
             "Blooming_thumb": "Cards/1010001/Card_1010001_2_c.png",
-            "Blooming": "Cards/1010001/Card_1010001_2_b.png"
+            "Blooming": "Cards/1010001/Card_1010001_2_b.png",
+            "Normal_withName": "Cards/1010001/Card_1010001_1_a.png",
+            "Normal_vertical": "Cards/1010001/Card_1010001_1_d.png",
+            "Normal_withWhite": "Cards/1010001/Card_1010001_1_e.png",
+            "Blooming_withName": "Cards/1010001/Card_1010001_2_a.png",
+            "Blooming_vertical": "Cards/1010001/Card_1010001_2_d.png",
+            "Blooming_withWhite": "Cards/1010001/Card_1010001_2_e.png"
         }
     },
     {
@@ -217,7 +223,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1020001/Card_1020001_1_c.png",
             "Normal": "Cards/1020001/Card_1020001_1_b.png",
             "Blooming_thumb": "Cards/1020001/Card_1020001_2_c.png",
-            "Blooming": "Cards/1020001/Card_1020001_2_b.png"
+            "Blooming": "Cards/1020001/Card_1020001_2_b.png",
+            "Normal_withName": "Cards/1020001/Card_1020001_1_a.png",
+            "Normal_vertical": "Cards/1020001/Card_1020001_1_d.png",
+            "Normal_withWhite": "Cards/1020001/Card_1020001_1_e.png",
+            "Blooming_withName": "Cards/1020001/Card_1020001_2_a.png",
+            "Blooming_vertical": "Cards/1020001/Card_1020001_2_d.png",
+            "Blooming_withWhite": "Cards/1020001/Card_1020001_2_e.png"
         }
     },
     {
@@ -230,7 +242,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1030001/Card_1030001_1_c.png",
             "Normal": "Cards/1030001/Card_1030001_1_b.png",
             "Blooming_thumb": "Cards/1030001/Card_1030001_2_c.png",
-            "Blooming": "Cards/1030001/Card_1030001_2_b.png"
+            "Blooming": "Cards/1030001/Card_1030001_2_b.png",
+            "Normal_withName": "Cards/1030001/Card_1030001_1_a.png",
+            "Normal_vertical": "Cards/1030001/Card_1030001_1_d.png",
+            "Normal_withWhite": "Cards/1030001/Card_1030001_1_e.png",
+            "Blooming_withName": "Cards/1030001/Card_1030001_2_a.png",
+            "Blooming_vertical": "Cards/1030001/Card_1030001_2_d.png",
+            "Blooming_withWhite": "Cards/1030001/Card_1030001_2_e.png"
         }
     },
     {
@@ -243,7 +261,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1040001/Card_1040001_1_c.png",
             "Normal": "Cards/1040001/Card_1040001_1_b.png",
             "Blooming_thumb": "Cards/1040001/Card_1040001_2_c.png",
-            "Blooming": "Cards/1040001/Card_1040001_2_b.png"
+            "Blooming": "Cards/1040001/Card_1040001_2_b.png",
+            "Normal_withName": "Cards/1040001/Card_1040001_1_a.png",
+            "Normal_vertical": "Cards/1040001/Card_1040001_1_d.png",
+            "Normal_withWhite": "Cards/1040001/Card_1040001_1_e.png",
+            "Blooming_withName": "Cards/1040001/Card_1040001_2_a.png",
+            "Blooming_vertical": "Cards/1040001/Card_1040001_2_d.png",
+            "Blooming_withWhite": "Cards/1040001/Card_1040001_2_e.png"
         }
     },
     {
@@ -256,7 +280,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1050001/Card_1050001_1_c.png",
             "Normal": "Cards/1050001/Card_1050001_1_b.png",
             "Blooming_thumb": "Cards/1050001/Card_1050001_2_c.png",
-            "Blooming": "Cards/1050001/Card_1050001_2_b.png"
+            "Blooming": "Cards/1050001/Card_1050001_2_b.png",
+            "Normal_withName": "Cards/1050001/Card_1050001_1_a.png",
+            "Normal_vertical": "Cards/1050001/Card_1050001_1_d.png",
+            "Normal_withWhite": "Cards/1050001/Card_1050001_1_e.png",
+            "Blooming_withName": "Cards/1050001/Card_1050001_2_a.png",
+            "Blooming_vertical": "Cards/1050001/Card_1050001_2_d.png",
+            "Blooming_withWhite": "Cards/1050001/Card_1050001_2_e.png"
         }
     },
     {
@@ -269,7 +299,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1060001/Card_1060001_1_c.png",
             "Normal": "Cards/1060001/Card_1060001_1_b.png",
             "Blooming_thumb": "Cards/1060001/Card_1060001_2_c.png",
-            "Blooming": "Cards/1060001/Card_1060001_2_b.png"
+            "Blooming": "Cards/1060001/Card_1060001_2_b.png",
+            "Normal_withName": "Cards/1060001/Card_1060001_1_a.png",
+            "Normal_vertical": "Cards/1060001/Card_1060001_1_d.png",
+            "Normal_withWhite": "Cards/1060001/Card_1060001_1_e.png",
+            "Blooming_withName": "Cards/1060001/Card_1060001_2_a.png",
+            "Blooming_vertical": "Cards/1060001/Card_1060001_2_d.png",
+            "Blooming_withWhite": "Cards/1060001/Card_1060001_2_e.png"
         }
     },
     {
@@ -282,7 +318,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1070001/Card_1070001_1_c.png",
             "Normal": "Cards/1070001/Card_1070001_1_b.png",
             "Blooming_thumb": "Cards/1070001/Card_1070001_2_c.png",
-            "Blooming": "Cards/1070001/Card_1070001_2_b.png"
+            "Blooming": "Cards/1070001/Card_1070001_2_b.png",
+            "Normal_withName": "Cards/1070001/Card_1070001_1_a.png",
+            "Normal_vertical": "Cards/1070001/Card_1070001_1_d.png",
+            "Normal_withWhite": "Cards/1070001/Card_1070001_1_e.png",
+            "Blooming_withName": "Cards/1070001/Card_1070001_2_a.png",
+            "Blooming_vertical": "Cards/1070001/Card_1070001_2_d.png",
+            "Blooming_withWhite": "Cards/1070001/Card_1070001_2_e.png"
         }
     },
     {
@@ -295,7 +337,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1080001/Card_1080001_1_c.png",
             "Normal": "Cards/1080001/Card_1080001_1_b.png",
             "Blooming_thumb": "Cards/1080001/Card_1080001_2_c.png",
-            "Blooming": "Cards/1080001/Card_1080001_2_b.png"
+            "Blooming": "Cards/1080001/Card_1080001_2_b.png",
+            "Normal_withName": "Cards/1080001/Card_1080001_1_a.png",
+            "Normal_vertical": "Cards/1080001/Card_1080001_1_d.png",
+            "Normal_withWhite": "Cards/1080001/Card_1080001_1_e.png",
+            "Blooming_withName": "Cards/1080001/Card_1080001_2_a.png",
+            "Blooming_vertical": "Cards/1080001/Card_1080001_2_d.png",
+            "Blooming_withWhite": "Cards/1080001/Card_1080001_2_e.png"
         }
     },
     {
@@ -308,7 +356,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1090001/Card_1090001_1_c.png",
             "Normal": "Cards/1090001/Card_1090001_1_b.png",
             "Blooming_thumb": "Cards/1090001/Card_1090001_2_c.png",
-            "Blooming": "Cards/1090001/Card_1090001_2_b.png"
+            "Blooming": "Cards/1090001/Card_1090001_2_b.png",
+            "Normal_withName": "Cards/1090001/Card_1090001_1_a.png",
+            "Normal_vertical": "Cards/1090001/Card_1090001_1_d.png",
+            "Normal_withWhite": "Cards/1090001/Card_1090001_1_e.png",
+            "Blooming_withName": "Cards/1090001/Card_1090001_2_a.png",
+            "Blooming_vertical": "Cards/1090001/Card_1090001_2_d.png",
+            "Blooming_withWhite": "Cards/1090001/Card_1090001_2_e.png"
         }
     },
     {
@@ -321,7 +375,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1100001/Card_1100001_1_c.png",
             "Normal": "Cards/1100001/Card_1100001_1_b.png",
             "Blooming_thumb": "Cards/1100001/Card_1100001_2_c.png",
-            "Blooming": "Cards/1100001/Card_1100001_2_b.png"
+            "Blooming": "Cards/1100001/Card_1100001_2_b.png",
+            "Normal_withName": "Cards/1100001/Card_1100001_1_a.png",
+            "Normal_vertical": "Cards/1100001/Card_1100001_1_d.png",
+            "Normal_withWhite": "Cards/1100001/Card_1100001_1_e.png",
+            "Blooming_withName": "Cards/1100001/Card_1100001_2_a.png",
+            "Blooming_vertical": "Cards/1100001/Card_1100001_2_d.png",
+            "Blooming_withWhite": "Cards/1100001/Card_1100001_2_e.png"
         }
     },
     {
@@ -334,7 +394,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1110001/Card_1110001_1_c.png",
             "Normal": "Cards/1110001/Card_1110001_1_b.png",
             "Blooming_thumb": "Cards/1110001/Card_1110001_2_c.png",
-            "Blooming": "Cards/1110001/Card_1110001_2_b.png"
+            "Blooming": "Cards/1110001/Card_1110001_2_b.png",
+            "Normal_withName": "Cards/1110001/Card_1110001_1_a.png",
+            "Normal_vertical": "Cards/1110001/Card_1110001_1_d.png",
+            "Normal_withWhite": "Cards/1110001/Card_1110001_1_e.png",
+            "Blooming_withName": "Cards/1110001/Card_1110001_2_a.png",
+            "Blooming_vertical": "Cards/1110001/Card_1110001_2_d.png",
+            "Blooming_withWhite": "Cards/1110001/Card_1110001_2_e.png"
         }
     },
     {
@@ -347,7 +413,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1120001/Card_1120001_1_c.png",
             "Normal": "Cards/1120001/Card_1120001_1_b.png",
             "Blooming_thumb": "Cards/1120001/Card_1120001_2_c.png",
-            "Blooming": "Cards/1120001/Card_1120001_2_b.png"
+            "Blooming": "Cards/1120001/Card_1120001_2_b.png",
+            "Normal_withName": "Cards/1120001/Card_1120001_1_a.png",
+            "Normal_vertical": "Cards/1120001/Card_1120001_1_d.png",
+            "Normal_withWhite": "Cards/1120001/Card_1120001_1_e.png",
+            "Blooming_withName": "Cards/1120001/Card_1120001_2_a.png",
+            "Blooming_vertical": "Cards/1120001/Card_1120001_2_d.png",
+            "Blooming_withWhite": "Cards/1120001/Card_1120001_2_e.png"
         }
     },
     {
@@ -360,7 +432,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1130001/Card_1130001_1_c.png",
             "Normal": "Cards/1130001/Card_1130001_1_b.png",
             "Blooming_thumb": "Cards/1130001/Card_1130001_2_c.png",
-            "Blooming": "Cards/1130001/Card_1130001_2_b.png"
+            "Blooming": "Cards/1130001/Card_1130001_2_b.png",
+            "Normal_withName": "Cards/1130001/Card_1130001_1_a.png",
+            "Normal_vertical": "Cards/1130001/Card_1130001_1_d.png",
+            "Normal_withWhite": "Cards/1130001/Card_1130001_1_e.png",
+            "Blooming_withName": "Cards/1130001/Card_1130001_2_a.png",
+            "Blooming_vertical": "Cards/1130001/Card_1130001_2_d.png",
+            "Blooming_withWhite": "Cards/1130001/Card_1130001_2_e.png"
         }
     },
     {
@@ -373,7 +451,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1140001/Card_1140001_1_c.png",
             "Normal": "Cards/1140001/Card_1140001_1_b.png",
             "Blooming_thumb": "Cards/1140001/Card_1140001_2_c.png",
-            "Blooming": "Cards/1140001/Card_1140001_2_b.png"
+            "Blooming": "Cards/1140001/Card_1140001_2_b.png",
+            "Normal_withName": "Cards/1140001/Card_1140001_1_a.png",
+            "Normal_vertical": "Cards/1140001/Card_1140001_1_d.png",
+            "Normal_withWhite": "Cards/1140001/Card_1140001_1_e.png",
+            "Blooming_withName": "Cards/1140001/Card_1140001_2_a.png",
+            "Blooming_vertical": "Cards/1140001/Card_1140001_2_d.png",
+            "Blooming_withWhite": "Cards/1140001/Card_1140001_2_e.png"
         }
     },
     {
@@ -386,7 +470,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1150001/Card_1150001_1_c.png",
             "Normal": "Cards/1150001/Card_1150001_1_b.png",
             "Blooming_thumb": "Cards/1150001/Card_1150001_2_c.png",
-            "Blooming": "Cards/1150001/Card_1150001_2_b.png"
+            "Blooming": "Cards/1150001/Card_1150001_2_b.png",
+            "Normal_withName": "Cards/1150001/Card_1150001_1_a.png",
+            "Normal_vertical": "Cards/1150001/Card_1150001_1_d.png",
+            "Normal_withWhite": "Cards/1150001/Card_1150001_1_e.png",
+            "Blooming_withName": "Cards/1150001/Card_1150001_2_a.png",
+            "Blooming_vertical": "Cards/1150001/Card_1150001_2_d.png",
+            "Blooming_withWhite": "Cards/1150001/Card_1150001_2_e.png"
         }
     },
     {
@@ -399,7 +489,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/1160001/Card_1160001_1_c.png",
             "Normal": "Cards/1160001/Card_1160001_1_b.png",
             "Blooming_thumb": "Cards/1160001/Card_1160001_2_c.png",
-            "Blooming": "Cards/1160001/Card_1160001_2_b.png"
+            "Blooming": "Cards/1160001/Card_1160001_2_b.png",
+            "Normal_withName": "Cards/1160001/Card_1160001_1_a.png",
+            "Normal_vertical": "Cards/1160001/Card_1160001_1_d.png",
+            "Normal_withWhite": "Cards/1160001/Card_1160001_1_e.png",
+            "Blooming_withName": "Cards/1160001/Card_1160001_2_a.png",
+            "Blooming_vertical": "Cards/1160001/Card_1160001_2_d.png",
+            "Blooming_withWhite": "Cards/1160001/Card_1160001_2_e.png"
         }
     },
     {
@@ -412,7 +508,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2010002/Card_2010002_1_c.png",
             "Normal": "Cards/2010002/Card_2010002_1_b.png",
             "Blooming_thumb": "Cards/2010002/Card_2010002_2_c.png",
-            "Blooming": "Cards/2010002/Card_2010002_2_b.png"
+            "Blooming": "Cards/2010002/Card_2010002_2_b.png",
+            "Normal_withName": "Cards/2010002/Card_2010002_1_a.png",
+            "Normal_vertical": "Cards/2010002/Card_2010002_1_d.png",
+            "Normal_withWhite": "Cards/2010002/Card_2010002_1_e.png",
+            "Blooming_withName": "Cards/2010002/Card_2010002_2_a.png",
+            "Blooming_vertical": "Cards/2010002/Card_2010002_2_d.png",
+            "Blooming_withWhite": "Cards/2010002/Card_2010002_2_e.png",
+            "Cardname": "Cards/2010002/Card_2010002_name.png"
         }
     },
     {
@@ -425,7 +528,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2020002/Card_2020002_1_c.png",
             "Normal": "Cards/2020002/Card_2020002_1_b.png",
             "Blooming_thumb": "Cards/2020002/Card_2020002_2_c.png",
-            "Blooming": "Cards/2020002/Card_2020002_2_b.png"
+            "Blooming": "Cards/2020002/Card_2020002_2_b.png",
+            "Normal_withName": "Cards/2020002/Card_2020002_1_a.png",
+            "Normal_vertical": "Cards/2020002/Card_2020002_1_d.png",
+            "Normal_withWhite": "Cards/2020002/Card_2020002_1_e.png",
+            "Blooming_withName": "Cards/2020002/Card_2020002_2_a.png",
+            "Blooming_vertical": "Cards/2020002/Card_2020002_2_d.png",
+            "Blooming_withWhite": "Cards/2020002/Card_2020002_2_e.png",
+            "Cardname": "Cards/2020002/Card_2020002_name.png"
         }
     },
     {
@@ -438,7 +548,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2030002/Card_2030002_1_c.png",
             "Normal": "Cards/2030002/Card_2030002_1_b.png",
             "Blooming_thumb": "Cards/2030002/Card_2030002_2_c.png",
-            "Blooming": "Cards/2030002/Card_2030002_2_b.png"
+            "Blooming": "Cards/2030002/Card_2030002_2_b.png",
+            "Normal_withName": "Cards/2030002/Card_2030002_1_a.png",
+            "Normal_vertical": "Cards/2030002/Card_2030002_1_d.png",
+            "Normal_withWhite": "Cards/2030002/Card_2030002_1_e.png",
+            "Blooming_withName": "Cards/2030002/Card_2030002_2_a.png",
+            "Blooming_vertical": "Cards/2030002/Card_2030002_2_d.png",
+            "Blooming_withWhite": "Cards/2030002/Card_2030002_2_e.png",
+            "Cardname": "Cards/2030002/Card_2030002_name.png"
         }
     },
     {
@@ -451,7 +568,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2040002/Card_2040002_1_c.png",
             "Normal": "Cards/2040002/Card_2040002_1_b.png",
             "Blooming_thumb": "Cards/2040002/Card_2040002_2_c.png",
-            "Blooming": "Cards/2040002/Card_2040002_2_b.png"
+            "Blooming": "Cards/2040002/Card_2040002_2_b.png",
+            "Normal_withName": "Cards/2040002/Card_2040002_1_a.png",
+            "Normal_vertical": "Cards/2040002/Card_2040002_1_d.png",
+            "Normal_withWhite": "Cards/2040002/Card_2040002_1_e.png",
+            "Blooming_withName": "Cards/2040002/Card_2040002_2_a.png",
+            "Blooming_vertical": "Cards/2040002/Card_2040002_2_d.png",
+            "Blooming_withWhite": "Cards/2040002/Card_2040002_2_e.png",
+            "Cardname": "Cards/2040002/Card_2040002_name.png"
         }
     },
     {
@@ -464,7 +588,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2050002/Card_2050002_1_c.png",
             "Normal": "Cards/2050002/Card_2050002_1_b.png",
             "Blooming_thumb": "Cards/2050002/Card_2050002_2_c.png",
-            "Blooming": "Cards/2050002/Card_2050002_2_b.png"
+            "Blooming": "Cards/2050002/Card_2050002_2_b.png",
+            "Normal_withName": "Cards/2050002/Card_2050002_1_a.png",
+            "Normal_vertical": "Cards/2050002/Card_2050002_1_d.png",
+            "Normal_withWhite": "Cards/2050002/Card_2050002_1_e.png",
+            "Blooming_withName": "Cards/2050002/Card_2050002_2_a.png",
+            "Blooming_vertical": "Cards/2050002/Card_2050002_2_d.png",
+            "Blooming_withWhite": "Cards/2050002/Card_2050002_2_e.png",
+            "Cardname": "Cards/2050002/Card_2050002_name.png"
         }
     },
     {
@@ -477,7 +608,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2060002/Card_2060002_1_c.png",
             "Normal": "Cards/2060002/Card_2060002_1_b.png",
             "Blooming_thumb": "Cards/2060002/Card_2060002_2_c.png",
-            "Blooming": "Cards/2060002/Card_2060002_2_b.png"
+            "Blooming": "Cards/2060002/Card_2060002_2_b.png",
+            "Normal_withName": "Cards/2060002/Card_2060002_1_a.png",
+            "Normal_vertical": "Cards/2060002/Card_2060002_1_d.png",
+            "Normal_withWhite": "Cards/2060002/Card_2060002_1_e.png",
+            "Blooming_withName": "Cards/2060002/Card_2060002_2_a.png",
+            "Blooming_vertical": "Cards/2060002/Card_2060002_2_d.png",
+            "Blooming_withWhite": "Cards/2060002/Card_2060002_2_e.png",
+            "Cardname": "Cards/2060002/Card_2060002_name.png"
         }
     },
     {
@@ -490,7 +628,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2070002/Card_2070002_1_c.png",
             "Normal": "Cards/2070002/Card_2070002_1_b.png",
             "Blooming_thumb": "Cards/2070002/Card_2070002_2_c.png",
-            "Blooming": "Cards/2070002/Card_2070002_2_b.png"
+            "Blooming": "Cards/2070002/Card_2070002_2_b.png",
+            "Normal_withName": "Cards/2070002/Card_2070002_1_a.png",
+            "Normal_vertical": "Cards/2070002/Card_2070002_1_d.png",
+            "Normal_withWhite": "Cards/2070002/Card_2070002_1_e.png",
+            "Blooming_withName": "Cards/2070002/Card_2070002_2_a.png",
+            "Blooming_vertical": "Cards/2070002/Card_2070002_2_d.png",
+            "Blooming_withWhite": "Cards/2070002/Card_2070002_2_e.png",
+            "Cardname": "Cards/2070002/Card_2070002_name.png"
         }
     },
     {
@@ -503,7 +648,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2080002/Card_2080002_1_c.png",
             "Normal": "Cards/2080002/Card_2080002_1_b.png",
             "Blooming_thumb": "Cards/2080002/Card_2080002_2_c.png",
-            "Blooming": "Cards/2080002/Card_2080002_2_b.png"
+            "Blooming": "Cards/2080002/Card_2080002_2_b.png",
+            "Normal_withName": "Cards/2080002/Card_2080002_1_a.png",
+            "Normal_vertical": "Cards/2080002/Card_2080002_1_d.png",
+            "Normal_withWhite": "Cards/2080002/Card_2080002_1_e.png",
+            "Blooming_withName": "Cards/2080002/Card_2080002_2_a.png",
+            "Blooming_vertical": "Cards/2080002/Card_2080002_2_d.png",
+            "Blooming_withWhite": "Cards/2080002/Card_2080002_2_e.png",
+            "Cardname": "Cards/2080002/Card_2080002_name.png"
         }
     },
     {
@@ -516,7 +668,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2090002/Card_2090002_1_c.png",
             "Normal": "Cards/2090002/Card_2090002_1_b.png",
             "Blooming_thumb": "Cards/2090002/Card_2090002_2_c.png",
-            "Blooming": "Cards/2090002/Card_2090002_2_b.png"
+            "Blooming": "Cards/2090002/Card_2090002_2_b.png",
+            "Normal_withName": "Cards/2090002/Card_2090002_1_a.png",
+            "Normal_vertical": "Cards/2090002/Card_2090002_1_d.png",
+            "Normal_withWhite": "Cards/2090002/Card_2090002_1_e.png",
+            "Blooming_withName": "Cards/2090002/Card_2090002_2_a.png",
+            "Blooming_vertical": "Cards/2090002/Card_2090002_2_d.png",
+            "Blooming_withWhite": "Cards/2090002/Card_2090002_2_e.png",
+            "Cardname": "Cards/2090002/Card_2090002_name.png"
         }
     },
     {
@@ -529,7 +688,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2100002/Card_2100002_1_c.png",
             "Normal": "Cards/2100002/Card_2100002_1_b.png",
             "Blooming_thumb": "Cards/2100002/Card_2100002_2_c.png",
-            "Blooming": "Cards/2100002/Card_2100002_2_b.png"
+            "Blooming": "Cards/2100002/Card_2100002_2_b.png",
+            "Normal_withName": "Cards/2100002/Card_2100002_1_a.png",
+            "Normal_vertical": "Cards/2100002/Card_2100002_1_d.png",
+            "Normal_withWhite": "Cards/2100002/Card_2100002_1_e.png",
+            "Blooming_withName": "Cards/2100002/Card_2100002_2_a.png",
+            "Blooming_vertical": "Cards/2100002/Card_2100002_2_d.png",
+            "Blooming_withWhite": "Cards/2100002/Card_2100002_2_e.png",
+            "Cardname": "Cards/2100002/Card_2100002_name.png"
         }
     },
     {
@@ -542,7 +708,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2110002/Card_2110002_1_c.png",
             "Normal": "Cards/2110002/Card_2110002_1_b.png",
             "Blooming_thumb": "Cards/2110002/Card_2110002_2_c.png",
-            "Blooming": "Cards/2110002/Card_2110002_2_b.png"
+            "Blooming": "Cards/2110002/Card_2110002_2_b.png",
+            "Normal_withName": "Cards/2110002/Card_2110002_1_a.png",
+            "Normal_vertical": "Cards/2110002/Card_2110002_1_d.png",
+            "Normal_withWhite": "Cards/2110002/Card_2110002_1_e.png",
+            "Blooming_withName": "Cards/2110002/Card_2110002_2_a.png",
+            "Blooming_vertical": "Cards/2110002/Card_2110002_2_d.png",
+            "Blooming_withWhite": "Cards/2110002/Card_2110002_2_e.png",
+            "Cardname": "Cards/2110002/Card_2110002_name.png"
         }
     },
     {
@@ -555,7 +728,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2120002/Card_2120002_1_c.png",
             "Normal": "Cards/2120002/Card_2120002_1_b.png",
             "Blooming_thumb": "Cards/2120002/Card_2120002_2_c.png",
-            "Blooming": "Cards/2120002/Card_2120002_2_b.png"
+            "Blooming": "Cards/2120002/Card_2120002_2_b.png",
+            "Normal_withName": "Cards/2120002/Card_2120002_1_a.png",
+            "Normal_vertical": "Cards/2120002/Card_2120002_1_d.png",
+            "Normal_withWhite": "Cards/2120002/Card_2120002_1_e.png",
+            "Blooming_withName": "Cards/2120002/Card_2120002_2_a.png",
+            "Blooming_vertical": "Cards/2120002/Card_2120002_2_d.png",
+            "Blooming_withWhite": "Cards/2120002/Card_2120002_2_e.png",
+            "Cardname": "Cards/2120002/Card_2120002_name.png"
         }
     },
     {
@@ -568,7 +748,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2130002/Card_2130002_1_c.png",
             "Normal": "Cards/2130002/Card_2130002_1_b.png",
             "Blooming_thumb": "Cards/2130002/Card_2130002_2_c.png",
-            "Blooming": "Cards/2130002/Card_2130002_2_b.png"
+            "Blooming": "Cards/2130002/Card_2130002_2_b.png",
+            "Normal_withName": "Cards/2130002/Card_2130002_1_a.png",
+            "Normal_vertical": "Cards/2130002/Card_2130002_1_d.png",
+            "Normal_withWhite": "Cards/2130002/Card_2130002_1_e.png",
+            "Blooming_withName": "Cards/2130002/Card_2130002_2_a.png",
+            "Blooming_vertical": "Cards/2130002/Card_2130002_2_d.png",
+            "Blooming_withWhite": "Cards/2130002/Card_2130002_2_e.png",
+            "Cardname": "Cards/2130002/Card_2130002_name.png"
         }
     },
     {
@@ -581,7 +768,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2140002/Card_2140002_1_c.png",
             "Normal": "Cards/2140002/Card_2140002_1_b.png",
             "Blooming_thumb": "Cards/2140002/Card_2140002_2_c.png",
-            "Blooming": "Cards/2140002/Card_2140002_2_b.png"
+            "Blooming": "Cards/2140002/Card_2140002_2_b.png",
+            "Normal_withName": "Cards/2140002/Card_2140002_1_a.png",
+            "Normal_vertical": "Cards/2140002/Card_2140002_1_d.png",
+            "Normal_withWhite": "Cards/2140002/Card_2140002_1_e.png",
+            "Blooming_withName": "Cards/2140002/Card_2140002_2_a.png",
+            "Blooming_vertical": "Cards/2140002/Card_2140002_2_d.png",
+            "Blooming_withWhite": "Cards/2140002/Card_2140002_2_e.png",
+            "Cardname": "Cards/2140002/Card_2140002_name.png"
         }
     },
     {
@@ -594,7 +788,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2150002/Card_2150002_1_c.png",
             "Normal": "Cards/2150002/Card_2150002_1_b.png",
             "Blooming_thumb": "Cards/2150002/Card_2150002_2_c.png",
-            "Blooming": "Cards/2150002/Card_2150002_2_b.png"
+            "Blooming": "Cards/2150002/Card_2150002_2_b.png",
+            "Normal_withName": "Cards/2150002/Card_2150002_1_a.png",
+            "Normal_vertical": "Cards/2150002/Card_2150002_1_d.png",
+            "Normal_withWhite": "Cards/2150002/Card_2150002_1_e.png",
+            "Blooming_withName": "Cards/2150002/Card_2150002_2_a.png",
+            "Blooming_vertical": "Cards/2150002/Card_2150002_2_d.png",
+            "Blooming_withWhite": "Cards/2150002/Card_2150002_2_e.png",
+            "Cardname": "Cards/2150002/Card_2150002_name.png"
         }
     },
     {
@@ -607,7 +808,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2160002/Card_2160002_1_c.png",
             "Normal": "Cards/2160002/Card_2160002_1_b.png",
             "Blooming_thumb": "Cards/2160002/Card_2160002_2_c.png",
-            "Blooming": "Cards/2160002/Card_2160002_2_b.png"
+            "Blooming": "Cards/2160002/Card_2160002_2_b.png",
+            "Normal_withName": "Cards/2160002/Card_2160002_1_a.png",
+            "Normal_vertical": "Cards/2160002/Card_2160002_1_d.png",
+            "Normal_withWhite": "Cards/2160002/Card_2160002_1_e.png",
+            "Blooming_withName": "Cards/2160002/Card_2160002_2_a.png",
+            "Blooming_vertical": "Cards/2160002/Card_2160002_2_d.png",
+            "Blooming_withWhite": "Cards/2160002/Card_2160002_2_e.png",
+            "Cardname": "Cards/2160002/Card_2160002_name.png"
         }
     },
     {
@@ -620,7 +828,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2010003/Card_2010003_1_c.png",
             "Normal": "Cards/2010003/Card_2010003_1_b.png",
             "Blooming_thumb": "Cards/2010003/Card_2010003_2_c.png",
-            "Blooming": "Cards/2010003/Card_2010003_2_b.png"
+            "Blooming": "Cards/2010003/Card_2010003_2_b.png",
+            "Normal_withName": "Cards/2010003/Card_2010003_1_a.png",
+            "Normal_vertical": "Cards/2010003/Card_2010003_1_d.png",
+            "Normal_withWhite": "Cards/2010003/Card_2010003_1_e.png",
+            "Blooming_withName": "Cards/2010003/Card_2010003_2_a.png",
+            "Blooming_vertical": "Cards/2010003/Card_2010003_2_d.png",
+            "Blooming_withWhite": "Cards/2010003/Card_2010003_2_e.png",
+            "Cardname": "Cards/2010003/Card_2010003_name.png"
         }
     },
     {
@@ -633,7 +848,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2020003/Card_2020003_1_c.png",
             "Normal": "Cards/2020003/Card_2020003_1_b.png",
             "Blooming_thumb": "Cards/2020003/Card_2020003_2_c.png",
-            "Blooming": "Cards/2020003/Card_2020003_2_b.png"
+            "Blooming": "Cards/2020003/Card_2020003_2_b.png",
+            "Normal_withName": "Cards/2020003/Card_2020003_1_a.png",
+            "Normal_vertical": "Cards/2020003/Card_2020003_1_d.png",
+            "Normal_withWhite": "Cards/2020003/Card_2020003_1_e.png",
+            "Blooming_withName": "Cards/2020003/Card_2020003_2_a.png",
+            "Blooming_vertical": "Cards/2020003/Card_2020003_2_d.png",
+            "Blooming_withWhite": "Cards/2020003/Card_2020003_2_e.png",
+            "Cardname": "Cards/2020003/Card_2020003_name.png"
         }
     },
     {
@@ -646,7 +868,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2030003/Card_2030003_1_c.png",
             "Normal": "Cards/2030003/Card_2030003_1_b.png",
             "Blooming_thumb": "Cards/2030003/Card_2030003_2_c.png",
-            "Blooming": "Cards/2030003/Card_2030003_2_b.png"
+            "Blooming": "Cards/2030003/Card_2030003_2_b.png",
+            "Normal_withName": "Cards/2030003/Card_2030003_1_a.png",
+            "Normal_vertical": "Cards/2030003/Card_2030003_1_d.png",
+            "Normal_withWhite": "Cards/2030003/Card_2030003_1_e.png",
+            "Blooming_withName": "Cards/2030003/Card_2030003_2_a.png",
+            "Blooming_vertical": "Cards/2030003/Card_2030003_2_d.png",
+            "Blooming_withWhite": "Cards/2030003/Card_2030003_2_e.png",
+            "Cardname": "Cards/2030003/Card_2030003_name.png"
         }
     },
     {
@@ -659,7 +888,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2040003/Card_2040003_1_c.png",
             "Normal": "Cards/2040003/Card_2040003_1_b.png",
             "Blooming_thumb": "Cards/2040003/Card_2040003_2_c.png",
-            "Blooming": "Cards/2040003/Card_2040003_2_b.png"
+            "Blooming": "Cards/2040003/Card_2040003_2_b.png",
+            "Normal_withName": "Cards/2040003/Card_2040003_1_a.png",
+            "Normal_vertical": "Cards/2040003/Card_2040003_1_d.png",
+            "Normal_withWhite": "Cards/2040003/Card_2040003_1_e.png",
+            "Blooming_withName": "Cards/2040003/Card_2040003_2_a.png",
+            "Blooming_vertical": "Cards/2040003/Card_2040003_2_d.png",
+            "Blooming_withWhite": "Cards/2040003/Card_2040003_2_e.png",
+            "Cardname": "Cards/2040003/Card_2040003_name.png"
         }
     },
     {
@@ -672,7 +908,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2050003/Card_2050003_1_c.png",
             "Normal": "Cards/2050003/Card_2050003_1_b.png",
             "Blooming_thumb": "Cards/2050003/Card_2050003_2_c.png",
-            "Blooming": "Cards/2050003/Card_2050003_2_b.png"
+            "Blooming": "Cards/2050003/Card_2050003_2_b.png",
+            "Normal_withName": "Cards/2050003/Card_2050003_1_a.png",
+            "Normal_vertical": "Cards/2050003/Card_2050003_1_d.png",
+            "Normal_withWhite": "Cards/2050003/Card_2050003_1_e.png",
+            "Blooming_withName": "Cards/2050003/Card_2050003_2_a.png",
+            "Blooming_vertical": "Cards/2050003/Card_2050003_2_d.png",
+            "Blooming_withWhite": "Cards/2050003/Card_2050003_2_e.png",
+            "Cardname": "Cards/2050003/Card_2050003_name.png"
         }
     },
     {
@@ -685,7 +928,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2060003/Card_2060003_1_c.png",
             "Normal": "Cards/2060003/Card_2060003_1_b.png",
             "Blooming_thumb": "Cards/2060003/Card_2060003_2_c.png",
-            "Blooming": "Cards/2060003/Card_2060003_2_b.png"
+            "Blooming": "Cards/2060003/Card_2060003_2_b.png",
+            "Normal_withName": "Cards/2060003/Card_2060003_1_a.png",
+            "Normal_vertical": "Cards/2060003/Card_2060003_1_d.png",
+            "Normal_withWhite": "Cards/2060003/Card_2060003_1_e.png",
+            "Blooming_withName": "Cards/2060003/Card_2060003_2_a.png",
+            "Blooming_vertical": "Cards/2060003/Card_2060003_2_d.png",
+            "Blooming_withWhite": "Cards/2060003/Card_2060003_2_e.png",
+            "Cardname": "Cards/2060003/Card_2060003_name.png"
         }
     },
     {
@@ -698,7 +948,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2070003/Card_2070003_1_c.png",
             "Normal": "Cards/2070003/Card_2070003_1_b.png",
             "Blooming_thumb": "Cards/2070003/Card_2070003_2_c.png",
-            "Blooming": "Cards/2070003/Card_2070003_2_b.png"
+            "Blooming": "Cards/2070003/Card_2070003_2_b.png",
+            "Normal_withName": "Cards/2070003/Card_2070003_1_a.png",
+            "Normal_vertical": "Cards/2070003/Card_2070003_1_d.png",
+            "Normal_withWhite": "Cards/2070003/Card_2070003_1_e.png",
+            "Blooming_withName": "Cards/2070003/Card_2070003_2_a.png",
+            "Blooming_vertical": "Cards/2070003/Card_2070003_2_d.png",
+            "Blooming_withWhite": "Cards/2070003/Card_2070003_2_e.png",
+            "Cardname": "Cards/2070003/Card_2070003_name.png"
         }
     },
     {
@@ -711,7 +968,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2080003/Card_2080003_1_c.png",
             "Normal": "Cards/2080003/Card_2080003_1_b.png",
             "Blooming_thumb": "Cards/2080003/Card_2080003_2_c.png",
-            "Blooming": "Cards/2080003/Card_2080003_2_b.png"
+            "Blooming": "Cards/2080003/Card_2080003_2_b.png",
+            "Normal_withName": "Cards/2080003/Card_2080003_1_a.png",
+            "Normal_vertical": "Cards/2080003/Card_2080003_1_d.png",
+            "Normal_withWhite": "Cards/2080003/Card_2080003_1_e.png",
+            "Blooming_withName": "Cards/2080003/Card_2080003_2_a.png",
+            "Blooming_vertical": "Cards/2080003/Card_2080003_2_d.png",
+            "Blooming_withWhite": "Cards/2080003/Card_2080003_2_e.png",
+            "Cardname": "Cards/2080003/Card_2080003_name.png"
         }
     },
     {
@@ -724,7 +988,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2090003/Card_2090003_1_c.png",
             "Normal": "Cards/2090003/Card_2090003_1_b.png",
             "Blooming_thumb": "Cards/2090003/Card_2090003_2_c.png",
-            "Blooming": "Cards/2090003/Card_2090003_2_b.png"
+            "Blooming": "Cards/2090003/Card_2090003_2_b.png",
+            "Normal_withName": "Cards/2090003/Card_2090003_1_a.png",
+            "Normal_vertical": "Cards/2090003/Card_2090003_1_d.png",
+            "Normal_withWhite": "Cards/2090003/Card_2090003_1_e.png",
+            "Blooming_withName": "Cards/2090003/Card_2090003_2_a.png",
+            "Blooming_vertical": "Cards/2090003/Card_2090003_2_d.png",
+            "Blooming_withWhite": "Cards/2090003/Card_2090003_2_e.png",
+            "Cardname": "Cards/2090003/Card_2090003_name.png"
         }
     },
     {
@@ -737,7 +1008,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2100003/Card_2100003_1_c.png",
             "Normal": "Cards/2100003/Card_2100003_1_b.png",
             "Blooming_thumb": "Cards/2100003/Card_2100003_2_c.png",
-            "Blooming": "Cards/2100003/Card_2100003_2_b.png"
+            "Blooming": "Cards/2100003/Card_2100003_2_b.png",
+            "Normal_withName": "Cards/2100003/Card_2100003_1_a.png",
+            "Normal_vertical": "Cards/2100003/Card_2100003_1_d.png",
+            "Normal_withWhite": "Cards/2100003/Card_2100003_1_e.png",
+            "Blooming_withName": "Cards/2100003/Card_2100003_2_a.png",
+            "Blooming_vertical": "Cards/2100003/Card_2100003_2_d.png",
+            "Blooming_withWhite": "Cards/2100003/Card_2100003_2_e.png",
+            "Cardname": "Cards/2100003/Card_2100003_name.png"
         }
     },
     {
@@ -750,7 +1028,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2110003/Card_2110003_1_c.png",
             "Normal": "Cards/2110003/Card_2110003_1_b.png",
             "Blooming_thumb": "Cards/2110003/Card_2110003_2_c.png",
-            "Blooming": "Cards/2110003/Card_2110003_2_b.png"
+            "Blooming": "Cards/2110003/Card_2110003_2_b.png",
+            "Normal_withName": "Cards/2110003/Card_2110003_1_a.png",
+            "Normal_vertical": "Cards/2110003/Card_2110003_1_d.png",
+            "Normal_withWhite": "Cards/2110003/Card_2110003_1_e.png",
+            "Blooming_withName": "Cards/2110003/Card_2110003_2_a.png",
+            "Blooming_vertical": "Cards/2110003/Card_2110003_2_d.png",
+            "Blooming_withWhite": "Cards/2110003/Card_2110003_2_e.png",
+            "Cardname": "Cards/2110003/Card_2110003_name.png"
         }
     },
     {
@@ -763,7 +1048,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2120003/Card_2120003_1_c.png",
             "Normal": "Cards/2120003/Card_2120003_1_b.png",
             "Blooming_thumb": "Cards/2120003/Card_2120003_2_c.png",
-            "Blooming": "Cards/2120003/Card_2120003_2_b.png"
+            "Blooming": "Cards/2120003/Card_2120003_2_b.png",
+            "Normal_withName": "Cards/2120003/Card_2120003_1_a.png",
+            "Normal_vertical": "Cards/2120003/Card_2120003_1_d.png",
+            "Normal_withWhite": "Cards/2120003/Card_2120003_1_e.png",
+            "Blooming_withName": "Cards/2120003/Card_2120003_2_a.png",
+            "Blooming_vertical": "Cards/2120003/Card_2120003_2_d.png",
+            "Blooming_withWhite": "Cards/2120003/Card_2120003_2_e.png",
+            "Cardname": "Cards/2120003/Card_2120003_name.png"
         }
     },
     {
@@ -776,7 +1068,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2130003/Card_2130003_1_c.png",
             "Normal": "Cards/2130003/Card_2130003_1_b.png",
             "Blooming_thumb": "Cards/2130003/Card_2130003_2_c.png",
-            "Blooming": "Cards/2130003/Card_2130003_2_b.png"
+            "Blooming": "Cards/2130003/Card_2130003_2_b.png",
+            "Normal_withName": "Cards/2130003/Card_2130003_1_a.png",
+            "Normal_vertical": "Cards/2130003/Card_2130003_1_d.png",
+            "Normal_withWhite": "Cards/2130003/Card_2130003_1_e.png",
+            "Blooming_withName": "Cards/2130003/Card_2130003_2_a.png",
+            "Blooming_vertical": "Cards/2130003/Card_2130003_2_d.png",
+            "Blooming_withWhite": "Cards/2130003/Card_2130003_2_e.png",
+            "Cardname": "Cards/2130003/Card_2130003_name.png"
         }
     },
     {
@@ -789,7 +1088,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2140003/Card_2140003_1_c.png",
             "Normal": "Cards/2140003/Card_2140003_1_b.png",
             "Blooming_thumb": "Cards/2140003/Card_2140003_2_c.png",
-            "Blooming": "Cards/2140003/Card_2140003_2_b.png"
+            "Blooming": "Cards/2140003/Card_2140003_2_b.png",
+            "Normal_withName": "Cards/2140003/Card_2140003_1_a.png",
+            "Normal_vertical": "Cards/2140003/Card_2140003_1_d.png",
+            "Normal_withWhite": "Cards/2140003/Card_2140003_1_e.png",
+            "Blooming_withName": "Cards/2140003/Card_2140003_2_a.png",
+            "Blooming_vertical": "Cards/2140003/Card_2140003_2_d.png",
+            "Blooming_withWhite": "Cards/2140003/Card_2140003_2_e.png",
+            "Cardname": "Cards/2140003/Card_2140003_name.png"
         }
     },
     {
@@ -802,7 +1108,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2150003/Card_2150003_1_c.png",
             "Normal": "Cards/2150003/Card_2150003_1_b.png",
             "Blooming_thumb": "Cards/2150003/Card_2150003_2_c.png",
-            "Blooming": "Cards/2150003/Card_2150003_2_b.png"
+            "Blooming": "Cards/2150003/Card_2150003_2_b.png",
+            "Normal_withName": "Cards/2150003/Card_2150003_1_a.png",
+            "Normal_vertical": "Cards/2150003/Card_2150003_1_d.png",
+            "Normal_withWhite": "Cards/2150003/Card_2150003_1_e.png",
+            "Blooming_withName": "Cards/2150003/Card_2150003_2_a.png",
+            "Blooming_vertical": "Cards/2150003/Card_2150003_2_d.png",
+            "Blooming_withWhite": "Cards/2150003/Card_2150003_2_e.png",
+            "Cardname": "Cards/2150003/Card_2150003_name.png"
         }
     },
     {
@@ -815,7 +1128,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/2160003/Card_2160003_1_c.png",
             "Normal": "Cards/2160003/Card_2160003_1_b.png",
             "Blooming_thumb": "Cards/2160003/Card_2160003_2_c.png",
-            "Blooming": "Cards/2160003/Card_2160003_2_b.png"
+            "Blooming": "Cards/2160003/Card_2160003_2_b.png",
+            "Normal_withName": "Cards/2160003/Card_2160003_1_a.png",
+            "Normal_vertical": "Cards/2160003/Card_2160003_1_d.png",
+            "Normal_withWhite": "Cards/2160003/Card_2160003_1_e.png",
+            "Blooming_withName": "Cards/2160003/Card_2160003_2_a.png",
+            "Blooming_vertical": "Cards/2160003/Card_2160003_2_d.png",
+            "Blooming_withWhite": "Cards/2160003/Card_2160003_2_e.png",
+            "Cardname": "Cards/2160003/Card_2160003_name.png"
         }
     },
     {
@@ -828,7 +1148,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3010004/Card_3010004_1_c.png",
             "Normal": "Cards/3010004/Card_3010004_1_b.png",
             "Blooming_thumb": "Cards/3010004/Card_3010004_2_c.png",
-            "Blooming": "Cards/3010004/Card_3010004_2_b.png"
+            "Blooming": "Cards/3010004/Card_3010004_2_b.png",
+            "Normal_withName": "Cards/3010004/Card_3010004_1_a.png",
+            "Normal_vertical": "Cards/3010004/Card_3010004_1_d.png",
+            "Normal_withWhite": "Cards/3010004/Card_3010004_1_e.png",
+            "Blooming_withName": "Cards/3010004/Card_3010004_2_a.png",
+            "Blooming_vertical": "Cards/3010004/Card_3010004_2_d.png",
+            "Blooming_withWhite": "Cards/3010004/Card_3010004_2_e.png",
+            "Cardname": "Cards/3010004/Card_3010004_name.png"
         }
     },
     {
@@ -841,7 +1168,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3020004/Card_3020004_1_c.png",
             "Normal": "Cards/3020004/Card_3020004_1_b.png",
             "Blooming_thumb": "Cards/3020004/Card_3020004_2_c.png",
-            "Blooming": "Cards/3020004/Card_3020004_2_b.png"
+            "Blooming": "Cards/3020004/Card_3020004_2_b.png",
+            "Normal_withName": "Cards/3020004/Card_3020004_1_a.png",
+            "Normal_vertical": "Cards/3020004/Card_3020004_1_d.png",
+            "Normal_withWhite": "Cards/3020004/Card_3020004_1_e.png",
+            "Blooming_withName": "Cards/3020004/Card_3020004_2_a.png",
+            "Blooming_vertical": "Cards/3020004/Card_3020004_2_d.png",
+            "Blooming_withWhite": "Cards/3020004/Card_3020004_2_e.png",
+            "Cardname": "Cards/3020004/Card_3020004_name.png"
         }
     },
     {
@@ -854,7 +1188,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3030004/Card_3030004_1_c.png",
             "Normal": "Cards/3030004/Card_3030004_1_b.png",
             "Blooming_thumb": "Cards/3030004/Card_3030004_2_c.png",
-            "Blooming": "Cards/3030004/Card_3030004_2_b.png"
+            "Blooming": "Cards/3030004/Card_3030004_2_b.png",
+            "Normal_withName": "Cards/3030004/Card_3030004_1_a.png",
+            "Normal_vertical": "Cards/3030004/Card_3030004_1_d.png",
+            "Normal_withWhite": "Cards/3030004/Card_3030004_1_e.png",
+            "Blooming_withName": "Cards/3030004/Card_3030004_2_a.png",
+            "Blooming_vertical": "Cards/3030004/Card_3030004_2_d.png",
+            "Blooming_withWhite": "Cards/3030004/Card_3030004_2_e.png",
+            "Cardname": "Cards/3030004/Card_3030004_name.png"
         }
     },
     {
@@ -867,7 +1208,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3040004/Card_3040004_1_c.png",
             "Normal": "Cards/3040004/Card_3040004_1_b.png",
             "Blooming_thumb": "Cards/3040004/Card_3040004_2_c.png",
-            "Blooming": "Cards/3040004/Card_3040004_2_b.png"
+            "Blooming": "Cards/3040004/Card_3040004_2_b.png",
+            "Normal_withName": "Cards/3040004/Card_3040004_1_a.png",
+            "Normal_vertical": "Cards/3040004/Card_3040004_1_d.png",
+            "Normal_withWhite": "Cards/3040004/Card_3040004_1_e.png",
+            "Blooming_withName": "Cards/3040004/Card_3040004_2_a.png",
+            "Blooming_vertical": "Cards/3040004/Card_3040004_2_d.png",
+            "Blooming_withWhite": "Cards/3040004/Card_3040004_2_e.png",
+            "Cardname": "Cards/3040004/Card_3040004_name.png"
         }
     },
     {
@@ -880,7 +1228,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3050004/Card_3050004_1_c.png",
             "Normal": "Cards/3050004/Card_3050004_1_b.png",
             "Blooming_thumb": "Cards/3050004/Card_3050004_2_c.png",
-            "Blooming": "Cards/3050004/Card_3050004_2_b.png"
+            "Blooming": "Cards/3050004/Card_3050004_2_b.png",
+            "Normal_withName": "Cards/3050004/Card_3050004_1_a.png",
+            "Normal_vertical": "Cards/3050004/Card_3050004_1_d.png",
+            "Normal_withWhite": "Cards/3050004/Card_3050004_1_e.png",
+            "Blooming_withName": "Cards/3050004/Card_3050004_2_a.png",
+            "Blooming_vertical": "Cards/3050004/Card_3050004_2_d.png",
+            "Blooming_withWhite": "Cards/3050004/Card_3050004_2_e.png",
+            "Cardname": "Cards/3050004/Card_3050004_name.png"
         }
     },
     {
@@ -893,7 +1248,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3060004/Card_3060004_1_c.png",
             "Normal": "Cards/3060004/Card_3060004_1_b.png",
             "Blooming_thumb": "Cards/3060004/Card_3060004_2_c.png",
-            "Blooming": "Cards/3060004/Card_3060004_2_b.png"
+            "Blooming": "Cards/3060004/Card_3060004_2_b.png",
+            "Normal_withName": "Cards/3060004/Card_3060004_1_a.png",
+            "Normal_vertical": "Cards/3060004/Card_3060004_1_d.png",
+            "Normal_withWhite": "Cards/3060004/Card_3060004_1_e.png",
+            "Blooming_withName": "Cards/3060004/Card_3060004_2_a.png",
+            "Blooming_vertical": "Cards/3060004/Card_3060004_2_d.png",
+            "Blooming_withWhite": "Cards/3060004/Card_3060004_2_e.png",
+            "Cardname": "Cards/3060004/Card_3060004_name.png"
         }
     },
     {
@@ -906,7 +1268,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3070004/Card_3070004_1_c.png",
             "Normal": "Cards/3070004/Card_3070004_1_b.png",
             "Blooming_thumb": "Cards/3070004/Card_3070004_2_c.png",
-            "Blooming": "Cards/3070004/Card_3070004_2_b.png"
+            "Blooming": "Cards/3070004/Card_3070004_2_b.png",
+            "Normal_withName": "Cards/3070004/Card_3070004_1_a.png",
+            "Normal_vertical": "Cards/3070004/Card_3070004_1_d.png",
+            "Normal_withWhite": "Cards/3070004/Card_3070004_1_e.png",
+            "Blooming_withName": "Cards/3070004/Card_3070004_2_a.png",
+            "Blooming_vertical": "Cards/3070004/Card_3070004_2_d.png",
+            "Blooming_withWhite": "Cards/3070004/Card_3070004_2_e.png",
+            "Cardname": "Cards/3070004/Card_3070004_name.png"
         }
     },
     {
@@ -919,7 +1288,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3080004/Card_3080004_1_c.png",
             "Normal": "Cards/3080004/Card_3080004_1_b.png",
             "Blooming_thumb": "Cards/3080004/Card_3080004_2_c.png",
-            "Blooming": "Cards/3080004/Card_3080004_2_b.png"
+            "Blooming": "Cards/3080004/Card_3080004_2_b.png",
+            "Normal_withName": "Cards/3080004/Card_3080004_1_a.png",
+            "Normal_vertical": "Cards/3080004/Card_3080004_1_d.png",
+            "Normal_withWhite": "Cards/3080004/Card_3080004_1_e.png",
+            "Blooming_withName": "Cards/3080004/Card_3080004_2_a.png",
+            "Blooming_vertical": "Cards/3080004/Card_3080004_2_d.png",
+            "Blooming_withWhite": "Cards/3080004/Card_3080004_2_e.png",
+            "Cardname": "Cards/3080004/Card_3080004_name.png"
         }
     },
     {
@@ -932,7 +1308,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3090004/Card_3090004_1_c.png",
             "Normal": "Cards/3090004/Card_3090004_1_b.png",
             "Blooming_thumb": "Cards/3090004/Card_3090004_2_c.png",
-            "Blooming": "Cards/3090004/Card_3090004_2_b.png"
+            "Blooming": "Cards/3090004/Card_3090004_2_b.png",
+            "Normal_withName": "Cards/3090004/Card_3090004_1_a.png",
+            "Normal_vertical": "Cards/3090004/Card_3090004_1_d.png",
+            "Normal_withWhite": "Cards/3090004/Card_3090004_1_e.png",
+            "Blooming_withName": "Cards/3090004/Card_3090004_2_a.png",
+            "Blooming_vertical": "Cards/3090004/Card_3090004_2_d.png",
+            "Blooming_withWhite": "Cards/3090004/Card_3090004_2_e.png",
+            "Cardname": "Cards/3090004/Card_3090004_name.png"
         }
     },
     {
@@ -945,7 +1328,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3100004/Card_3100004_1_c.png",
             "Normal": "Cards/3100004/Card_3100004_1_b.png",
             "Blooming_thumb": "Cards/3100004/Card_3100004_2_c.png",
-            "Blooming": "Cards/3100004/Card_3100004_2_b.png"
+            "Blooming": "Cards/3100004/Card_3100004_2_b.png",
+            "Normal_withName": "Cards/3100004/Card_3100004_1_a.png",
+            "Normal_vertical": "Cards/3100004/Card_3100004_1_d.png",
+            "Normal_withWhite": "Cards/3100004/Card_3100004_1_e.png",
+            "Blooming_withName": "Cards/3100004/Card_3100004_2_a.png",
+            "Blooming_vertical": "Cards/3100004/Card_3100004_2_d.png",
+            "Blooming_withWhite": "Cards/3100004/Card_3100004_2_e.png",
+            "Cardname": "Cards/3100004/Card_3100004_name.png"
         }
     },
     {
@@ -958,7 +1348,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3110004/Card_3110004_1_c.png",
             "Normal": "Cards/3110004/Card_3110004_1_b.png",
             "Blooming_thumb": "Cards/3110004/Card_3110004_2_c.png",
-            "Blooming": "Cards/3110004/Card_3110004_2_b.png"
+            "Blooming": "Cards/3110004/Card_3110004_2_b.png",
+            "Normal_withName": "Cards/3110004/Card_3110004_1_a.png",
+            "Normal_vertical": "Cards/3110004/Card_3110004_1_d.png",
+            "Normal_withWhite": "Cards/3110004/Card_3110004_1_e.png",
+            "Blooming_withName": "Cards/3110004/Card_3110004_2_a.png",
+            "Blooming_vertical": "Cards/3110004/Card_3110004_2_d.png",
+            "Blooming_withWhite": "Cards/3110004/Card_3110004_2_e.png",
+            "Cardname": "Cards/3110004/Card_3110004_name.png"
         }
     },
     {
@@ -971,7 +1368,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3120004/Card_3120004_1_c.png",
             "Normal": "Cards/3120004/Card_3120004_1_b.png",
             "Blooming_thumb": "Cards/3120004/Card_3120004_2_c.png",
-            "Blooming": "Cards/3120004/Card_3120004_2_b.png"
+            "Blooming": "Cards/3120004/Card_3120004_2_b.png",
+            "Normal_withName": "Cards/3120004/Card_3120004_1_a.png",
+            "Normal_vertical": "Cards/3120004/Card_3120004_1_d.png",
+            "Normal_withWhite": "Cards/3120004/Card_3120004_1_e.png",
+            "Blooming_withName": "Cards/3120004/Card_3120004_2_a.png",
+            "Blooming_vertical": "Cards/3120004/Card_3120004_2_d.png",
+            "Blooming_withWhite": "Cards/3120004/Card_3120004_2_e.png",
+            "Cardname": "Cards/3120004/Card_3120004_name.png"
         }
     },
     {
@@ -984,7 +1388,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3130004/Card_3130004_1_c.png",
             "Normal": "Cards/3130004/Card_3130004_1_b.png",
             "Blooming_thumb": "Cards/3130004/Card_3130004_2_c.png",
-            "Blooming": "Cards/3130004/Card_3130004_2_b.png"
+            "Blooming": "Cards/3130004/Card_3130004_2_b.png",
+            "Normal_withName": "Cards/3130004/Card_3130004_1_a.png",
+            "Normal_vertical": "Cards/3130004/Card_3130004_1_d.png",
+            "Normal_withWhite": "Cards/3130004/Card_3130004_1_e.png",
+            "Blooming_withName": "Cards/3130004/Card_3130004_2_a.png",
+            "Blooming_vertical": "Cards/3130004/Card_3130004_2_d.png",
+            "Blooming_withWhite": "Cards/3130004/Card_3130004_2_e.png",
+            "Cardname": "Cards/3130004/Card_3130004_name.png"
         }
     },
     {
@@ -997,7 +1408,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3140004/Card_3140004_1_c.png",
             "Normal": "Cards/3140004/Card_3140004_1_b.png",
             "Blooming_thumb": "Cards/3140004/Card_3140004_2_c.png",
-            "Blooming": "Cards/3140004/Card_3140004_2_b.png"
+            "Blooming": "Cards/3140004/Card_3140004_2_b.png",
+            "Normal_withName": "Cards/3140004/Card_3140004_1_a.png",
+            "Normal_vertical": "Cards/3140004/Card_3140004_1_d.png",
+            "Normal_withWhite": "Cards/3140004/Card_3140004_1_e.png",
+            "Blooming_withName": "Cards/3140004/Card_3140004_2_a.png",
+            "Blooming_vertical": "Cards/3140004/Card_3140004_2_d.png",
+            "Blooming_withWhite": "Cards/3140004/Card_3140004_2_e.png",
+            "Cardname": "Cards/3140004/Card_3140004_name.png"
         }
     },
     {
@@ -1010,7 +1428,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3150004/Card_3150004_1_c.png",
             "Normal": "Cards/3150004/Card_3150004_1_b.png",
             "Blooming_thumb": "Cards/3150004/Card_3150004_2_c.png",
-            "Blooming": "Cards/3150004/Card_3150004_2_b.png"
+            "Blooming": "Cards/3150004/Card_3150004_2_b.png",
+            "Normal_withName": "Cards/3150004/Card_3150004_1_a.png",
+            "Normal_vertical": "Cards/3150004/Card_3150004_1_d.png",
+            "Normal_withWhite": "Cards/3150004/Card_3150004_1_e.png",
+            "Blooming_withName": "Cards/3150004/Card_3150004_2_a.png",
+            "Blooming_vertical": "Cards/3150004/Card_3150004_2_d.png",
+            "Blooming_withWhite": "Cards/3150004/Card_3150004_2_e.png",
+            "Cardname": "Cards/3150004/Card_3150004_name.png"
         }
     },
     {
@@ -1023,7 +1448,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3160004/Card_3160004_1_c.png",
             "Normal": "Cards/3160004/Card_3160004_1_b.png",
             "Blooming_thumb": "Cards/3160004/Card_3160004_2_c.png",
-            "Blooming": "Cards/3160004/Card_3160004_2_b.png"
+            "Blooming": "Cards/3160004/Card_3160004_2_b.png",
+            "Normal_withName": "Cards/3160004/Card_3160004_1_a.png",
+            "Normal_vertical": "Cards/3160004/Card_3160004_1_d.png",
+            "Normal_withWhite": "Cards/3160004/Card_3160004_1_e.png",
+            "Blooming_withName": "Cards/3160004/Card_3160004_2_a.png",
+            "Blooming_vertical": "Cards/3160004/Card_3160004_2_d.png",
+            "Blooming_withWhite": "Cards/3160004/Card_3160004_2_e.png",
+            "Cardname": "Cards/3160004/Card_3160004_name.png"
         }
     },
     {
@@ -1036,7 +1468,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010005/Card_4010005_1_c.png",
             "Normal": "Cards/4010005/Card_4010005_1_b.png",
             "Blooming_thumb": "Cards/4010005/Card_4010005_2_c.png",
-            "Blooming": "Cards/4010005/Card_4010005_2_b.png"
+            "Blooming": "Cards/4010005/Card_4010005_2_b.png",
+            "Normal_withName": "Cards/4010005/Card_4010005_1_a.png",
+            "Normal_vertical": "Cards/4010005/Card_4010005_1_d.png",
+            "Normal_withWhite": "Cards/4010005/Card_4010005_1_e.png",
+            "Blooming_withName": "Cards/4010005/Card_4010005_2_a.png",
+            "Blooming_vertical": "Cards/4010005/Card_4010005_2_d.png",
+            "Blooming_withWhite": "Cards/4010005/Card_4010005_2_e.png",
+            "Cardname": "Cards/4010005/Card_4010005_name.png",
+            "GachaText": "Cards/4010005/Card_4010005_gachatext.png"
         }
     },
     {
@@ -1049,7 +1489,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4020005/Card_4020005_1_c.png",
             "Normal": "Cards/4020005/Card_4020005_1_b.png",
             "Blooming_thumb": "Cards/4020005/Card_4020005_2_c.png",
-            "Blooming": "Cards/4020005/Card_4020005_2_b.png"
+            "Blooming": "Cards/4020005/Card_4020005_2_b.png",
+            "Normal_withName": "Cards/4020005/Card_4020005_1_a.png",
+            "Normal_vertical": "Cards/4020005/Card_4020005_1_d.png",
+            "Normal_withWhite": "Cards/4020005/Card_4020005_1_e.png",
+            "Blooming_withName": "Cards/4020005/Card_4020005_2_a.png",
+            "Blooming_vertical": "Cards/4020005/Card_4020005_2_d.png",
+            "Blooming_withWhite": "Cards/4020005/Card_4020005_2_e.png",
+            "Cardname": "Cards/4020005/Card_4020005_name.png",
+            "GachaText": "Cards/4020005/Card_4020005_gachatext.png"
         }
     },
     {
@@ -1062,7 +1510,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4030005/Card_4030005_1_c.png",
             "Normal": "Cards/4030005/Card_4030005_1_b.png",
             "Blooming_thumb": "Cards/4030005/Card_4030005_2_c.png",
-            "Blooming": "Cards/4030005/Card_4030005_2_b.png"
+            "Blooming": "Cards/4030005/Card_4030005_2_b.png",
+            "Normal_withName": "Cards/4030005/Card_4030005_1_a.png",
+            "Normal_vertical": "Cards/4030005/Card_4030005_1_d.png",
+            "Normal_withWhite": "Cards/4030005/Card_4030005_1_e.png",
+            "Blooming_withName": "Cards/4030005/Card_4030005_2_a.png",
+            "Blooming_vertical": "Cards/4030005/Card_4030005_2_d.png",
+            "Blooming_withWhite": "Cards/4030005/Card_4030005_2_e.png",
+            "Cardname": "Cards/4030005/Card_4030005_name.png",
+            "GachaText": "Cards/4030005/Card_4030005_gachatext.png"
         }
     },
     {
@@ -1075,7 +1531,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040005/Card_4040005_1_c.png",
             "Normal": "Cards/4040005/Card_4040005_1_b.png",
             "Blooming_thumb": "Cards/4040005/Card_4040005_2_c.png",
-            "Blooming": "Cards/4040005/Card_4040005_2_b.png"
+            "Blooming": "Cards/4040005/Card_4040005_2_b.png",
+            "Normal_withName": "Cards/4040005/Card_4040005_1_a.png",
+            "Normal_vertical": "Cards/4040005/Card_4040005_1_d.png",
+            "Normal_withWhite": "Cards/4040005/Card_4040005_1_e.png",
+            "Blooming_withName": "Cards/4040005/Card_4040005_2_a.png",
+            "Blooming_vertical": "Cards/4040005/Card_4040005_2_d.png",
+            "Blooming_withWhite": "Cards/4040005/Card_4040005_2_e.png",
+            "Cardname": "Cards/4040005/Card_4040005_name.png",
+            "GachaText": "Cards/4040005/Card_4040005_gachatext.png"
         }
     },
     {
@@ -1088,7 +1552,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050005/Card_4050005_1_c.png",
             "Normal": "Cards/4050005/Card_4050005_1_b.png",
             "Blooming_thumb": "Cards/4050005/Card_4050005_2_c.png",
-            "Blooming": "Cards/4050005/Card_4050005_2_b.png"
+            "Blooming": "Cards/4050005/Card_4050005_2_b.png",
+            "Normal_withName": "Cards/4050005/Card_4050005_1_a.png",
+            "Normal_vertical": "Cards/4050005/Card_4050005_1_d.png",
+            "Normal_withWhite": "Cards/4050005/Card_4050005_1_e.png",
+            "Blooming_withName": "Cards/4050005/Card_4050005_2_a.png",
+            "Blooming_vertical": "Cards/4050005/Card_4050005_2_d.png",
+            "Blooming_withWhite": "Cards/4050005/Card_4050005_2_e.png",
+            "Cardname": "Cards/4050005/Card_4050005_name.png",
+            "GachaText": "Cards/4050005/Card_4050005_gachatext.png"
         }
     },
     {
@@ -1101,7 +1573,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060005/Card_4060005_1_c.png",
             "Normal": "Cards/4060005/Card_4060005_1_b.png",
             "Blooming_thumb": "Cards/4060005/Card_4060005_2_c.png",
-            "Blooming": "Cards/4060005/Card_4060005_2_b.png"
+            "Blooming": "Cards/4060005/Card_4060005_2_b.png",
+            "Normal_withName": "Cards/4060005/Card_4060005_1_a.png",
+            "Normal_vertical": "Cards/4060005/Card_4060005_1_d.png",
+            "Normal_withWhite": "Cards/4060005/Card_4060005_1_e.png",
+            "Blooming_withName": "Cards/4060005/Card_4060005_2_a.png",
+            "Blooming_vertical": "Cards/4060005/Card_4060005_2_d.png",
+            "Blooming_withWhite": "Cards/4060005/Card_4060005_2_e.png",
+            "Cardname": "Cards/4060005/Card_4060005_name.png",
+            "GachaText": "Cards/4060005/Card_4060005_gachatext.png"
         }
     },
     {
@@ -1114,7 +1594,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070005/Card_4070005_1_c.png",
             "Normal": "Cards/4070005/Card_4070005_1_b.png",
             "Blooming_thumb": "Cards/4070005/Card_4070005_2_c.png",
-            "Blooming": "Cards/4070005/Card_4070005_2_b.png"
+            "Blooming": "Cards/4070005/Card_4070005_2_b.png",
+            "Normal_withName": "Cards/4070005/Card_4070005_1_a.png",
+            "Normal_vertical": "Cards/4070005/Card_4070005_1_d.png",
+            "Normal_withWhite": "Cards/4070005/Card_4070005_1_e.png",
+            "Blooming_withName": "Cards/4070005/Card_4070005_2_a.png",
+            "Blooming_vertical": "Cards/4070005/Card_4070005_2_d.png",
+            "Blooming_withWhite": "Cards/4070005/Card_4070005_2_e.png",
+            "Cardname": "Cards/4070005/Card_4070005_name.png",
+            "GachaText": "Cards/4070005/Card_4070005_gachatext.png"
         }
     },
     {
@@ -1127,7 +1615,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080005/Card_4080005_1_c.png",
             "Normal": "Cards/4080005/Card_4080005_1_b.png",
             "Blooming_thumb": "Cards/4080005/Card_4080005_2_c.png",
-            "Blooming": "Cards/4080005/Card_4080005_2_b.png"
+            "Blooming": "Cards/4080005/Card_4080005_2_b.png",
+            "Normal_withName": "Cards/4080005/Card_4080005_1_a.png",
+            "Normal_vertical": "Cards/4080005/Card_4080005_1_d.png",
+            "Normal_withWhite": "Cards/4080005/Card_4080005_1_e.png",
+            "Blooming_withName": "Cards/4080005/Card_4080005_2_a.png",
+            "Blooming_vertical": "Cards/4080005/Card_4080005_2_d.png",
+            "Blooming_withWhite": "Cards/4080005/Card_4080005_2_e.png",
+            "Cardname": "Cards/4080005/Card_4080005_name.png",
+            "GachaText": "Cards/4080005/Card_4080005_gachatext.png"
         }
     },
     {
@@ -1140,7 +1636,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090005/Card_4090005_1_c.png",
             "Normal": "Cards/4090005/Card_4090005_1_b.png",
             "Blooming_thumb": "Cards/4090005/Card_4090005_2_c.png",
-            "Blooming": "Cards/4090005/Card_4090005_2_b.png"
+            "Blooming": "Cards/4090005/Card_4090005_2_b.png",
+            "Normal_withName": "Cards/4090005/Card_4090005_1_a.png",
+            "Normal_vertical": "Cards/4090005/Card_4090005_1_d.png",
+            "Normal_withWhite": "Cards/4090005/Card_4090005_1_e.png",
+            "Blooming_withName": "Cards/4090005/Card_4090005_2_a.png",
+            "Blooming_vertical": "Cards/4090005/Card_4090005_2_d.png",
+            "Blooming_withWhite": "Cards/4090005/Card_4090005_2_e.png",
+            "Cardname": "Cards/4090005/Card_4090005_name.png",
+            "GachaText": "Cards/4090005/Card_4090005_gachatext.png"
         }
     },
     {
@@ -1153,7 +1657,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4100005/Card_4100005_1_c.png",
             "Normal": "Cards/4100005/Card_4100005_1_b.png",
             "Blooming_thumb": "Cards/4100005/Card_4100005_2_c.png",
-            "Blooming": "Cards/4100005/Card_4100005_2_b.png"
+            "Blooming": "Cards/4100005/Card_4100005_2_b.png",
+            "Normal_withName": "Cards/4100005/Card_4100005_1_a.png",
+            "Normal_vertical": "Cards/4100005/Card_4100005_1_d.png",
+            "Normal_withWhite": "Cards/4100005/Card_4100005_1_e.png",
+            "Blooming_withName": "Cards/4100005/Card_4100005_2_a.png",
+            "Blooming_vertical": "Cards/4100005/Card_4100005_2_d.png",
+            "Blooming_withWhite": "Cards/4100005/Card_4100005_2_e.png",
+            "Cardname": "Cards/4100005/Card_4100005_name.png",
+            "GachaText": "Cards/4100005/Card_4100005_gachatext.png"
         }
     },
     {
@@ -1166,7 +1678,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110005/Card_4110005_1_c.png",
             "Normal": "Cards/4110005/Card_4110005_1_b.png",
             "Blooming_thumb": "Cards/4110005/Card_4110005_2_c.png",
-            "Blooming": "Cards/4110005/Card_4110005_2_b.png"
+            "Blooming": "Cards/4110005/Card_4110005_2_b.png",
+            "Normal_withName": "Cards/4110005/Card_4110005_1_a.png",
+            "Normal_vertical": "Cards/4110005/Card_4110005_1_d.png",
+            "Normal_withWhite": "Cards/4110005/Card_4110005_1_e.png",
+            "Blooming_withName": "Cards/4110005/Card_4110005_2_a.png",
+            "Blooming_vertical": "Cards/4110005/Card_4110005_2_d.png",
+            "Blooming_withWhite": "Cards/4110005/Card_4110005_2_e.png",
+            "Cardname": "Cards/4110005/Card_4110005_name.png",
+            "GachaText": "Cards/4110005/Card_4110005_gachatext.png"
         }
     },
     {
@@ -1179,7 +1699,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120005/Card_4120005_1_c.png",
             "Normal": "Cards/4120005/Card_4120005_1_b.png",
             "Blooming_thumb": "Cards/4120005/Card_4120005_2_c.png",
-            "Blooming": "Cards/4120005/Card_4120005_2_b.png"
+            "Blooming": "Cards/4120005/Card_4120005_2_b.png",
+            "Normal_withName": "Cards/4120005/Card_4120005_1_a.png",
+            "Normal_vertical": "Cards/4120005/Card_4120005_1_d.png",
+            "Normal_withWhite": "Cards/4120005/Card_4120005_1_e.png",
+            "Blooming_withName": "Cards/4120005/Card_4120005_2_a.png",
+            "Blooming_vertical": "Cards/4120005/Card_4120005_2_d.png",
+            "Blooming_withWhite": "Cards/4120005/Card_4120005_2_e.png",
+            "Cardname": "Cards/4120005/Card_4120005_name.png",
+            "GachaText": "Cards/4120005/Card_4120005_gachatext.png"
         }
     },
     {
@@ -1192,7 +1720,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130005/Card_4130005_1_c.png",
             "Normal": "Cards/4130005/Card_4130005_1_b.png",
             "Blooming_thumb": "Cards/4130005/Card_4130005_2_c.png",
-            "Blooming": "Cards/4130005/Card_4130005_2_b.png"
+            "Blooming": "Cards/4130005/Card_4130005_2_b.png",
+            "Normal_withName": "Cards/4130005/Card_4130005_1_a.png",
+            "Normal_vertical": "Cards/4130005/Card_4130005_1_d.png",
+            "Normal_withWhite": "Cards/4130005/Card_4130005_1_e.png",
+            "Blooming_withName": "Cards/4130005/Card_4130005_2_a.png",
+            "Blooming_vertical": "Cards/4130005/Card_4130005_2_d.png",
+            "Blooming_withWhite": "Cards/4130005/Card_4130005_2_e.png",
+            "Cardname": "Cards/4130005/Card_4130005_name.png",
+            "GachaText": "Cards/4130005/Card_4130005_gachatext.png"
         }
     },
     {
@@ -1205,7 +1741,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140005/Card_4140005_1_c.png",
             "Normal": "Cards/4140005/Card_4140005_1_b.png",
             "Blooming_thumb": "Cards/4140005/Card_4140005_2_c.png",
-            "Blooming": "Cards/4140005/Card_4140005_2_b.png"
+            "Blooming": "Cards/4140005/Card_4140005_2_b.png",
+            "Normal_withName": "Cards/4140005/Card_4140005_1_a.png",
+            "Normal_vertical": "Cards/4140005/Card_4140005_1_d.png",
+            "Normal_withWhite": "Cards/4140005/Card_4140005_1_e.png",
+            "Blooming_withName": "Cards/4140005/Card_4140005_2_a.png",
+            "Blooming_vertical": "Cards/4140005/Card_4140005_2_d.png",
+            "Blooming_withWhite": "Cards/4140005/Card_4140005_2_e.png",
+            "Cardname": "Cards/4140005/Card_4140005_name.png",
+            "GachaText": "Cards/4140005/Card_4140005_gachatext.png"
         }
     },
     {
@@ -1218,7 +1762,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150005/Card_4150005_1_c.png",
             "Normal": "Cards/4150005/Card_4150005_1_b.png",
             "Blooming_thumb": "Cards/4150005/Card_4150005_2_c.png",
-            "Blooming": "Cards/4150005/Card_4150005_2_b.png"
+            "Blooming": "Cards/4150005/Card_4150005_2_b.png",
+            "Normal_withName": "Cards/4150005/Card_4150005_1_a.png",
+            "Normal_vertical": "Cards/4150005/Card_4150005_1_d.png",
+            "Normal_withWhite": "Cards/4150005/Card_4150005_1_e.png",
+            "Blooming_withName": "Cards/4150005/Card_4150005_2_a.png",
+            "Blooming_vertical": "Cards/4150005/Card_4150005_2_d.png",
+            "Blooming_withWhite": "Cards/4150005/Card_4150005_2_e.png",
+            "Cardname": "Cards/4150005/Card_4150005_name.png",
+            "GachaText": "Cards/4150005/Card_4150005_gachatext.png"
         }
     },
     {
@@ -1231,7 +1783,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160005/Card_4160005_1_c.png",
             "Normal": "Cards/4160005/Card_4160005_1_b.png",
             "Blooming_thumb": "Cards/4160005/Card_4160005_2_c.png",
-            "Blooming": "Cards/4160005/Card_4160005_2_b.png"
+            "Blooming": "Cards/4160005/Card_4160005_2_b.png",
+            "Normal_withName": "Cards/4160005/Card_4160005_1_a.png",
+            "Normal_vertical": "Cards/4160005/Card_4160005_1_d.png",
+            "Normal_withWhite": "Cards/4160005/Card_4160005_1_e.png",
+            "Blooming_withName": "Cards/4160005/Card_4160005_2_a.png",
+            "Blooming_vertical": "Cards/4160005/Card_4160005_2_d.png",
+            "Blooming_withWhite": "Cards/4160005/Card_4160005_2_e.png",
+            "Cardname": "Cards/4160005/Card_4160005_name.png",
+            "GachaText": "Cards/4160005/Card_4160005_gachatext.png"
         }
     },
     {
@@ -1244,7 +1804,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3010006/Card_3010006_1_c.png",
             "Normal": "Cards/3010006/Card_3010006_1_b.png",
             "Blooming_thumb": "Cards/3010006/Card_3010006_2_c.png",
-            "Blooming": "Cards/3010006/Card_3010006_2_b.png"
+            "Blooming": "Cards/3010006/Card_3010006_2_b.png",
+            "Normal_withName": "Cards/3010006/Card_3010006_1_a.png",
+            "Normal_vertical": "Cards/3010006/Card_3010006_1_d.png",
+            "Normal_withWhite": "Cards/3010006/Card_3010006_1_e.png",
+            "Blooming_withName": "Cards/3010006/Card_3010006_2_a.png",
+            "Blooming_vertical": "Cards/3010006/Card_3010006_2_d.png",
+            "Blooming_withWhite": "Cards/3010006/Card_3010006_2_e.png",
+            "Cardname": "Cards/3010006/Card_3010006_name.png"
         }
     },
     {
@@ -1257,7 +1824,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3020006/Card_3020006_1_c.png",
             "Normal": "Cards/3020006/Card_3020006_1_b.png",
             "Blooming_thumb": "Cards/3020006/Card_3020006_2_c.png",
-            "Blooming": "Cards/3020006/Card_3020006_2_b.png"
+            "Blooming": "Cards/3020006/Card_3020006_2_b.png",
+            "Normal_withName": "Cards/3020006/Card_3020006_1_a.png",
+            "Normal_vertical": "Cards/3020006/Card_3020006_1_d.png",
+            "Normal_withWhite": "Cards/3020006/Card_3020006_1_e.png",
+            "Blooming_withName": "Cards/3020006/Card_3020006_2_a.png",
+            "Blooming_vertical": "Cards/3020006/Card_3020006_2_d.png",
+            "Blooming_withWhite": "Cards/3020006/Card_3020006_2_e.png",
+            "Cardname": "Cards/3020006/Card_3020006_name.png"
         }
     },
     {
@@ -1270,7 +1844,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3030006/Card_3030006_1_c.png",
             "Normal": "Cards/3030006/Card_3030006_1_b.png",
             "Blooming_thumb": "Cards/3030006/Card_3030006_2_c.png",
-            "Blooming": "Cards/3030006/Card_3030006_2_b.png"
+            "Blooming": "Cards/3030006/Card_3030006_2_b.png",
+            "Normal_withName": "Cards/3030006/Card_3030006_1_a.png",
+            "Normal_vertical": "Cards/3030006/Card_3030006_1_d.png",
+            "Normal_withWhite": "Cards/3030006/Card_3030006_1_e.png",
+            "Blooming_withName": "Cards/3030006/Card_3030006_2_a.png",
+            "Blooming_vertical": "Cards/3030006/Card_3030006_2_d.png",
+            "Blooming_withWhite": "Cards/3030006/Card_3030006_2_e.png",
+            "Cardname": "Cards/3030006/Card_3030006_name.png"
         }
     },
     {
@@ -1283,7 +1864,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3040006/Card_3040006_1_c.png",
             "Normal": "Cards/3040006/Card_3040006_1_b.png",
             "Blooming_thumb": "Cards/3040006/Card_3040006_2_c.png",
-            "Blooming": "Cards/3040006/Card_3040006_2_b.png"
+            "Blooming": "Cards/3040006/Card_3040006_2_b.png",
+            "Normal_withName": "Cards/3040006/Card_3040006_1_a.png",
+            "Normal_vertical": "Cards/3040006/Card_3040006_1_d.png",
+            "Normal_withWhite": "Cards/3040006/Card_3040006_1_e.png",
+            "Blooming_withName": "Cards/3040006/Card_3040006_2_a.png",
+            "Blooming_vertical": "Cards/3040006/Card_3040006_2_d.png",
+            "Blooming_withWhite": "Cards/3040006/Card_3040006_2_e.png",
+            "Cardname": "Cards/3040006/Card_3040006_name.png"
         }
     },
     {
@@ -1296,7 +1884,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3050006/Card_3050006_1_c.png",
             "Normal": "Cards/3050006/Card_3050006_1_b.png",
             "Blooming_thumb": "Cards/3050006/Card_3050006_2_c.png",
-            "Blooming": "Cards/3050006/Card_3050006_2_b.png"
+            "Blooming": "Cards/3050006/Card_3050006_2_b.png",
+            "Normal_withName": "Cards/3050006/Card_3050006_1_a.png",
+            "Normal_vertical": "Cards/3050006/Card_3050006_1_d.png",
+            "Normal_withWhite": "Cards/3050006/Card_3050006_1_e.png",
+            "Blooming_withName": "Cards/3050006/Card_3050006_2_a.png",
+            "Blooming_vertical": "Cards/3050006/Card_3050006_2_d.png",
+            "Blooming_withWhite": "Cards/3050006/Card_3050006_2_e.png",
+            "Cardname": "Cards/3050006/Card_3050006_name.png"
         }
     },
     {
@@ -1309,7 +1904,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3060006/Card_3060006_1_c.png",
             "Normal": "Cards/3060006/Card_3060006_1_b.png",
             "Blooming_thumb": "Cards/3060006/Card_3060006_2_c.png",
-            "Blooming": "Cards/3060006/Card_3060006_2_b.png"
+            "Blooming": "Cards/3060006/Card_3060006_2_b.png",
+            "Normal_withName": "Cards/3060006/Card_3060006_1_a.png",
+            "Normal_vertical": "Cards/3060006/Card_3060006_1_d.png",
+            "Normal_withWhite": "Cards/3060006/Card_3060006_1_e.png",
+            "Blooming_withName": "Cards/3060006/Card_3060006_2_a.png",
+            "Blooming_vertical": "Cards/3060006/Card_3060006_2_d.png",
+            "Blooming_withWhite": "Cards/3060006/Card_3060006_2_e.png",
+            "Cardname": "Cards/3060006/Card_3060006_name.png"
         }
     },
     {
@@ -1322,7 +1924,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3070006/Card_3070006_1_c.png",
             "Normal": "Cards/3070006/Card_3070006_1_b.png",
             "Blooming_thumb": "Cards/3070006/Card_3070006_2_c.png",
-            "Blooming": "Cards/3070006/Card_3070006_2_b.png"
+            "Blooming": "Cards/3070006/Card_3070006_2_b.png",
+            "Normal_withName": "Cards/3070006/Card_3070006_1_a.png",
+            "Normal_vertical": "Cards/3070006/Card_3070006_1_d.png",
+            "Normal_withWhite": "Cards/3070006/Card_3070006_1_e.png",
+            "Blooming_withName": "Cards/3070006/Card_3070006_2_a.png",
+            "Blooming_vertical": "Cards/3070006/Card_3070006_2_d.png",
+            "Blooming_withWhite": "Cards/3070006/Card_3070006_2_e.png",
+            "Cardname": "Cards/3070006/Card_3070006_name.png"
         }
     },
     {
@@ -1335,7 +1944,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3080006/Card_3080006_1_c.png",
             "Normal": "Cards/3080006/Card_3080006_1_b.png",
             "Blooming_thumb": "Cards/3080006/Card_3080006_2_c.png",
-            "Blooming": "Cards/3080006/Card_3080006_2_b.png"
+            "Blooming": "Cards/3080006/Card_3080006_2_b.png",
+            "Normal_withName": "Cards/3080006/Card_3080006_1_a.png",
+            "Normal_vertical": "Cards/3080006/Card_3080006_1_d.png",
+            "Normal_withWhite": "Cards/3080006/Card_3080006_1_e.png",
+            "Blooming_withName": "Cards/3080006/Card_3080006_2_a.png",
+            "Blooming_vertical": "Cards/3080006/Card_3080006_2_d.png",
+            "Blooming_withWhite": "Cards/3080006/Card_3080006_2_e.png",
+            "Cardname": "Cards/3080006/Card_3080006_name.png"
         }
     },
     {
@@ -1348,7 +1964,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3090006/Card_3090006_1_c.png",
             "Normal": "Cards/3090006/Card_3090006_1_b.png",
             "Blooming_thumb": "Cards/3090006/Card_3090006_2_c.png",
-            "Blooming": "Cards/3090006/Card_3090006_2_b.png"
+            "Blooming": "Cards/3090006/Card_3090006_2_b.png",
+            "Normal_withName": "Cards/3090006/Card_3090006_1_a.png",
+            "Normal_vertical": "Cards/3090006/Card_3090006_1_d.png",
+            "Normal_withWhite": "Cards/3090006/Card_3090006_1_e.png",
+            "Blooming_withName": "Cards/3090006/Card_3090006_2_a.png",
+            "Blooming_vertical": "Cards/3090006/Card_3090006_2_d.png",
+            "Blooming_withWhite": "Cards/3090006/Card_3090006_2_e.png",
+            "Cardname": "Cards/3090006/Card_3090006_name.png"
         }
     },
     {
@@ -1361,7 +1984,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3100006/Card_3100006_1_c.png",
             "Normal": "Cards/3100006/Card_3100006_1_b.png",
             "Blooming_thumb": "Cards/3100006/Card_3100006_2_c.png",
-            "Blooming": "Cards/3100006/Card_3100006_2_b.png"
+            "Blooming": "Cards/3100006/Card_3100006_2_b.png",
+            "Normal_withName": "Cards/3100006/Card_3100006_1_a.png",
+            "Normal_vertical": "Cards/3100006/Card_3100006_1_d.png",
+            "Normal_withWhite": "Cards/3100006/Card_3100006_1_e.png",
+            "Blooming_withName": "Cards/3100006/Card_3100006_2_a.png",
+            "Blooming_vertical": "Cards/3100006/Card_3100006_2_d.png",
+            "Blooming_withWhite": "Cards/3100006/Card_3100006_2_e.png",
+            "Cardname": "Cards/3100006/Card_3100006_name.png"
         }
     },
     {
@@ -1374,7 +2004,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3110006/Card_3110006_1_c.png",
             "Normal": "Cards/3110006/Card_3110006_1_b.png",
             "Blooming_thumb": "Cards/3110006/Card_3110006_2_c.png",
-            "Blooming": "Cards/3110006/Card_3110006_2_b.png"
+            "Blooming": "Cards/3110006/Card_3110006_2_b.png",
+            "Normal_withName": "Cards/3110006/Card_3110006_1_a.png",
+            "Normal_vertical": "Cards/3110006/Card_3110006_1_d.png",
+            "Normal_withWhite": "Cards/3110006/Card_3110006_1_e.png",
+            "Blooming_withName": "Cards/3110006/Card_3110006_2_a.png",
+            "Blooming_vertical": "Cards/3110006/Card_3110006_2_d.png",
+            "Blooming_withWhite": "Cards/3110006/Card_3110006_2_e.png",
+            "Cardname": "Cards/3110006/Card_3110006_name.png"
         }
     },
     {
@@ -1387,7 +2024,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3120006/Card_3120006_1_c.png",
             "Normal": "Cards/3120006/Card_3120006_1_b.png",
             "Blooming_thumb": "Cards/3120006/Card_3120006_2_c.png",
-            "Blooming": "Cards/3120006/Card_3120006_2_b.png"
+            "Blooming": "Cards/3120006/Card_3120006_2_b.png",
+            "Normal_withName": "Cards/3120006/Card_3120006_1_a.png",
+            "Normal_vertical": "Cards/3120006/Card_3120006_1_d.png",
+            "Normal_withWhite": "Cards/3120006/Card_3120006_1_e.png",
+            "Blooming_withName": "Cards/3120006/Card_3120006_2_a.png",
+            "Blooming_vertical": "Cards/3120006/Card_3120006_2_d.png",
+            "Blooming_withWhite": "Cards/3120006/Card_3120006_2_e.png",
+            "Cardname": "Cards/3120006/Card_3120006_name.png"
         }
     },
     {
@@ -1400,7 +2044,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3130006/Card_3130006_1_c.png",
             "Normal": "Cards/3130006/Card_3130006_1_b.png",
             "Blooming_thumb": "Cards/3130006/Card_3130006_2_c.png",
-            "Blooming": "Cards/3130006/Card_3130006_2_b.png"
+            "Blooming": "Cards/3130006/Card_3130006_2_b.png",
+            "Normal_withName": "Cards/3130006/Card_3130006_1_a.png",
+            "Normal_vertical": "Cards/3130006/Card_3130006_1_d.png",
+            "Normal_withWhite": "Cards/3130006/Card_3130006_1_e.png",
+            "Blooming_withName": "Cards/3130006/Card_3130006_2_a.png",
+            "Blooming_vertical": "Cards/3130006/Card_3130006_2_d.png",
+            "Blooming_withWhite": "Cards/3130006/Card_3130006_2_e.png",
+            "Cardname": "Cards/3130006/Card_3130006_name.png"
         }
     },
     {
@@ -1413,7 +2064,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3140006/Card_3140006_1_c.png",
             "Normal": "Cards/3140006/Card_3140006_1_b.png",
             "Blooming_thumb": "Cards/3140006/Card_3140006_2_c.png",
-            "Blooming": "Cards/3140006/Card_3140006_2_b.png"
+            "Blooming": "Cards/3140006/Card_3140006_2_b.png",
+            "Normal_withName": "Cards/3140006/Card_3140006_1_a.png",
+            "Normal_vertical": "Cards/3140006/Card_3140006_1_d.png",
+            "Normal_withWhite": "Cards/3140006/Card_3140006_1_e.png",
+            "Blooming_withName": "Cards/3140006/Card_3140006_2_a.png",
+            "Blooming_vertical": "Cards/3140006/Card_3140006_2_d.png",
+            "Blooming_withWhite": "Cards/3140006/Card_3140006_2_e.png",
+            "Cardname": "Cards/3140006/Card_3140006_name.png"
         }
     },
     {
@@ -1426,7 +2084,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3150006/Card_3150006_1_c.png",
             "Normal": "Cards/3150006/Card_3150006_1_b.png",
             "Blooming_thumb": "Cards/3150006/Card_3150006_2_c.png",
-            "Blooming": "Cards/3150006/Card_3150006_2_b.png"
+            "Blooming": "Cards/3150006/Card_3150006_2_b.png",
+            "Normal_withName": "Cards/3150006/Card_3150006_1_a.png",
+            "Normal_vertical": "Cards/3150006/Card_3150006_1_d.png",
+            "Normal_withWhite": "Cards/3150006/Card_3150006_1_e.png",
+            "Blooming_withName": "Cards/3150006/Card_3150006_2_a.png",
+            "Blooming_vertical": "Cards/3150006/Card_3150006_2_d.png",
+            "Blooming_withWhite": "Cards/3150006/Card_3150006_2_e.png",
+            "Cardname": "Cards/3150006/Card_3150006_name.png"
         }
     },
     {
@@ -1439,7 +2104,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3160006/Card_3160006_1_c.png",
             "Normal": "Cards/3160006/Card_3160006_1_b.png",
             "Blooming_thumb": "Cards/3160006/Card_3160006_2_c.png",
-            "Blooming": "Cards/3160006/Card_3160006_2_b.png"
+            "Blooming": "Cards/3160006/Card_3160006_2_b.png",
+            "Normal_withName": "Cards/3160006/Card_3160006_1_a.png",
+            "Normal_vertical": "Cards/3160006/Card_3160006_1_d.png",
+            "Normal_withWhite": "Cards/3160006/Card_3160006_1_e.png",
+            "Blooming_withName": "Cards/3160006/Card_3160006_2_a.png",
+            "Blooming_vertical": "Cards/3160006/Card_3160006_2_d.png",
+            "Blooming_withWhite": "Cards/3160006/Card_3160006_2_e.png",
+            "Cardname": "Cards/3160006/Card_3160006_name.png"
         }
     },
     {
@@ -1452,7 +2124,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050007/Card_4050007_1_c.png",
             "Normal": "Cards/4050007/Card_4050007_1_b.png",
             "Blooming_thumb": "Cards/4050007/Card_4050007_2_c.png",
-            "Blooming": "Cards/4050007/Card_4050007_2_b.png"
+            "Blooming": "Cards/4050007/Card_4050007_2_b.png",
+            "Normal_withName": "Cards/4050007/Card_4050007_1_a.png",
+            "Normal_vertical": "Cards/4050007/Card_4050007_1_d.png",
+            "Normal_withWhite": "Cards/4050007/Card_4050007_1_e.png",
+            "Blooming_withName": "Cards/4050007/Card_4050007_2_a.png",
+            "Blooming_vertical": "Cards/4050007/Card_4050007_2_d.png",
+            "Blooming_withWhite": "Cards/4050007/Card_4050007_2_e.png",
+            "Cardname": "Cards/4050007/Card_4050007_name.png",
+            "GachaText": "Cards/4050007/Card_4050007_gachatext.png"
         }
     },
     {
@@ -1465,7 +2145,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090007/Card_4090007_1_c.png",
             "Normal": "Cards/4090007/Card_4090007_1_b.png",
             "Blooming_thumb": "Cards/4090007/Card_4090007_2_c.png",
-            "Blooming": "Cards/4090007/Card_4090007_2_b.png"
+            "Blooming": "Cards/4090007/Card_4090007_2_b.png",
+            "Normal_withName": "Cards/4090007/Card_4090007_1_a.png",
+            "Normal_vertical": "Cards/4090007/Card_4090007_1_d.png",
+            "Normal_withWhite": "Cards/4090007/Card_4090007_1_e.png",
+            "Blooming_withName": "Cards/4090007/Card_4090007_2_a.png",
+            "Blooming_vertical": "Cards/4090007/Card_4090007_2_d.png",
+            "Blooming_withWhite": "Cards/4090007/Card_4090007_2_e.png",
+            "Cardname": "Cards/4090007/Card_4090007_name.png",
+            "GachaText": "Cards/4090007/Card_4090007_gachatext.png"
         }
     },
     {
@@ -1478,7 +2166,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3110007/Card_3110007_1_c.png",
             "Normal": "Cards/3110007/Card_3110007_1_b.png",
             "Blooming_thumb": "Cards/3110007/Card_3110007_2_c.png",
-            "Blooming": "Cards/3110007/Card_3110007_2_b.png"
+            "Blooming": "Cards/3110007/Card_3110007_2_b.png",
+            "Normal_withName": "Cards/3110007/Card_3110007_1_a.png",
+            "Normal_vertical": "Cards/3110007/Card_3110007_1_d.png",
+            "Normal_withWhite": "Cards/3110007/Card_3110007_1_e.png",
+            "Blooming_withName": "Cards/3110007/Card_3110007_2_a.png",
+            "Blooming_vertical": "Cards/3110007/Card_3110007_2_d.png",
+            "Blooming_withWhite": "Cards/3110007/Card_3110007_2_e.png",
+            "Cardname": "Cards/3110007/Card_3110007_name.png"
         }
     },
     {
@@ -1491,7 +2186,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040007/Card_4040007_1_c.png",
             "Normal": "Cards/4040007/Card_4040007_1_b.png",
             "Blooming_thumb": "Cards/4040007/Card_4040007_2_c.png",
-            "Blooming": "Cards/4040007/Card_4040007_2_b.png"
+            "Blooming": "Cards/4040007/Card_4040007_2_b.png",
+            "Normal_withName": "Cards/4040007/Card_4040007_1_a.png",
+            "Normal_vertical": "Cards/4040007/Card_4040007_1_d.png",
+            "Normal_withWhite": "Cards/4040007/Card_4040007_1_e.png",
+            "Blooming_withName": "Cards/4040007/Card_4040007_2_a.png",
+            "Blooming_vertical": "Cards/4040007/Card_4040007_2_d.png",
+            "Blooming_withWhite": "Cards/4040007/Card_4040007_2_e.png",
+            "Cardname": "Cards/4040007/Card_4040007_name.png",
+            "GachaText": "Cards/4040007/Card_4040007_gachatext.png"
         }
     },
     {
@@ -1504,7 +2207,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3010007/Card_3010007_1_c.png",
             "Normal": "Cards/3010007/Card_3010007_1_b.png",
             "Blooming_thumb": "Cards/3010007/Card_3010007_2_c.png",
-            "Blooming": "Cards/3010007/Card_3010007_2_b.png"
+            "Blooming": "Cards/3010007/Card_3010007_2_b.png",
+            "Normal_withName": "Cards/3010007/Card_3010007_1_a.png",
+            "Normal_vertical": "Cards/3010007/Card_3010007_1_d.png",
+            "Normal_withWhite": "Cards/3010007/Card_3010007_1_e.png",
+            "Blooming_withName": "Cards/3010007/Card_3010007_2_a.png",
+            "Blooming_vertical": "Cards/3010007/Card_3010007_2_d.png",
+            "Blooming_withWhite": "Cards/3010007/Card_3010007_2_e.png",
+            "Cardname": "Cards/3010007/Card_3010007_name.png"
         }
     },
     {
@@ -1517,7 +2227,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4020007/Card_4020007_1_c.png",
             "Normal": "Cards/4020007/Card_4020007_1_b.png",
             "Blooming_thumb": "Cards/4020007/Card_4020007_2_c.png",
-            "Blooming": "Cards/4020007/Card_4020007_2_b.png"
+            "Blooming": "Cards/4020007/Card_4020007_2_b.png",
+            "Normal_withName": "Cards/4020007/Card_4020007_1_a.png",
+            "Normal_vertical": "Cards/4020007/Card_4020007_1_d.png",
+            "Normal_withWhite": "Cards/4020007/Card_4020007_1_e.png",
+            "Blooming_withName": "Cards/4020007/Card_4020007_2_a.png",
+            "Blooming_vertical": "Cards/4020007/Card_4020007_2_d.png",
+            "Blooming_withWhite": "Cards/4020007/Card_4020007_2_e.png",
+            "Cardname": "Cards/4020007/Card_4020007_name.png",
+            "GachaText": "Cards/4020007/Card_4020007_gachatext.png"
         }
     },
     {
@@ -1530,7 +2248,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160007/Card_4160007_1_c.png",
             "Normal": "Cards/4160007/Card_4160007_1_b.png",
             "Blooming_thumb": "Cards/4160007/Card_4160007_2_c.png",
-            "Blooming": "Cards/4160007/Card_4160007_2_b.png"
+            "Blooming": "Cards/4160007/Card_4160007_2_b.png",
+            "Normal_withName": "Cards/4160007/Card_4160007_1_a.png",
+            "Normal_vertical": "Cards/4160007/Card_4160007_1_d.png",
+            "Normal_withWhite": "Cards/4160007/Card_4160007_1_e.png",
+            "Blooming_withName": "Cards/4160007/Card_4160007_2_a.png",
+            "Blooming_vertical": "Cards/4160007/Card_4160007_2_d.png",
+            "Blooming_withWhite": "Cards/4160007/Card_4160007_2_e.png",
+            "Cardname": "Cards/4160007/Card_4160007_name.png",
+            "GachaText": "Cards/4160007/Card_4160007_gachatext.png"
         }
     },
     {
@@ -1543,7 +2269,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3150007/Card_3150007_1_c.png",
             "Normal": "Cards/3150007/Card_3150007_1_b.png",
             "Blooming_thumb": "Cards/3150007/Card_3150007_2_c.png",
-            "Blooming": "Cards/3150007/Card_3150007_2_b.png"
+            "Blooming": "Cards/3150007/Card_3150007_2_b.png",
+            "Normal_withName": "Cards/3150007/Card_3150007_1_a.png",
+            "Normal_vertical": "Cards/3150007/Card_3150007_1_d.png",
+            "Normal_withWhite": "Cards/3150007/Card_3150007_1_e.png",
+            "Blooming_withName": "Cards/3150007/Card_3150007_2_a.png",
+            "Blooming_vertical": "Cards/3150007/Card_3150007_2_d.png",
+            "Blooming_withWhite": "Cards/3150007/Card_3150007_2_e.png",
+            "Cardname": "Cards/3150007/Card_3150007_name.png"
         }
     },
     {
@@ -1556,7 +2289,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130007/Card_4130007_1_c.png",
             "Normal": "Cards/4130007/Card_4130007_1_b.png",
             "Blooming_thumb": "Cards/4130007/Card_4130007_2_c.png",
-            "Blooming": "Cards/4130007/Card_4130007_2_b.png"
+            "Blooming": "Cards/4130007/Card_4130007_2_b.png",
+            "Normal_withName": "Cards/4130007/Card_4130007_1_a.png",
+            "Normal_vertical": "Cards/4130007/Card_4130007_1_d.png",
+            "Normal_withWhite": "Cards/4130007/Card_4130007_1_e.png",
+            "Blooming_withName": "Cards/4130007/Card_4130007_2_a.png",
+            "Blooming_vertical": "Cards/4130007/Card_4130007_2_d.png",
+            "Blooming_withWhite": "Cards/4130007/Card_4130007_2_e.png",
+            "Cardname": "Cards/4130007/Card_4130007_name.png",
+            "GachaText": "Cards/4130007/Card_4130007_gachatext.png"
         }
     },
     {
@@ -1569,7 +2310,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3140007/Card_3140007_1_c.png",
             "Normal": "Cards/3140007/Card_3140007_1_b.png",
             "Blooming_thumb": "Cards/3140007/Card_3140007_2_c.png",
-            "Blooming": "Cards/3140007/Card_3140007_2_b.png"
+            "Blooming": "Cards/3140007/Card_3140007_2_b.png",
+            "Normal_withName": "Cards/3140007/Card_3140007_1_a.png",
+            "Normal_vertical": "Cards/3140007/Card_3140007_1_d.png",
+            "Normal_withWhite": "Cards/3140007/Card_3140007_1_e.png",
+            "Blooming_withName": "Cards/3140007/Card_3140007_2_a.png",
+            "Blooming_vertical": "Cards/3140007/Card_3140007_2_d.png",
+            "Blooming_withWhite": "Cards/3140007/Card_3140007_2_e.png",
+            "Cardname": "Cards/3140007/Card_3140007_name.png"
         }
     },
     {
@@ -1582,7 +2330,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130009/Card_4130009_1_c.png",
             "Normal": "Cards/4130009/Card_4130009_1_b.png",
             "Blooming_thumb": "Cards/4130009/Card_4130009_2_c.png",
-            "Blooming": "Cards/4130009/Card_4130009_2_b.png"
+            "Blooming": "Cards/4130009/Card_4130009_2_b.png",
+            "Normal_withName": "Cards/4130009/Card_4130009_1_a.png",
+            "Normal_vertical": "Cards/4130009/Card_4130009_1_d.png",
+            "Normal_withWhite": "Cards/4130009/Card_4130009_1_e.png",
+            "Blooming_withName": "Cards/4130009/Card_4130009_2_a.png",
+            "Blooming_vertical": "Cards/4130009/Card_4130009_2_d.png",
+            "Blooming_withWhite": "Cards/4130009/Card_4130009_2_e.png",
+            "Cardname": "Cards/4130009/Card_4130009_name.png",
+            "GachaText": "Cards/4130009/Card_4130009_gachatext.png"
         }
     },
     {
@@ -1595,7 +2351,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140008/Card_4140008_1_c.png",
             "Normal": "Cards/4140008/Card_4140008_1_b.png",
             "Blooming_thumb": "Cards/4140008/Card_4140008_2_c.png",
-            "Blooming": "Cards/4140008/Card_4140008_2_b.png"
+            "Blooming": "Cards/4140008/Card_4140008_2_b.png",
+            "Normal_withName": "Cards/4140008/Card_4140008_1_a.png",
+            "Normal_vertical": "Cards/4140008/Card_4140008_1_d.png",
+            "Normal_withWhite": "Cards/4140008/Card_4140008_1_e.png",
+            "Blooming_withName": "Cards/4140008/Card_4140008_2_a.png",
+            "Blooming_vertical": "Cards/4140008/Card_4140008_2_d.png",
+            "Blooming_withWhite": "Cards/4140008/Card_4140008_2_e.png",
+            "Cardname": "Cards/4140008/Card_4140008_name.png",
+            "GachaText": "Cards/4140008/Card_4140008_gachatext.png"
         }
     },
     {
@@ -1608,7 +2372,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3130008/Card_3130008_1_c.png",
             "Normal": "Cards/3130008/Card_3130008_1_b.png",
             "Blooming_thumb": "Cards/3130008/Card_3130008_2_c.png",
-            "Blooming": "Cards/3130008/Card_3130008_2_b.png"
+            "Blooming": "Cards/3130008/Card_3130008_2_b.png",
+            "Normal_withName": "Cards/3130008/Card_3130008_1_a.png",
+            "Normal_vertical": "Cards/3130008/Card_3130008_1_d.png",
+            "Normal_withWhite": "Cards/3130008/Card_3130008_1_e.png",
+            "Blooming_withName": "Cards/3130008/Card_3130008_2_a.png",
+            "Blooming_vertical": "Cards/3130008/Card_3130008_2_d.png",
+            "Blooming_withWhite": "Cards/3130008/Card_3130008_2_e.png",
+            "Cardname": "Cards/3130008/Card_3130008_name.png"
         }
     },
     {
@@ -1621,7 +2392,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4100007/Card_4100007_1_c.png",
             "Normal": "Cards/4100007/Card_4100007_1_b.png",
             "Blooming_thumb": "Cards/4100007/Card_4100007_2_c.png",
-            "Blooming": "Cards/4100007/Card_4100007_2_b.png"
+            "Blooming": "Cards/4100007/Card_4100007_2_b.png",
+            "Normal_withName": "Cards/4100007/Card_4100007_1_a.png",
+            "Normal_vertical": "Cards/4100007/Card_4100007_1_d.png",
+            "Normal_withWhite": "Cards/4100007/Card_4100007_1_e.png",
+            "Blooming_withName": "Cards/4100007/Card_4100007_2_a.png",
+            "Blooming_vertical": "Cards/4100007/Card_4100007_2_d.png",
+            "Blooming_withWhite": "Cards/4100007/Card_4100007_2_e.png"
         }
     },
     {
@@ -1634,7 +2411,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3120008/Card_3120008_1_c.png",
             "Normal": "Cards/3120008/Card_3120008_1_b.png",
             "Blooming_thumb": "Cards/3120008/Card_3120008_2_c.png",
-            "Blooming": "Cards/3120008/Card_3120008_2_b.png"
+            "Blooming": "Cards/3120008/Card_3120008_2_b.png",
+            "Normal_withName": "Cards/3120008/Card_3120008_1_a.png",
+            "Normal_vertical": "Cards/3120008/Card_3120008_1_d.png",
+            "Normal_withWhite": "Cards/3120008/Card_3120008_1_e.png",
+            "Blooming_withName": "Cards/3120008/Card_3120008_2_a.png",
+            "Blooming_vertical": "Cards/3120008/Card_3120008_2_d.png",
+            "Blooming_withWhite": "Cards/3120008/Card_3120008_2_e.png"
         }
     },
     {
@@ -1647,7 +2430,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080007/Card_4080007_1_c.png",
             "Normal": "Cards/4080007/Card_4080007_1_b.png",
             "Blooming_thumb": "Cards/4080007/Card_4080007_2_c.png",
-            "Blooming": "Cards/4080007/Card_4080007_2_b.png"
+            "Blooming": "Cards/4080007/Card_4080007_2_b.png",
+            "Normal_withName": "Cards/4080007/Card_4080007_1_a.png",
+            "Normal_vertical": "Cards/4080007/Card_4080007_1_d.png",
+            "Normal_withWhite": "Cards/4080007/Card_4080007_1_e.png",
+            "Blooming_withName": "Cards/4080007/Card_4080007_2_a.png",
+            "Blooming_vertical": "Cards/4080007/Card_4080007_2_d.png",
+            "Blooming_withWhite": "Cards/4080007/Card_4080007_2_e.png",
+            "Cardname": "Cards/4080007/Card_4080007_name.png",
+            "GachaText": "Cards/4080007/Card_4080007_gachatext.png"
         }
     },
     {
@@ -1660,7 +2451,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3060007/Card_3060007_1_c.png",
             "Normal": "Cards/3060007/Card_3060007_1_b.png",
             "Blooming_thumb": "Cards/3060007/Card_3060007_2_c.png",
-            "Blooming": "Cards/3060007/Card_3060007_2_b.png"
+            "Blooming": "Cards/3060007/Card_3060007_2_b.png",
+            "Normal_withName": "Cards/3060007/Card_3060007_1_a.png",
+            "Normal_vertical": "Cards/3060007/Card_3060007_1_d.png",
+            "Normal_withWhite": "Cards/3060007/Card_3060007_1_e.png",
+            "Blooming_withName": "Cards/3060007/Card_3060007_2_a.png",
+            "Blooming_vertical": "Cards/3060007/Card_3060007_2_d.png",
+            "Blooming_withWhite": "Cards/3060007/Card_3060007_2_e.png",
+            "Cardname": "Cards/3060007/Card_3060007_name.png"
         }
     },
     {
@@ -1673,7 +2471,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070007/Card_4070007_1_c.png",
             "Normal": "Cards/4070007/Card_4070007_1_b.png",
             "Blooming_thumb": "Cards/4070007/Card_4070007_2_c.png",
-            "Blooming": "Cards/4070007/Card_4070007_2_b.png"
+            "Blooming": "Cards/4070007/Card_4070007_2_b.png",
+            "Normal_withName": "Cards/4070007/Card_4070007_1_a.png",
+            "Normal_vertical": "Cards/4070007/Card_4070007_1_d.png",
+            "Normal_withWhite": "Cards/4070007/Card_4070007_1_e.png",
+            "Blooming_withName": "Cards/4070007/Card_4070007_2_a.png",
+            "Blooming_vertical": "Cards/4070007/Card_4070007_2_d.png",
+            "Blooming_withWhite": "Cards/4070007/Card_4070007_2_e.png"
         }
     },
     {
@@ -1686,7 +2490,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3050008/Card_3050008_1_c.png",
             "Normal": "Cards/3050008/Card_3050008_1_b.png",
             "Blooming_thumb": "Cards/3050008/Card_3050008_2_c.png",
-            "Blooming": "Cards/3050008/Card_3050008_2_b.png"
+            "Blooming": "Cards/3050008/Card_3050008_2_b.png",
+            "Normal_withName": "Cards/3050008/Card_3050008_1_a.png",
+            "Normal_vertical": "Cards/3050008/Card_3050008_1_d.png",
+            "Normal_withWhite": "Cards/3050008/Card_3050008_1_e.png",
+            "Blooming_withName": "Cards/3050008/Card_3050008_2_a.png",
+            "Blooming_vertical": "Cards/3050008/Card_3050008_2_d.png",
+            "Blooming_withWhite": "Cards/3050008/Card_3050008_2_e.png",
+            "Cardname": "Cards/3050008/Card_3050008_name.png"
         }
     },
     {
@@ -1699,7 +2510,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120009/Card_4120009_1_c.png",
             "Normal": "Cards/4120009/Card_4120009_1_b.png",
             "Blooming_thumb": "Cards/4120009/Card_4120009_2_c.png",
-            "Blooming": "Cards/4120009/Card_4120009_2_b.png"
+            "Blooming": "Cards/4120009/Card_4120009_2_b.png",
+            "Normal_withName": "Cards/4120009/Card_4120009_1_a.png",
+            "Normal_vertical": "Cards/4120009/Card_4120009_1_d.png",
+            "Normal_withWhite": "Cards/4120009/Card_4120009_1_e.png",
+            "Blooming_withName": "Cards/4120009/Card_4120009_2_a.png",
+            "Blooming_vertical": "Cards/4120009/Card_4120009_2_d.png",
+            "Blooming_withWhite": "Cards/4120009/Card_4120009_2_e.png",
+            "Cardname": "Cards/4120009/Card_4120009_name.png",
+            "GachaText": "Cards/4120009/Card_4120009_gachatext.png"
         }
     },
     {
@@ -1712,7 +2531,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3100008/Card_3100008_1_c.png",
             "Normal": "Cards/3100008/Card_3100008_1_b.png",
             "Blooming_thumb": "Cards/3100008/Card_3100008_2_c.png",
-            "Blooming": "Cards/3100008/Card_3100008_2_b.png"
+            "Blooming": "Cards/3100008/Card_3100008_2_b.png",
+            "Normal_withName": "Cards/3100008/Card_3100008_1_a.png",
+            "Normal_vertical": "Cards/3100008/Card_3100008_1_d.png",
+            "Normal_withWhite": "Cards/3100008/Card_3100008_1_e.png",
+            "Blooming_withName": "Cards/3100008/Card_3100008_2_a.png",
+            "Blooming_vertical": "Cards/3100008/Card_3100008_2_d.png",
+            "Blooming_withWhite": "Cards/3100008/Card_3100008_2_e.png",
+            "Cardname": "Cards/3100008/Card_3100008_name.png"
         }
     },
     {
@@ -1725,7 +2551,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110008/Card_4110008_1_c.png",
             "Normal": "Cards/4110008/Card_4110008_1_b.png",
             "Blooming_thumb": "Cards/4110008/Card_4110008_2_c.png",
-            "Blooming": "Cards/4110008/Card_4110008_2_b.png"
+            "Blooming": "Cards/4110008/Card_4110008_2_b.png",
+            "Normal_withName": "Cards/4110008/Card_4110008_1_a.png",
+            "Normal_vertical": "Cards/4110008/Card_4110008_1_d.png",
+            "Normal_withWhite": "Cards/4110008/Card_4110008_1_e.png",
+            "Blooming_withName": "Cards/4110008/Card_4110008_2_a.png",
+            "Blooming_vertical": "Cards/4110008/Card_4110008_2_d.png",
+            "Blooming_withWhite": "Cards/4110008/Card_4110008_2_e.png",
+            "Cardname": "Cards/4110008/Card_4110008_name.png",
+            "GachaText": "Cards/4110008/Card_4110008_gachatext.png"
         }
     },
     {
@@ -1738,7 +2572,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3090008/Card_3090008_1_c.png",
             "Normal": "Cards/3090008/Card_3090008_1_b.png",
             "Blooming_thumb": "Cards/3090008/Card_3090008_2_c.png",
-            "Blooming": "Cards/3090008/Card_3090008_2_b.png"
+            "Blooming": "Cards/3090008/Card_3090008_2_b.png",
+            "Normal_withName": "Cards/3090008/Card_3090008_1_a.png",
+            "Normal_vertical": "Cards/3090008/Card_3090008_1_d.png",
+            "Normal_withWhite": "Cards/3090008/Card_3090008_1_e.png",
+            "Blooming_withName": "Cards/3090008/Card_3090008_2_a.png",
+            "Blooming_vertical": "Cards/3090008/Card_3090008_2_d.png",
+            "Blooming_withWhite": "Cards/3090008/Card_3090008_2_e.png",
+            "Cardname": "Cards/3090008/Card_3090008_name.png"
         }
     },
     {
@@ -1751,7 +2592,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040008/Card_4040008_1_c.png",
             "Normal": "Cards/4040008/Card_4040008_1_b.png",
             "Blooming_thumb": "Cards/4040008/Card_4040008_2_c.png",
-            "Blooming": "Cards/4040008/Card_4040008_2_b.png"
+            "Blooming": "Cards/4040008/Card_4040008_2_b.png",
+            "Normal_withName": "Cards/4040008/Card_4040008_1_a.png",
+            "Normal_vertical": "Cards/4040008/Card_4040008_1_d.png",
+            "Normal_withWhite": "Cards/4040008/Card_4040008_1_e.png",
+            "Blooming_withName": "Cards/4040008/Card_4040008_2_a.png",
+            "Blooming_vertical": "Cards/4040008/Card_4040008_2_d.png",
+            "Blooming_withWhite": "Cards/4040008/Card_4040008_2_e.png",
+            "Cardname": "Cards/4040008/Card_4040008_name.png",
+            "GachaText": "Cards/4040008/Card_4040008_gachatext.png"
         }
     },
     {
@@ -1764,7 +2613,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160008/Card_4160008_1_c.png",
             "Normal": "Cards/4160008/Card_4160008_1_b.png",
             "Blooming_thumb": "Cards/4160008/Card_4160008_2_c.png",
-            "Blooming": "Cards/4160008/Card_4160008_2_b.png"
+            "Blooming": "Cards/4160008/Card_4160008_2_b.png",
+            "Normal_withName": "Cards/4160008/Card_4160008_1_a.png",
+            "Normal_vertical": "Cards/4160008/Card_4160008_1_d.png",
+            "Normal_withWhite": "Cards/4160008/Card_4160008_1_e.png",
+            "Blooming_withName": "Cards/4160008/Card_4160008_2_a.png",
+            "Blooming_vertical": "Cards/4160008/Card_4160008_2_d.png",
+            "Blooming_withWhite": "Cards/4160008/Card_4160008_2_e.png",
+            "Cardname": "Cards/4160008/Card_4160008_name.png",
+            "GachaText": "Cards/4160008/Card_4160008_gachatext.png"
         }
     },
     {
@@ -1777,7 +2634,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4030007/Card_4030007_1_c.png",
             "Normal": "Cards/4030007/Card_4030007_1_b.png",
             "Blooming_thumb": "Cards/4030007/Card_4030007_2_c.png",
-            "Blooming": "Cards/4030007/Card_4030007_2_b.png"
+            "Blooming": "Cards/4030007/Card_4030007_2_b.png",
+            "Normal_withName": "Cards/4030007/Card_4030007_1_a.png",
+            "Normal_vertical": "Cards/4030007/Card_4030007_1_d.png",
+            "Normal_withWhite": "Cards/4030007/Card_4030007_1_e.png",
+            "Blooming_withName": "Cards/4030007/Card_4030007_2_a.png",
+            "Blooming_vertical": "Cards/4030007/Card_4030007_2_d.png",
+            "Blooming_withWhite": "Cards/4030007/Card_4030007_2_e.png",
+            "Cardname": "Cards/4030007/Card_4030007_name.png",
+            "GachaText": "Cards/4030007/Card_4030007_gachatext.png"
         }
     },
     {
@@ -1790,7 +2655,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3020008/Card_3020008_1_c.png",
             "Normal": "Cards/3020008/Card_3020008_1_b.png",
             "Blooming_thumb": "Cards/3020008/Card_3020008_2_c.png",
-            "Blooming": "Cards/3020008/Card_3020008_2_b.png"
+            "Blooming": "Cards/3020008/Card_3020008_2_b.png",
+            "Normal_withName": "Cards/3020008/Card_3020008_1_a.png",
+            "Normal_vertical": "Cards/3020008/Card_3020008_1_d.png",
+            "Normal_withWhite": "Cards/3020008/Card_3020008_1_e.png",
+            "Blooming_withName": "Cards/3020008/Card_3020008_2_a.png",
+            "Blooming_vertical": "Cards/3020008/Card_3020008_2_d.png",
+            "Blooming_withWhite": "Cards/3020008/Card_3020008_2_e.png",
+            "Cardname": "Cards/3020008/Card_3020008_name.png"
         }
     },
     {
@@ -1803,7 +2675,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3010008/Card_3010008_1_c.png",
             "Normal": "Cards/3010008/Card_3010008_1_b.png",
             "Blooming_thumb": "Cards/3010008/Card_3010008_2_c.png",
-            "Blooming": "Cards/3010008/Card_3010008_2_b.png"
+            "Blooming": "Cards/3010008/Card_3010008_2_b.png",
+            "Normal_withName": "Cards/3010008/Card_3010008_1_a.png",
+            "Normal_vertical": "Cards/3010008/Card_3010008_1_d.png",
+            "Normal_withWhite": "Cards/3010008/Card_3010008_1_e.png",
+            "Blooming_withName": "Cards/3010008/Card_3010008_2_a.png",
+            "Blooming_vertical": "Cards/3010008/Card_3010008_2_d.png",
+            "Blooming_withWhite": "Cards/3010008/Card_3010008_2_e.png"
         }
     },
     {
@@ -1816,7 +2694,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050009/Card_4050009_1_c.png",
             "Normal": "Cards/4050009/Card_4050009_1_b.png",
             "Blooming_thumb": "Cards/4050009/Card_4050009_2_c.png",
-            "Blooming": "Cards/4050009/Card_4050009_2_b.png"
+            "Blooming": "Cards/4050009/Card_4050009_2_b.png",
+            "Normal_withName": "Cards/4050009/Card_4050009_1_a.png",
+            "Normal_vertical": "Cards/4050009/Card_4050009_1_d.png",
+            "Normal_withWhite": "Cards/4050009/Card_4050009_1_e.png",
+            "Blooming_withName": "Cards/4050009/Card_4050009_2_a.png",
+            "Blooming_vertical": "Cards/4050009/Card_4050009_2_d.png",
+            "Blooming_withWhite": "Cards/4050009/Card_4050009_2_e.png",
+            "Cardname": "Cards/4050009/Card_4050009_name.png",
+            "GachaText": "Cards/4050009/Card_4050009_gachatext.png"
         }
     },
     {
@@ -1829,7 +2715,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3070008/Card_3070008_1_c.png",
             "Normal": "Cards/3070008/Card_3070008_1_b.png",
             "Blooming_thumb": "Cards/3070008/Card_3070008_2_c.png",
-            "Blooming": "Cards/3070008/Card_3070008_2_b.png"
+            "Blooming": "Cards/3070008/Card_3070008_2_b.png",
+            "Normal_withName": "Cards/3070008/Card_3070008_1_a.png",
+            "Normal_vertical": "Cards/3070008/Card_3070008_1_d.png",
+            "Normal_withWhite": "Cards/3070008/Card_3070008_1_e.png",
+            "Blooming_withName": "Cards/3070008/Card_3070008_2_a.png",
+            "Blooming_vertical": "Cards/3070008/Card_3070008_2_d.png",
+            "Blooming_withWhite": "Cards/3070008/Card_3070008_2_e.png",
+            "Cardname": "Cards/3070008/Card_3070008_name.png"
         }
     },
     {
@@ -1842,7 +2735,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060008/Card_4060008_1_c.png",
             "Normal": "Cards/4060008/Card_4060008_1_b.png",
             "Blooming_thumb": "Cards/4060008/Card_4060008_2_c.png",
-            "Blooming": "Cards/4060008/Card_4060008_2_b.png"
+            "Blooming": "Cards/4060008/Card_4060008_2_b.png",
+            "Normal_withName": "Cards/4060008/Card_4060008_1_a.png",
+            "Normal_vertical": "Cards/4060008/Card_4060008_1_d.png",
+            "Normal_withWhite": "Cards/4060008/Card_4060008_1_e.png",
+            "Blooming_withName": "Cards/4060008/Card_4060008_2_a.png",
+            "Blooming_vertical": "Cards/4060008/Card_4060008_2_d.png",
+            "Blooming_withWhite": "Cards/4060008/Card_4060008_2_e.png",
+            "Cardname": "Cards/4060008/Card_4060008_name.png",
+            "GachaText": "Cards/4060008/Card_4060008_gachatext.png"
         }
     },
     {
@@ -1855,7 +2756,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3080008/Card_3080008_1_c.png",
             "Normal": "Cards/3080008/Card_3080008_1_b.png",
             "Blooming_thumb": "Cards/3080008/Card_3080008_2_c.png",
-            "Blooming": "Cards/3080008/Card_3080008_2_b.png"
+            "Blooming": "Cards/3080008/Card_3080008_2_b.png",
+            "Normal_withName": "Cards/3080008/Card_3080008_1_a.png",
+            "Normal_vertical": "Cards/3080008/Card_3080008_1_d.png",
+            "Normal_withWhite": "Cards/3080008/Card_3080008_1_e.png",
+            "Blooming_withName": "Cards/3080008/Card_3080008_2_a.png",
+            "Blooming_vertical": "Cards/3080008/Card_3080008_2_d.png",
+            "Blooming_withWhite": "Cards/3080008/Card_3080008_2_e.png",
+            "Cardname": "Cards/3080008/Card_3080008_name.png"
         }
     },
     {
@@ -1868,7 +2776,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060009/Card_4060009_1_c.png",
             "Normal": "Cards/4060009/Card_4060009_1_b.png",
             "Blooming_thumb": "Cards/4060009/Card_4060009_2_c.png",
-            "Blooming": "Cards/4060009/Card_4060009_2_b.png"
+            "Blooming": "Cards/4060009/Card_4060009_2_b.png",
+            "Normal_withName": "Cards/4060009/Card_4060009_1_a.png",
+            "Normal_vertical": "Cards/4060009/Card_4060009_1_d.png",
+            "Normal_withWhite": "Cards/4060009/Card_4060009_1_e.png",
+            "Blooming_withName": "Cards/4060009/Card_4060009_2_a.png",
+            "Blooming_vertical": "Cards/4060009/Card_4060009_2_d.png",
+            "Blooming_withWhite": "Cards/4060009/Card_4060009_2_e.png",
+            "Cardname": "Cards/4060009/Card_4060009_name.png",
+            "GachaText": "Cards/4060009/Card_4060009_gachatext.png"
         }
     },
     {
@@ -1881,7 +2797,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090009/Card_4090009_1_c.png",
             "Normal": "Cards/4090009/Card_4090009_1_b.png",
             "Blooming_thumb": "Cards/4090009/Card_4090009_2_c.png",
-            "Blooming": "Cards/4090009/Card_4090009_2_b.png"
+            "Blooming": "Cards/4090009/Card_4090009_2_b.png",
+            "Normal_withName": "Cards/4090009/Card_4090009_1_a.png",
+            "Normal_vertical": "Cards/4090009/Card_4090009_1_d.png",
+            "Normal_withWhite": "Cards/4090009/Card_4090009_1_e.png",
+            "Blooming_withName": "Cards/4090009/Card_4090009_2_a.png",
+            "Blooming_vertical": "Cards/4090009/Card_4090009_2_d.png",
+            "Blooming_withWhite": "Cards/4090009/Card_4090009_2_e.png",
+            "Cardname": "Cards/4090009/Card_4090009_name.png",
+            "GachaText": "Cards/4090009/Card_4090009_gachatext.png"
         }
     },
     {
@@ -1894,7 +2818,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130010/Card_4130010_1_c.png",
             "Normal": "Cards/4130010/Card_4130010_1_b.png",
             "Blooming_thumb": "Cards/4130010/Card_4130010_2_c.png",
-            "Blooming": "Cards/4130010/Card_4130010_2_b.png"
+            "Blooming": "Cards/4130010/Card_4130010_2_b.png",
+            "Normal_withName": "Cards/4130010/Card_4130010_1_a.png",
+            "Normal_vertical": "Cards/4130010/Card_4130010_1_d.png",
+            "Normal_withWhite": "Cards/4130010/Card_4130010_1_e.png",
+            "Blooming_withName": "Cards/4130010/Card_4130010_2_a.png",
+            "Blooming_vertical": "Cards/4130010/Card_4130010_2_d.png",
+            "Blooming_withWhite": "Cards/4130010/Card_4130010_2_e.png",
+            "Cardname": "Cards/4130010/Card_4130010_name.png",
+            "GachaText": "Cards/4130010/Card_4130010_gachatext.png"
         }
     },
     {
@@ -1907,7 +2839,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010009/Card_4010009_1_c.png",
             "Normal": "Cards/4010009/Card_4010009_1_b.png",
             "Blooming_thumb": "Cards/4010009/Card_4010009_2_c.png",
-            "Blooming": "Cards/4010009/Card_4010009_2_b.png"
+            "Blooming": "Cards/4010009/Card_4010009_2_b.png",
+            "Normal_withName": "Cards/4010009/Card_4010009_1_a.png",
+            "Normal_vertical": "Cards/4010009/Card_4010009_1_d.png",
+            "Normal_withWhite": "Cards/4010009/Card_4010009_1_e.png",
+            "Blooming_withName": "Cards/4010009/Card_4010009_2_a.png",
+            "Blooming_vertical": "Cards/4010009/Card_4010009_2_d.png",
+            "Blooming_withWhite": "Cards/4010009/Card_4010009_2_e.png"
         }
     },
     {
@@ -1920,7 +2858,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3040009/Card_3040009_1_c.png",
             "Normal": "Cards/3040009/Card_3040009_1_b.png",
             "Blooming_thumb": "Cards/3040009/Card_3040009_2_c.png",
-            "Blooming": "Cards/3040009/Card_3040009_2_b.png"
+            "Blooming": "Cards/3040009/Card_3040009_2_b.png",
+            "Normal_withName": "Cards/3040009/Card_3040009_1_a.png",
+            "Normal_vertical": "Cards/3040009/Card_3040009_1_d.png",
+            "Normal_withWhite": "Cards/3040009/Card_3040009_1_e.png",
+            "Blooming_withName": "Cards/3040009/Card_3040009_2_a.png",
+            "Blooming_vertical": "Cards/3040009/Card_3040009_2_d.png",
+            "Blooming_withWhite": "Cards/3040009/Card_3040009_2_e.png"
         }
     },
     {
@@ -1933,7 +2877,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010010/Card_4010010_1_c.png",
             "Normal": "Cards/4010010/Card_4010010_1_b.png",
             "Blooming_thumb": "Cards/4010010/Card_4010010_2_c.png",
-            "Blooming": "Cards/4010010/Card_4010010_2_b.png"
+            "Blooming": "Cards/4010010/Card_4010010_2_b.png",
+            "Normal_withName": "Cards/4010010/Card_4010010_1_a.png",
+            "Normal_vertical": "Cards/4010010/Card_4010010_1_d.png",
+            "Normal_withWhite": "Cards/4010010/Card_4010010_1_e.png",
+            "Blooming_withName": "Cards/4010010/Card_4010010_2_a.png",
+            "Blooming_vertical": "Cards/4010010/Card_4010010_2_d.png",
+            "Blooming_withWhite": "Cards/4010010/Card_4010010_2_e.png",
+            "Cardname": "Cards/4010010/Card_4010010_name.png",
+            "GachaText": "Cards/4010010/Card_4010010_gachatext.png"
         }
     },
     {
@@ -1946,7 +2898,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070009/Card_4070009_1_c.png",
             "Normal": "Cards/4070009/Card_4070009_1_b.png",
             "Blooming_thumb": "Cards/4070009/Card_4070009_2_c.png",
-            "Blooming": "Cards/4070009/Card_4070009_2_b.png"
+            "Blooming": "Cards/4070009/Card_4070009_2_b.png",
+            "Normal_withName": "Cards/4070009/Card_4070009_1_a.png",
+            "Normal_vertical": "Cards/4070009/Card_4070009_1_d.png",
+            "Normal_withWhite": "Cards/4070009/Card_4070009_1_e.png",
+            "Blooming_withName": "Cards/4070009/Card_4070009_2_a.png",
+            "Blooming_vertical": "Cards/4070009/Card_4070009_2_d.png",
+            "Blooming_withWhite": "Cards/4070009/Card_4070009_2_e.png",
+            "Cardname": "Cards/4070009/Card_4070009_name.png",
+            "GachaText": "Cards/4070009/Card_4070009_gachatext.png"
         }
     },
     {
@@ -1959,7 +2919,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080009/Card_4080009_1_c.png",
             "Normal": "Cards/4080009/Card_4080009_1_b.png",
             "Blooming_thumb": "Cards/4080009/Card_4080009_2_c.png",
-            "Blooming": "Cards/4080009/Card_4080009_2_b.png"
+            "Blooming": "Cards/4080009/Card_4080009_2_b.png",
+            "Normal_withName": "Cards/4080009/Card_4080009_1_a.png",
+            "Normal_vertical": "Cards/4080009/Card_4080009_1_d.png",
+            "Normal_withWhite": "Cards/4080009/Card_4080009_1_e.png",
+            "Blooming_withName": "Cards/4080009/Card_4080009_2_a.png",
+            "Blooming_vertical": "Cards/4080009/Card_4080009_2_d.png",
+            "Blooming_withWhite": "Cards/4080009/Card_4080009_2_e.png",
+            "Cardname": "Cards/4080009/Card_4080009_name.png",
+            "GachaText": "Cards/4080009/Card_4080009_gachatext.png"
         }
     },
     {
@@ -1972,7 +2940,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3050010/Card_3050010_1_c.png",
             "Normal": "Cards/3050010/Card_3050010_1_b.png",
             "Blooming_thumb": "Cards/3050010/Card_3050010_2_c.png",
-            "Blooming": "Cards/3050010/Card_3050010_2_b.png"
+            "Blooming": "Cards/3050010/Card_3050010_2_b.png",
+            "Normal_withName": "Cards/3050010/Card_3050010_1_a.png",
+            "Normal_vertical": "Cards/3050010/Card_3050010_1_d.png",
+            "Normal_withWhite": "Cards/3050010/Card_3050010_1_e.png",
+            "Blooming_withName": "Cards/3050010/Card_3050010_2_a.png",
+            "Blooming_vertical": "Cards/3050010/Card_3050010_2_d.png",
+            "Blooming_withWhite": "Cards/3050010/Card_3050010_2_e.png",
+            "Cardname": "Cards/3050010/Card_3050010_name.png"
         }
     },
     {
@@ -1985,7 +2960,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150008/Card_4150008_1_c.png",
             "Normal": "Cards/4150008/Card_4150008_1_b.png",
             "Blooming_thumb": "Cards/4150008/Card_4150008_2_c.png",
-            "Blooming": "Cards/4150008/Card_4150008_2_b.png"
+            "Blooming": "Cards/4150008/Card_4150008_2_b.png",
+            "Normal_withName": "Cards/4150008/Card_4150008_1_a.png",
+            "Normal_vertical": "Cards/4150008/Card_4150008_1_d.png",
+            "Normal_withWhite": "Cards/4150008/Card_4150008_1_e.png",
+            "Blooming_withName": "Cards/4150008/Card_4150008_2_a.png",
+            "Blooming_vertical": "Cards/4150008/Card_4150008_2_d.png",
+            "Blooming_withWhite": "Cards/4150008/Card_4150008_2_e.png"
         }
     },
     {
@@ -1998,7 +2979,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3160009/Card_3160009_1_c.png",
             "Normal": "Cards/3160009/Card_3160009_1_b.png",
             "Blooming_thumb": "Cards/3160009/Card_3160009_2_c.png",
-            "Blooming": "Cards/3160009/Card_3160009_2_b.png"
+            "Blooming": "Cards/3160009/Card_3160009_2_b.png",
+            "Normal_withName": "Cards/3160009/Card_3160009_1_a.png",
+            "Normal_vertical": "Cards/3160009/Card_3160009_1_d.png",
+            "Normal_withWhite": "Cards/3160009/Card_3160009_1_e.png",
+            "Blooming_withName": "Cards/3160009/Card_3160009_2_a.png",
+            "Blooming_vertical": "Cards/3160009/Card_3160009_2_d.png",
+            "Blooming_withWhite": "Cards/3160009/Card_3160009_2_e.png"
         }
     },
     {
@@ -2011,7 +2998,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150009/Card_4150009_1_c.png",
             "Normal": "Cards/4150009/Card_4150009_1_b.png",
             "Blooming_thumb": "Cards/4150009/Card_4150009_2_c.png",
-            "Blooming": "Cards/4150009/Card_4150009_2_b.png"
+            "Blooming": "Cards/4150009/Card_4150009_2_b.png",
+            "Normal_withName": "Cards/4150009/Card_4150009_1_a.png",
+            "Normal_vertical": "Cards/4150009/Card_4150009_1_d.png",
+            "Normal_withWhite": "Cards/4150009/Card_4150009_1_e.png",
+            "Blooming_withName": "Cards/4150009/Card_4150009_2_a.png",
+            "Blooming_vertical": "Cards/4150009/Card_4150009_2_d.png",
+            "Blooming_withWhite": "Cards/4150009/Card_4150009_2_e.png",
+            "Cardname": "Cards/4150009/Card_4150009_name.png",
+            "GachaText": "Cards/4150009/Card_4150009_gachatext.png"
         }
     },
     {
@@ -2024,7 +3019,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3100009/Card_3100009_1_c.png",
             "Normal": "Cards/3100009/Card_3100009_1_b.png",
             "Blooming_thumb": "Cards/3100009/Card_3100009_2_c.png",
-            "Blooming": "Cards/3100009/Card_3100009_2_b.png"
+            "Blooming": "Cards/3100009/Card_3100009_2_b.png",
+            "Normal_withName": "Cards/3100009/Card_3100009_1_a.png",
+            "Normal_vertical": "Cards/3100009/Card_3100009_1_d.png",
+            "Normal_withWhite": "Cards/3100009/Card_3100009_1_e.png",
+            "Blooming_withName": "Cards/3100009/Card_3100009_2_a.png",
+            "Blooming_vertical": "Cards/3100009/Card_3100009_2_d.png",
+            "Blooming_withWhite": "Cards/3100009/Card_3100009_2_e.png"
         }
     },
     {
@@ -2037,7 +3038,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110009/Card_4110009_1_c.png",
             "Normal": "Cards/4110009/Card_4110009_1_b.png",
             "Blooming_thumb": "Cards/4110009/Card_4110009_2_c.png",
-            "Blooming": "Cards/4110009/Card_4110009_2_b.png"
+            "Blooming": "Cards/4110009/Card_4110009_2_b.png",
+            "Normal_withName": "Cards/4110009/Card_4110009_1_a.png",
+            "Normal_vertical": "Cards/4110009/Card_4110009_1_d.png",
+            "Normal_withWhite": "Cards/4110009/Card_4110009_1_e.png",
+            "Blooming_withName": "Cards/4110009/Card_4110009_2_a.png",
+            "Blooming_vertical": "Cards/4110009/Card_4110009_2_d.png",
+            "Blooming_withWhite": "Cards/4110009/Card_4110009_2_e.png",
+            "Cardname": "Cards/4110009/Card_4110009_name.png",
+            "GachaText": "Cards/4110009/Card_4110009_gachatext.png"
         }
     },
     {
@@ -2050,7 +3059,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120010/Card_4120010_1_c.png",
             "Normal": "Cards/4120010/Card_4120010_1_b.png",
             "Blooming_thumb": "Cards/4120010/Card_4120010_2_c.png",
-            "Blooming": "Cards/4120010/Card_4120010_2_b.png"
+            "Blooming": "Cards/4120010/Card_4120010_2_b.png",
+            "Normal_withName": "Cards/4120010/Card_4120010_1_a.png",
+            "Normal_vertical": "Cards/4120010/Card_4120010_1_d.png",
+            "Normal_withWhite": "Cards/4120010/Card_4120010_1_e.png",
+            "Blooming_withName": "Cards/4120010/Card_4120010_2_a.png",
+            "Blooming_vertical": "Cards/4120010/Card_4120010_2_d.png",
+            "Blooming_withWhite": "Cards/4120010/Card_4120010_2_e.png"
         }
     },
     {
@@ -2063,7 +3078,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040010/Card_4040010_1_c.png",
             "Normal": "Cards/4040010/Card_4040010_1_b.png",
             "Blooming_thumb": "Cards/4040010/Card_4040010_2_c.png",
-            "Blooming": "Cards/4040010/Card_4040010_2_b.png"
+            "Blooming": "Cards/4040010/Card_4040010_2_b.png",
+            "Normal_withName": "Cards/4040010/Card_4040010_1_a.png",
+            "Normal_vertical": "Cards/4040010/Card_4040010_1_d.png",
+            "Normal_withWhite": "Cards/4040010/Card_4040010_1_e.png",
+            "Blooming_withName": "Cards/4040010/Card_4040010_2_a.png",
+            "Blooming_vertical": "Cards/4040010/Card_4040010_2_d.png",
+            "Blooming_withWhite": "Cards/4040010/Card_4040010_2_e.png",
+            "Cardname": "Cards/4040010/Card_4040010_name.png",
+            "GachaText": "Cards/4040010/Card_4040010_gachatext.png"
         }
     },
     {
@@ -2076,7 +3099,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3010011/Card_3010011_1_c.png",
             "Normal": "Cards/3010011/Card_3010011_1_b.png",
             "Blooming_thumb": "Cards/3010011/Card_3010011_2_c.png",
-            "Blooming": "Cards/3010011/Card_3010011_2_b.png"
+            "Blooming": "Cards/3010011/Card_3010011_2_b.png",
+            "Normal_withName": "Cards/3010011/Card_3010011_1_a.png",
+            "Normal_vertical": "Cards/3010011/Card_3010011_1_d.png",
+            "Normal_withWhite": "Cards/3010011/Card_3010011_1_e.png",
+            "Blooming_withName": "Cards/3010011/Card_3010011_2_a.png",
+            "Blooming_vertical": "Cards/3010011/Card_3010011_2_d.png",
+            "Blooming_withWhite": "Cards/3010011/Card_3010011_2_e.png",
+            "Cardname": "Cards/3010011/Card_3010011_name.png"
         }
     },
     {
@@ -2089,7 +3119,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4030008/Card_4030008_1_c.png",
             "Normal": "Cards/4030008/Card_4030008_1_b.png",
             "Blooming_thumb": "Cards/4030008/Card_4030008_2_c.png",
-            "Blooming": "Cards/4030008/Card_4030008_2_b.png"
+            "Blooming": "Cards/4030008/Card_4030008_2_b.png",
+            "Normal_withName": "Cards/4030008/Card_4030008_1_a.png",
+            "Normal_vertical": "Cards/4030008/Card_4030008_1_d.png",
+            "Normal_withWhite": "Cards/4030008/Card_4030008_1_e.png",
+            "Blooming_withName": "Cards/4030008/Card_4030008_2_a.png",
+            "Blooming_vertical": "Cards/4030008/Card_4030008_2_d.png",
+            "Blooming_withWhite": "Cards/4030008/Card_4030008_2_e.png"
         }
     },
     {
@@ -2102,7 +3138,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3020009/Card_3020009_1_c.png",
             "Normal": "Cards/3020009/Card_3020009_1_b.png",
             "Blooming_thumb": "Cards/3020009/Card_3020009_2_c.png",
-            "Blooming": "Cards/3020009/Card_3020009_2_b.png"
+            "Blooming": "Cards/3020009/Card_3020009_2_b.png",
+            "Normal_withName": "Cards/3020009/Card_3020009_1_a.png",
+            "Normal_vertical": "Cards/3020009/Card_3020009_1_d.png",
+            "Normal_withWhite": "Cards/3020009/Card_3020009_1_e.png",
+            "Blooming_withName": "Cards/3020009/Card_3020009_2_a.png",
+            "Blooming_vertical": "Cards/3020009/Card_3020009_2_d.png",
+            "Blooming_withWhite": "Cards/3020009/Card_3020009_2_e.png"
         }
     },
     {
@@ -2115,7 +3157,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060010/Card_4060010_1_c.png",
             "Normal": "Cards/4060010/Card_4060010_1_b.png",
             "Blooming_thumb": "Cards/4060010/Card_4060010_2_c.png",
-            "Blooming": "Cards/4060010/Card_4060010_2_b.png"
+            "Blooming": "Cards/4060010/Card_4060010_2_b.png",
+            "Normal_withName": "Cards/4060010/Card_4060010_1_a.png",
+            "Normal_vertical": "Cards/4060010/Card_4060010_1_d.png",
+            "Normal_withWhite": "Cards/4060010/Card_4060010_1_e.png",
+            "Blooming_withName": "Cards/4060010/Card_4060010_2_a.png",
+            "Blooming_vertical": "Cards/4060010/Card_4060010_2_d.png",
+            "Blooming_withWhite": "Cards/4060010/Card_4060010_2_e.png",
+            "Cardname": "Cards/4060010/Card_4060010_name.png",
+            "GachaText": "Cards/4060010/Card_4060010_gachatext.png"
         }
     },
     {
@@ -2128,7 +3178,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3140009/Card_3140009_1_c.png",
             "Normal": "Cards/3140009/Card_3140009_1_b.png",
             "Blooming_thumb": "Cards/3140009/Card_3140009_2_c.png",
-            "Blooming": "Cards/3140009/Card_3140009_2_b.png"
+            "Blooming": "Cards/3140009/Card_3140009_2_b.png",
+            "Normal_withName": "Cards/3140009/Card_3140009_1_a.png",
+            "Normal_vertical": "Cards/3140009/Card_3140009_1_d.png",
+            "Normal_withWhite": "Cards/3140009/Card_3140009_1_e.png",
+            "Blooming_withName": "Cards/3140009/Card_3140009_2_a.png",
+            "Blooming_vertical": "Cards/3140009/Card_3140009_2_d.png",
+            "Blooming_withWhite": "Cards/3140009/Card_3140009_2_e.png",
+            "Cardname": "Cards/3140009/Card_3140009_name.png"
         }
     },
     {
@@ -2141,7 +3198,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090010/Card_4090010_1_c.png",
             "Normal": "Cards/4090010/Card_4090010_1_b.png",
             "Blooming_thumb": "Cards/4090010/Card_4090010_2_c.png",
-            "Blooming": "Cards/4090010/Card_4090010_2_b.png"
+            "Blooming": "Cards/4090010/Card_4090010_2_b.png",
+            "Normal_withName": "Cards/4090010/Card_4090010_1_a.png",
+            "Normal_vertical": "Cards/4090010/Card_4090010_1_d.png",
+            "Normal_withWhite": "Cards/4090010/Card_4090010_1_e.png",
+            "Blooming_withName": "Cards/4090010/Card_4090010_2_a.png",
+            "Blooming_vertical": "Cards/4090010/Card_4090010_2_d.png",
+            "Blooming_withWhite": "Cards/4090010/Card_4090010_2_e.png"
         }
     },
     {
@@ -2154,7 +3217,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090011/Card_4090011_1_c.png",
             "Normal": "Cards/4090011/Card_4090011_1_b.png",
             "Blooming_thumb": "Cards/4090011/Card_4090011_2_c.png",
-            "Blooming": "Cards/4090011/Card_4090011_2_b.png"
+            "Blooming": "Cards/4090011/Card_4090011_2_b.png",
+            "Normal_withName": "Cards/4090011/Card_4090011_1_a.png",
+            "Normal_vertical": "Cards/4090011/Card_4090011_1_d.png",
+            "Normal_withWhite": "Cards/4090011/Card_4090011_1_e.png",
+            "Blooming_withName": "Cards/4090011/Card_4090011_2_a.png",
+            "Blooming_vertical": "Cards/4090011/Card_4090011_2_d.png",
+            "Blooming_withWhite": "Cards/4090011/Card_4090011_2_e.png",
+            "Cardname": "Cards/4090011/Card_4090011_name.png",
+            "GachaText": "Cards/4090011/Card_4090011_gachatext.png"
         }
     },
     {
@@ -2167,7 +3238,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4020010/Card_4020010_1_c.png",
             "Normal": "Cards/4020010/Card_4020010_1_b.png",
             "Blooming_thumb": "Cards/4020010/Card_4020010_2_c.png",
-            "Blooming": "Cards/4020010/Card_4020010_2_b.png"
+            "Blooming": "Cards/4020010/Card_4020010_2_b.png",
+            "Normal_withName": "Cards/4020010/Card_4020010_1_a.png",
+            "Normal_vertical": "Cards/4020010/Card_4020010_1_d.png",
+            "Normal_withWhite": "Cards/4020010/Card_4020010_1_e.png",
+            "Blooming_withName": "Cards/4020010/Card_4020010_2_a.png",
+            "Blooming_vertical": "Cards/4020010/Card_4020010_2_d.png",
+            "Blooming_withWhite": "Cards/4020010/Card_4020010_2_e.png",
+            "Cardname": "Cards/4020010/Card_4020010_name.png",
+            "GachaText": "Cards/4020010/Card_4020010_gachatext.png"
         }
     },
     {
@@ -2180,7 +3259,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3120011/Card_3120011_1_c.png",
             "Normal": "Cards/3120011/Card_3120011_1_b.png",
             "Blooming_thumb": "Cards/3120011/Card_3120011_2_c.png",
-            "Blooming": "Cards/3120011/Card_3120011_2_b.png"
+            "Blooming": "Cards/3120011/Card_3120011_2_b.png",
+            "Normal_withName": "Cards/3120011/Card_3120011_1_a.png",
+            "Normal_vertical": "Cards/3120011/Card_3120011_1_d.png",
+            "Normal_withWhite": "Cards/3120011/Card_3120011_1_e.png",
+            "Blooming_withName": "Cards/3120011/Card_3120011_2_a.png",
+            "Blooming_vertical": "Cards/3120011/Card_3120011_2_d.png",
+            "Blooming_withWhite": "Cards/3120011/Card_3120011_2_e.png",
+            "Cardname": "Cards/3120011/Card_3120011_name.png"
         }
     },
     {
@@ -2193,7 +3279,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080010/Card_4080010_1_c.png",
             "Normal": "Cards/4080010/Card_4080010_1_b.png",
             "Blooming_thumb": "Cards/4080010/Card_4080010_2_c.png",
-            "Blooming": "Cards/4080010/Card_4080010_2_b.png"
+            "Blooming": "Cards/4080010/Card_4080010_2_b.png",
+            "Normal_withName": "Cards/4080010/Card_4080010_1_a.png",
+            "Normal_vertical": "Cards/4080010/Card_4080010_1_d.png",
+            "Normal_withWhite": "Cards/4080010/Card_4080010_1_e.png",
+            "Blooming_withName": "Cards/4080010/Card_4080010_2_a.png",
+            "Blooming_vertical": "Cards/4080010/Card_4080010_2_d.png",
+            "Blooming_withWhite": "Cards/4080010/Card_4080010_2_e.png"
         }
     },
     {
@@ -2206,7 +3298,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3070010/Card_3070010_1_c.png",
             "Normal": "Cards/3070010/Card_3070010_1_b.png",
             "Blooming_thumb": "Cards/3070010/Card_3070010_2_c.png",
-            "Blooming": "Cards/3070010/Card_3070010_2_b.png"
+            "Blooming": "Cards/3070010/Card_3070010_2_b.png",
+            "Normal_withName": "Cards/3070010/Card_3070010_1_a.png",
+            "Normal_vertical": "Cards/3070010/Card_3070010_1_d.png",
+            "Normal_withWhite": "Cards/3070010/Card_3070010_1_e.png",
+            "Blooming_withName": "Cards/3070010/Card_3070010_2_a.png",
+            "Blooming_vertical": "Cards/3070010/Card_3070010_2_d.png",
+            "Blooming_withWhite": "Cards/3070010/Card_3070010_2_e.png"
         }
     },
     {
@@ -2219,7 +3317,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140010/Card_4140010_1_c.png",
             "Normal": "Cards/4140010/Card_4140010_1_b.png",
             "Blooming_thumb": "Cards/4140010/Card_4140010_2_c.png",
-            "Blooming": "Cards/4140010/Card_4140010_2_b.png"
+            "Blooming": "Cards/4140010/Card_4140010_2_b.png",
+            "Normal_withName": "Cards/4140010/Card_4140010_1_a.png",
+            "Normal_vertical": "Cards/4140010/Card_4140010_1_d.png",
+            "Normal_withWhite": "Cards/4140010/Card_4140010_1_e.png",
+            "Blooming_withName": "Cards/4140010/Card_4140010_2_a.png",
+            "Blooming_vertical": "Cards/4140010/Card_4140010_2_d.png",
+            "Blooming_withWhite": "Cards/4140010/Card_4140010_2_e.png",
+            "Cardname": "Cards/4140010/Card_4140010_name.png",
+            "GachaText": "Cards/4140010/Card_4140010_gachatext.png"
         }
     },
     {
@@ -2232,7 +3338,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3030009/Card_3030009_1_c.png",
             "Normal": "Cards/3030009/Card_3030009_1_b.png",
             "Blooming_thumb": "Cards/3030009/Card_3030009_2_c.png",
-            "Blooming": "Cards/3030009/Card_3030009_2_b.png"
+            "Blooming": "Cards/3030009/Card_3030009_2_b.png",
+            "Normal_withName": "Cards/3030009/Card_3030009_1_a.png",
+            "Normal_vertical": "Cards/3030009/Card_3030009_1_d.png",
+            "Normal_withWhite": "Cards/3030009/Card_3030009_1_e.png",
+            "Blooming_withName": "Cards/3030009/Card_3030009_2_a.png",
+            "Blooming_vertical": "Cards/3030009/Card_3030009_2_d.png",
+            "Blooming_withWhite": "Cards/3030009/Card_3030009_2_e.png",
+            "Cardname": "Cards/3030009/Card_3030009_name.png"
         }
     },
     {
@@ -2245,7 +3358,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160010/Card_4160010_1_c.png",
             "Normal": "Cards/4160010/Card_4160010_1_b.png",
             "Blooming_thumb": "Cards/4160010/Card_4160010_2_c.png",
-            "Blooming": "Cards/4160010/Card_4160010_2_b.png"
+            "Blooming": "Cards/4160010/Card_4160010_2_b.png",
+            "Normal_withName": "Cards/4160010/Card_4160010_1_a.png",
+            "Normal_vertical": "Cards/4160010/Card_4160010_1_d.png",
+            "Normal_withWhite": "Cards/4160010/Card_4160010_1_e.png",
+            "Blooming_withName": "Cards/4160010/Card_4160010_2_a.png",
+            "Blooming_vertical": "Cards/4160010/Card_4160010_2_d.png",
+            "Blooming_withWhite": "Cards/4160010/Card_4160010_2_e.png"
         }
     },
     {
@@ -2258,7 +3377,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110010/Card_4110010_1_c.png",
             "Normal": "Cards/4110010/Card_4110010_1_b.png",
             "Blooming_thumb": "Cards/4110010/Card_4110010_2_c.png",
-            "Blooming": "Cards/4110010/Card_4110010_2_b.png"
+            "Blooming": "Cards/4110010/Card_4110010_2_b.png",
+            "Normal_withName": "Cards/4110010/Card_4110010_1_a.png",
+            "Normal_vertical": "Cards/4110010/Card_4110010_1_d.png",
+            "Normal_withWhite": "Cards/4110010/Card_4110010_1_e.png",
+            "Blooming_withName": "Cards/4110010/Card_4110010_2_a.png",
+            "Blooming_vertical": "Cards/4110010/Card_4110010_2_d.png",
+            "Blooming_withWhite": "Cards/4110010/Card_4110010_2_e.png",
+            "Cardname": "Cards/4110010/Card_4110010_name.png",
+            "GachaText": "Cards/4110010/Card_4110010_gachatext.png"
         }
     },
     {
@@ -2271,7 +3398,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3040011/Card_3040011_1_c.png",
             "Normal": "Cards/3040011/Card_3040011_1_b.png",
             "Blooming_thumb": "Cards/3040011/Card_3040011_2_c.png",
-            "Blooming": "Cards/3040011/Card_3040011_2_b.png"
+            "Blooming": "Cards/3040011/Card_3040011_2_b.png",
+            "Normal_withName": "Cards/3040011/Card_3040011_1_a.png",
+            "Normal_vertical": "Cards/3040011/Card_3040011_1_d.png",
+            "Normal_withWhite": "Cards/3040011/Card_3040011_1_e.png",
+            "Blooming_withName": "Cards/3040011/Card_3040011_2_a.png",
+            "Blooming_vertical": "Cards/3040011/Card_3040011_2_d.png",
+            "Blooming_withWhite": "Cards/3040011/Card_3040011_2_e.png",
+            "Cardname": "Cards/3040011/Card_3040011_name.png"
         }
     },
     {
@@ -2284,7 +3418,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3130011/Card_3130011_1_c.png",
             "Normal": "Cards/3130011/Card_3130011_1_b.png",
             "Blooming_thumb": "Cards/3130011/Card_3130011_2_c.png",
-            "Blooming": "Cards/3130011/Card_3130011_2_b.png"
+            "Blooming": "Cards/3130011/Card_3130011_2_b.png",
+            "Normal_withName": "Cards/3130011/Card_3130011_1_a.png",
+            "Normal_vertical": "Cards/3130011/Card_3130011_1_d.png",
+            "Normal_withWhite": "Cards/3130011/Card_3130011_1_e.png",
+            "Blooming_withName": "Cards/3130011/Card_3130011_2_a.png",
+            "Blooming_vertical": "Cards/3130011/Card_3130011_2_d.png",
+            "Blooming_withWhite": "Cards/3130011/Card_3130011_2_e.png"
         }
     },
     {
@@ -2297,7 +3437,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4030010/Card_4030010_1_c.png",
             "Normal": "Cards/4030010/Card_4030010_1_b.png",
             "Blooming_thumb": "Cards/4030010/Card_4030010_2_c.png",
-            "Blooming": "Cards/4030010/Card_4030010_2_b.png"
+            "Blooming": "Cards/4030010/Card_4030010_2_b.png",
+            "Normal_withName": "Cards/4030010/Card_4030010_1_a.png",
+            "Normal_vertical": "Cards/4030010/Card_4030010_1_d.png",
+            "Normal_withWhite": "Cards/4030010/Card_4030010_1_e.png",
+            "Blooming_withName": "Cards/4030010/Card_4030010_2_a.png",
+            "Blooming_vertical": "Cards/4030010/Card_4030010_2_d.png",
+            "Blooming_withWhite": "Cards/4030010/Card_4030010_2_e.png",
+            "Cardname": "Cards/4030010/Card_4030010_name.png",
+            "GachaText": "Cards/4030010/Card_4030010_gachatext.png"
         }
     },
     {
@@ -2310,7 +3458,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4100010/Card_4100010_1_c.png",
             "Normal": "Cards/4100010/Card_4100010_1_b.png",
             "Blooming_thumb": "Cards/4100010/Card_4100010_2_c.png",
-            "Blooming": "Cards/4100010/Card_4100010_2_b.png"
+            "Blooming": "Cards/4100010/Card_4100010_2_b.png",
+            "Normal_withName": "Cards/4100010/Card_4100010_1_a.png",
+            "Normal_vertical": "Cards/4100010/Card_4100010_1_d.png",
+            "Normal_withWhite": "Cards/4100010/Card_4100010_1_e.png",
+            "Blooming_withName": "Cards/4100010/Card_4100010_2_a.png",
+            "Blooming_vertical": "Cards/4100010/Card_4100010_2_d.png",
+            "Blooming_withWhite": "Cards/4100010/Card_4100010_2_e.png",
+            "Cardname": "Cards/4100010/Card_4100010_name.png",
+            "GachaText": "Cards/4100010/Card_4100010_gachatext.png"
         }
     },
     {
@@ -2323,7 +3479,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070011/Card_4070011_1_c.png",
             "Normal": "Cards/4070011/Card_4070011_1_b.png",
             "Blooming_thumb": "Cards/4070011/Card_4070011_2_c.png",
-            "Blooming": "Cards/4070011/Card_4070011_2_b.png"
+            "Blooming": "Cards/4070011/Card_4070011_2_b.png",
+            "Normal_withName": "Cards/4070011/Card_4070011_1_a.png",
+            "Normal_vertical": "Cards/4070011/Card_4070011_1_d.png",
+            "Normal_withWhite": "Cards/4070011/Card_4070011_1_e.png",
+            "Blooming_withName": "Cards/4070011/Card_4070011_2_a.png",
+            "Blooming_vertical": "Cards/4070011/Card_4070011_2_d.png",
+            "Blooming_withWhite": "Cards/4070011/Card_4070011_2_e.png",
+            "Cardname": "Cards/4070011/Card_4070011_name.png",
+            "GachaText": "Cards/4070011/Card_4070011_gachatext.png"
         }
     },
     {
@@ -2336,7 +3500,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3080011/Card_3080011_1_c.png",
             "Normal": "Cards/3080011/Card_3080011_1_b.png",
             "Blooming_thumb": "Cards/3080011/Card_3080011_2_c.png",
-            "Blooming": "Cards/3080011/Card_3080011_2_b.png"
+            "Blooming": "Cards/3080011/Card_3080011_2_b.png",
+            "Normal_withName": "Cards/3080011/Card_3080011_1_a.png",
+            "Normal_vertical": "Cards/3080011/Card_3080011_1_d.png",
+            "Normal_withWhite": "Cards/3080011/Card_3080011_1_e.png",
+            "Blooming_withName": "Cards/3080011/Card_3080011_2_a.png",
+            "Blooming_vertical": "Cards/3080011/Card_3080011_2_d.png",
+            "Blooming_withWhite": "Cards/3080011/Card_3080011_2_e.png",
+            "Cardname": "Cards/3080011/Card_3080011_name.png"
         }
     },
     {
@@ -2349,7 +3520,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050011/Card_4050011_1_c.png",
             "Normal": "Cards/4050011/Card_4050011_1_b.png",
             "Blooming_thumb": "Cards/4050011/Card_4050011_2_c.png",
-            "Blooming": "Cards/4050011/Card_4050011_2_b.png"
+            "Blooming": "Cards/4050011/Card_4050011_2_b.png",
+            "Normal_withName": "Cards/4050011/Card_4050011_1_a.png",
+            "Normal_vertical": "Cards/4050011/Card_4050011_1_d.png",
+            "Normal_withWhite": "Cards/4050011/Card_4050011_1_e.png",
+            "Blooming_withName": "Cards/4050011/Card_4050011_2_a.png",
+            "Blooming_vertical": "Cards/4050011/Card_4050011_2_d.png",
+            "Blooming_withWhite": "Cards/4050011/Card_4050011_2_e.png"
         }
     },
     {
@@ -2362,7 +3539,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3060011/Card_3060011_1_c.png",
             "Normal": "Cards/3060011/Card_3060011_1_b.png",
             "Blooming_thumb": "Cards/3060011/Card_3060011_2_c.png",
-            "Blooming": "Cards/3060011/Card_3060011_2_b.png"
+            "Blooming": "Cards/3060011/Card_3060011_2_b.png",
+            "Normal_withName": "Cards/3060011/Card_3060011_1_a.png",
+            "Normal_vertical": "Cards/3060011/Card_3060011_1_d.png",
+            "Normal_withWhite": "Cards/3060011/Card_3060011_1_e.png",
+            "Blooming_withName": "Cards/3060011/Card_3060011_2_a.png",
+            "Blooming_vertical": "Cards/3060011/Card_3060011_2_d.png",
+            "Blooming_withWhite": "Cards/3060011/Card_3060011_2_e.png"
         }
     },
     {
@@ -2375,7 +3558,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130012/Card_4130012_1_c.png",
             "Normal": "Cards/4130012/Card_4130012_1_b.png",
             "Blooming_thumb": "Cards/4130012/Card_4130012_2_c.png",
-            "Blooming": "Cards/4130012/Card_4130012_2_b.png"
+            "Blooming": "Cards/4130012/Card_4130012_2_b.png",
+            "Normal_withName": "Cards/4130012/Card_4130012_1_a.png",
+            "Normal_vertical": "Cards/4130012/Card_4130012_1_d.png",
+            "Normal_withWhite": "Cards/4130012/Card_4130012_1_e.png",
+            "Blooming_withName": "Cards/4130012/Card_4130012_2_a.png",
+            "Blooming_vertical": "Cards/4130012/Card_4130012_2_d.png",
+            "Blooming_withWhite": "Cards/4130012/Card_4130012_2_e.png",
+            "Cardname": "Cards/4130012/Card_4130012_name.png",
+            "GachaText": "Cards/4130012/Card_4130012_gachatext.png"
         }
     },
     {
@@ -2388,7 +3579,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040012/Card_4040012_1_c.png",
             "Normal": "Cards/4040012/Card_4040012_1_b.png",
             "Blooming_thumb": "Cards/4040012/Card_4040012_2_c.png",
-            "Blooming": "Cards/4040012/Card_4040012_2_b.png"
+            "Blooming": "Cards/4040012/Card_4040012_2_b.png",
+            "Normal_withName": "Cards/4040012/Card_4040012_1_a.png",
+            "Normal_vertical": "Cards/4040012/Card_4040012_1_d.png",
+            "Normal_withWhite": "Cards/4040012/Card_4040012_1_e.png",
+            "Blooming_withName": "Cards/4040012/Card_4040012_2_a.png",
+            "Blooming_vertical": "Cards/4040012/Card_4040012_2_d.png",
+            "Blooming_withWhite": "Cards/4040012/Card_4040012_2_e.png",
+            "Cardname": "Cards/4040012/Card_4040012_name.png",
+            "GachaText": "Cards/4040012/Card_4040012_gachatext.png"
         }
     },
     {
@@ -2401,7 +3600,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120012/Card_4120012_1_c.png",
             "Normal": "Cards/4120012/Card_4120012_1_b.png",
             "Blooming_thumb": "Cards/4120012/Card_4120012_2_c.png",
-            "Blooming": "Cards/4120012/Card_4120012_2_b.png"
+            "Blooming": "Cards/4120012/Card_4120012_2_b.png",
+            "Normal_withName": "Cards/4120012/Card_4120012_1_a.png",
+            "Normal_vertical": "Cards/4120012/Card_4120012_1_d.png",
+            "Normal_withWhite": "Cards/4120012/Card_4120012_1_e.png",
+            "Blooming_withName": "Cards/4120012/Card_4120012_2_a.png",
+            "Blooming_vertical": "Cards/4120012/Card_4120012_2_d.png",
+            "Blooming_withWhite": "Cards/4120012/Card_4120012_2_e.png",
+            "Cardname": "Cards/4120012/Card_4120012_name.png",
+            "GachaText": "Cards/4120012/Card_4120012_gachatext.png"
         }
     },
     {
@@ -2414,7 +3621,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060012/Card_4060012_1_c.png",
             "Normal": "Cards/4060012/Card_4060012_1_b.png",
             "Blooming_thumb": "Cards/4060012/Card_4060012_2_c.png",
-            "Blooming": "Cards/4060012/Card_4060012_2_b.png"
+            "Blooming": "Cards/4060012/Card_4060012_2_b.png",
+            "Normal_withName": "Cards/4060012/Card_4060012_1_a.png",
+            "Normal_vertical": "Cards/4060012/Card_4060012_1_d.png",
+            "Normal_withWhite": "Cards/4060012/Card_4060012_1_e.png",
+            "Blooming_withName": "Cards/4060012/Card_4060012_2_a.png",
+            "Blooming_vertical": "Cards/4060012/Card_4060012_2_d.png",
+            "Blooming_withWhite": "Cards/4060012/Card_4060012_2_e.png"
         }
     },
     {
@@ -2427,7 +3640,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080012/Card_4080012_1_c.png",
             "Normal": "Cards/4080012/Card_4080012_1_b.png",
             "Blooming_thumb": "Cards/4080012/Card_4080012_2_c.png",
-            "Blooming": "Cards/4080012/Card_4080012_2_b.png"
+            "Blooming": "Cards/4080012/Card_4080012_2_b.png",
+            "Normal_withName": "Cards/4080012/Card_4080012_1_a.png",
+            "Normal_vertical": "Cards/4080012/Card_4080012_1_d.png",
+            "Normal_withWhite": "Cards/4080012/Card_4080012_1_e.png",
+            "Blooming_withName": "Cards/4080012/Card_4080012_2_a.png",
+            "Blooming_vertical": "Cards/4080012/Card_4080012_2_d.png",
+            "Blooming_withWhite": "Cards/4080012/Card_4080012_2_e.png",
+            "Cardname": "Cards/4080012/Card_4080012_name.png",
+            "GachaText": "Cards/4080012/Card_4080012_gachatext.png"
         }
     },
     {
@@ -2440,7 +3661,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140012/Card_4140012_1_c.png",
             "Normal": "Cards/4140012/Card_4140012_1_b.png",
             "Blooming_thumb": "Cards/4140012/Card_4140012_2_c.png",
-            "Blooming": "Cards/4140012/Card_4140012_2_b.png"
+            "Blooming": "Cards/4140012/Card_4140012_2_b.png",
+            "Normal_withName": "Cards/4140012/Card_4140012_1_a.png",
+            "Normal_vertical": "Cards/4140012/Card_4140012_1_d.png",
+            "Normal_withWhite": "Cards/4140012/Card_4140012_1_e.png",
+            "Blooming_withName": "Cards/4140012/Card_4140012_2_a.png",
+            "Blooming_vertical": "Cards/4140012/Card_4140012_2_d.png",
+            "Blooming_withWhite": "Cards/4140012/Card_4140012_2_e.png",
+            "Cardname": "Cards/4140012/Card_4140012_name.png",
+            "GachaText": "Cards/4140012/Card_4140012_gachatext.png"
         }
     },
     {
@@ -2453,7 +3682,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010012/Card_4010012_1_c.png",
             "Normal": "Cards/4010012/Card_4010012_1_b.png",
             "Blooming_thumb": "Cards/4010012/Card_4010012_2_c.png",
-            "Blooming": "Cards/4010012/Card_4010012_2_b.png"
+            "Blooming": "Cards/4010012/Card_4010012_2_b.png",
+            "Normal_withName": "Cards/4010012/Card_4010012_1_a.png",
+            "Normal_vertical": "Cards/4010012/Card_4010012_1_d.png",
+            "Normal_withWhite": "Cards/4010012/Card_4010012_1_e.png",
+            "Blooming_withName": "Cards/4010012/Card_4010012_2_a.png",
+            "Blooming_vertical": "Cards/4010012/Card_4010012_2_d.png",
+            "Blooming_withWhite": "Cards/4010012/Card_4010012_2_e.png",
+            "Cardname": "Cards/4010012/Card_4010012_name.png",
+            "GachaText": "Cards/4010012/Card_4010012_gachatext.png"
         }
     },
     {
@@ -2466,7 +3703,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3030011/Card_3030011_1_c.png",
             "Normal": "Cards/3030011/Card_3030011_1_b.png",
             "Blooming_thumb": "Cards/3030011/Card_3030011_2_c.png",
-            "Blooming": "Cards/3030011/Card_3030011_2_b.png"
+            "Blooming": "Cards/3030011/Card_3030011_2_b.png",
+            "Normal_withName": "Cards/3030011/Card_3030011_1_a.png",
+            "Normal_vertical": "Cards/3030011/Card_3030011_1_d.png",
+            "Normal_withWhite": "Cards/3030011/Card_3030011_1_e.png",
+            "Blooming_withName": "Cards/3030011/Card_3030011_2_a.png",
+            "Blooming_vertical": "Cards/3030011/Card_3030011_2_d.png",
+            "Blooming_withWhite": "Cards/3030011/Card_3030011_2_e.png"
         }
     },
     {
@@ -2479,7 +3722,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150010/Card_4150010_1_c.png",
             "Normal": "Cards/4150010/Card_4150010_1_b.png",
             "Blooming_thumb": "Cards/4150010/Card_4150010_2_c.png",
-            "Blooming": "Cards/4150010/Card_4150010_2_b.png"
+            "Blooming": "Cards/4150010/Card_4150010_2_b.png",
+            "Normal_withName": "Cards/4150010/Card_4150010_1_a.png",
+            "Normal_vertical": "Cards/4150010/Card_4150010_1_d.png",
+            "Normal_withWhite": "Cards/4150010/Card_4150010_1_e.png",
+            "Blooming_withName": "Cards/4150010/Card_4150010_2_a.png",
+            "Blooming_vertical": "Cards/4150010/Card_4150010_2_d.png",
+            "Blooming_withWhite": "Cards/4150010/Card_4150010_2_e.png",
+            "Cardname": "Cards/4150010/Card_4150010_name.png",
+            "GachaText": "Cards/4150010/Card_4150010_gachatext.png"
         }
     },
     {
@@ -2492,7 +3743,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160011/Card_4160011_1_c.png",
             "Normal": "Cards/4160011/Card_4160011_1_b.png",
             "Blooming_thumb": "Cards/4160011/Card_4160011_2_c.png",
-            "Blooming": "Cards/4160011/Card_4160011_2_b.png"
+            "Blooming": "Cards/4160011/Card_4160011_2_b.png",
+            "Normal_withName": "Cards/4160011/Card_4160011_1_a.png",
+            "Normal_vertical": "Cards/4160011/Card_4160011_1_d.png",
+            "Normal_withWhite": "Cards/4160011/Card_4160011_1_e.png",
+            "Blooming_withName": "Cards/4160011/Card_4160011_2_a.png",
+            "Blooming_vertical": "Cards/4160011/Card_4160011_2_d.png",
+            "Blooming_withWhite": "Cards/4160011/Card_4160011_2_e.png",
+            "Cardname": "Cards/4160011/Card_4160011_name.png",
+            "GachaText": "Cards/4160011/Card_4160011_gachatext.png"
         }
     },
     {
@@ -2505,7 +3764,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140011/Card_4140011_1_c.png",
             "Normal": "Cards/4140011/Card_4140011_1_b.png",
             "Blooming_thumb": "Cards/4140011/Card_4140011_2_c.png",
-            "Blooming": "Cards/4140011/Card_4140011_2_b.png"
+            "Blooming": "Cards/4140011/Card_4140011_2_b.png",
+            "Normal_withName": "Cards/4140011/Card_4140011_1_a.png",
+            "Normal_vertical": "Cards/4140011/Card_4140011_1_d.png",
+            "Normal_withWhite": "Cards/4140011/Card_4140011_1_e.png",
+            "Blooming_withName": "Cards/4140011/Card_4140011_2_a.png",
+            "Blooming_vertical": "Cards/4140011/Card_4140011_2_d.png",
+            "Blooming_withWhite": "Cards/4140011/Card_4140011_2_e.png"
         }
     },
     {
@@ -2518,7 +3783,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050012/Card_4050012_1_c.png",
             "Normal": "Cards/4050012/Card_4050012_1_b.png",
             "Blooming_thumb": "Cards/4050012/Card_4050012_2_c.png",
-            "Blooming": "Cards/4050012/Card_4050012_2_b.png"
+            "Blooming": "Cards/4050012/Card_4050012_2_b.png",
+            "Normal_withName": "Cards/4050012/Card_4050012_1_a.png",
+            "Normal_vertical": "Cards/4050012/Card_4050012_1_d.png",
+            "Normal_withWhite": "Cards/4050012/Card_4050012_1_e.png",
+            "Blooming_withName": "Cards/4050012/Card_4050012_2_a.png",
+            "Blooming_vertical": "Cards/4050012/Card_4050012_2_d.png",
+            "Blooming_withWhite": "Cards/4050012/Card_4050012_2_e.png",
+            "Cardname": "Cards/4050012/Card_4050012_name.png",
+            "GachaText": "Cards/4050012/Card_4050012_gachatext.png"
         }
     },
     {
@@ -2531,7 +3804,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070012/Card_4070012_1_c.png",
             "Normal": "Cards/4070012/Card_4070012_1_b.png",
             "Blooming_thumb": "Cards/4070012/Card_4070012_2_c.png",
-            "Blooming": "Cards/4070012/Card_4070012_2_b.png"
+            "Blooming": "Cards/4070012/Card_4070012_2_b.png",
+            "Normal_withName": "Cards/4070012/Card_4070012_1_a.png",
+            "Normal_vertical": "Cards/4070012/Card_4070012_1_d.png",
+            "Normal_withWhite": "Cards/4070012/Card_4070012_1_e.png",
+            "Blooming_withName": "Cards/4070012/Card_4070012_2_a.png",
+            "Blooming_vertical": "Cards/4070012/Card_4070012_2_d.png",
+            "Blooming_withWhite": "Cards/4070012/Card_4070012_2_e.png",
+            "Cardname": "Cards/4070012/Card_4070012_name.png",
+            "GachaText": "Cards/4070012/Card_4070012_gachatext.png"
         }
     },
     {
@@ -2544,7 +3825,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040013/Card_4040013_1_c.png",
             "Normal": "Cards/4040013/Card_4040013_1_b.png",
             "Blooming_thumb": "Cards/4040013/Card_4040013_2_c.png",
-            "Blooming": "Cards/4040013/Card_4040013_2_b.png"
+            "Blooming": "Cards/4040013/Card_4040013_2_b.png",
+            "Normal_withName": "Cards/4040013/Card_4040013_1_a.png",
+            "Normal_vertical": "Cards/4040013/Card_4040013_1_d.png",
+            "Normal_withWhite": "Cards/4040013/Card_4040013_1_e.png",
+            "Blooming_withName": "Cards/4040013/Card_4040013_2_a.png",
+            "Blooming_vertical": "Cards/4040013/Card_4040013_2_d.png",
+            "Blooming_withWhite": "Cards/4040013/Card_4040013_2_e.png",
+            "Cardname": "Cards/4040013/Card_4040013_name.png"
         }
     },
     {
@@ -2557,7 +3845,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150011/Card_4150011_1_c.png",
             "Normal": "Cards/4150011/Card_4150011_1_b.png",
             "Blooming_thumb": "Cards/4150011/Card_4150011_2_c.png",
-            "Blooming": "Cards/4150011/Card_4150011_2_b.png"
+            "Blooming": "Cards/4150011/Card_4150011_2_b.png",
+            "Normal_withName": "Cards/4150011/Card_4150011_1_a.png",
+            "Normal_vertical": "Cards/4150011/Card_4150011_1_d.png",
+            "Normal_withWhite": "Cards/4150011/Card_4150011_1_e.png",
+            "Blooming_withName": "Cards/4150011/Card_4150011_2_a.png",
+            "Blooming_vertical": "Cards/4150011/Card_4150011_2_d.png",
+            "Blooming_withWhite": "Cards/4150011/Card_4150011_2_e.png",
+            "Cardname": "Cards/4150011/Card_4150011_name.png",
+            "GachaText": "Cards/4150011/Card_4150011_gachatext.png"
         }
     },
     {
@@ -2570,7 +3866,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010013/Card_4010013_1_c.png",
             "Normal": "Cards/4010013/Card_4010013_1_b.png",
             "Blooming_thumb": "Cards/4010013/Card_4010013_2_c.png",
-            "Blooming": "Cards/4010013/Card_4010013_2_b.png"
+            "Blooming": "Cards/4010013/Card_4010013_2_b.png",
+            "Normal_withName": "Cards/4010013/Card_4010013_1_a.png",
+            "Normal_vertical": "Cards/4010013/Card_4010013_1_d.png",
+            "Normal_withWhite": "Cards/4010013/Card_4010013_1_e.png",
+            "Blooming_withName": "Cards/4010013/Card_4010013_2_a.png",
+            "Blooming_vertical": "Cards/4010013/Card_4010013_2_d.png",
+            "Blooming_withWhite": "Cards/4010013/Card_4010013_2_e.png",
+            "Cardname": "Cards/4010013/Card_4010013_name.png",
+            "GachaText": "Cards/4010013/Card_4010013_gachatext.png"
         }
     },
     {
@@ -2583,7 +3887,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060013/Card_4060013_1_c.png",
             "Normal": "Cards/4060013/Card_4060013_1_b.png",
             "Blooming_thumb": "Cards/4060013/Card_4060013_2_c.png",
-            "Blooming": "Cards/4060013/Card_4060013_2_b.png"
+            "Blooming": "Cards/4060013/Card_4060013_2_b.png",
+            "Normal_withName": "Cards/4060013/Card_4060013_1_a.png",
+            "Normal_vertical": "Cards/4060013/Card_4060013_1_d.png",
+            "Normal_withWhite": "Cards/4060013/Card_4060013_1_e.png",
+            "Blooming_withName": "Cards/4060013/Card_4060013_2_a.png",
+            "Blooming_vertical": "Cards/4060013/Card_4060013_2_d.png",
+            "Blooming_withWhite": "Cards/4060013/Card_4060013_2_e.png",
+            "Cardname": "Cards/4060013/Card_4060013_name.png",
+            "GachaText": "Cards/4060013/Card_4060013_gachatext.png"
         }
     },
     {
@@ -2596,7 +3908,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3050013/Card_3050013_1_c.png",
             "Normal": "Cards/3050013/Card_3050013_1_b.png",
             "Blooming_thumb": "Cards/3050013/Card_3050013_2_c.png",
-            "Blooming": "Cards/3050013/Card_3050013_2_b.png"
+            "Blooming": "Cards/3050013/Card_3050013_2_b.png",
+            "Normal_withName": "Cards/3050013/Card_3050013_1_a.png",
+            "Normal_vertical": "Cards/3050013/Card_3050013_1_d.png",
+            "Normal_withWhite": "Cards/3050013/Card_3050013_1_e.png",
+            "Blooming_withName": "Cards/3050013/Card_3050013_2_a.png",
+            "Blooming_vertical": "Cards/3050013/Card_3050013_2_d.png",
+            "Blooming_withWhite": "Cards/3050013/Card_3050013_2_e.png",
+            "Cardname": "Cards/3050013/Card_3050013_name.png"
         }
     },
     {
@@ -2609,7 +3928,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4100011/Card_4100011_1_c.png",
             "Normal": "Cards/4100011/Card_4100011_1_b.png",
             "Blooming_thumb": "Cards/4100011/Card_4100011_2_c.png",
-            "Blooming": "Cards/4100011/Card_4100011_2_b.png"
+            "Blooming": "Cards/4100011/Card_4100011_2_b.png",
+            "Normal_withName": "Cards/4100011/Card_4100011_1_a.png",
+            "Normal_vertical": "Cards/4100011/Card_4100011_1_d.png",
+            "Normal_withWhite": "Cards/4100011/Card_4100011_1_e.png",
+            "Blooming_withName": "Cards/4100011/Card_4100011_2_a.png",
+            "Blooming_vertical": "Cards/4100011/Card_4100011_2_d.png",
+            "Blooming_withWhite": "Cards/4100011/Card_4100011_2_e.png",
+            "Cardname": "Cards/4100011/Card_4100011_name.png",
+            "GachaText": "Cards/4100011/Card_4100011_gachatext.png"
         }
     },
     {
@@ -2622,7 +3949,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090013/Card_4090013_1_c.png",
             "Normal": "Cards/4090013/Card_4090013_1_b.png",
             "Blooming_thumb": "Cards/4090013/Card_4090013_2_c.png",
-            "Blooming": "Cards/4090013/Card_4090013_2_b.png"
+            "Blooming": "Cards/4090013/Card_4090013_2_b.png",
+            "Normal_withName": "Cards/4090013/Card_4090013_1_a.png",
+            "Normal_vertical": "Cards/4090013/Card_4090013_1_d.png",
+            "Normal_withWhite": "Cards/4090013/Card_4090013_1_e.png",
+            "Blooming_withName": "Cards/4090013/Card_4090013_2_a.png",
+            "Blooming_vertical": "Cards/4090013/Card_4090013_2_d.png",
+            "Blooming_withWhite": "Cards/4090013/Card_4090013_2_e.png",
+            "Cardname": "Cards/4090013/Card_4090013_name.png",
+            "GachaText": "Cards/4090013/Card_4090013_gachatext.png"
         }
     },
     {
@@ -2635,7 +3970,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120013/Card_4120013_1_c.png",
             "Normal": "Cards/4120013/Card_4120013_1_b.png",
             "Blooming_thumb": "Cards/4120013/Card_4120013_2_c.png",
-            "Blooming": "Cards/4120013/Card_4120013_2_b.png"
+            "Blooming": "Cards/4120013/Card_4120013_2_b.png",
+            "Normal_withName": "Cards/4120013/Card_4120013_1_a.png",
+            "Normal_vertical": "Cards/4120013/Card_4120013_1_d.png",
+            "Normal_withWhite": "Cards/4120013/Card_4120013_1_e.png",
+            "Blooming_withName": "Cards/4120013/Card_4120013_2_a.png",
+            "Blooming_vertical": "Cards/4120013/Card_4120013_2_d.png",
+            "Blooming_withWhite": "Cards/4120013/Card_4120013_2_e.png",
+            "Cardname": "Cards/4120013/Card_4120013_name.png"
         }
     },
     {
@@ -2648,7 +3990,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4020011/Card_4020011_1_c.png",
             "Normal": "Cards/4020011/Card_4020011_1_b.png",
             "Blooming_thumb": "Cards/4020011/Card_4020011_2_c.png",
-            "Blooming": "Cards/4020011/Card_4020011_2_b.png"
+            "Blooming": "Cards/4020011/Card_4020011_2_b.png",
+            "Normal_withName": "Cards/4020011/Card_4020011_1_a.png",
+            "Normal_vertical": "Cards/4020011/Card_4020011_1_d.png",
+            "Normal_withWhite": "Cards/4020011/Card_4020011_1_e.png",
+            "Blooming_withName": "Cards/4020011/Card_4020011_2_a.png",
+            "Blooming_vertical": "Cards/4020011/Card_4020011_2_d.png",
+            "Blooming_withWhite": "Cards/4020011/Card_4020011_2_e.png",
+            "Cardname": "Cards/4020011/Card_4020011_name.png",
+            "GachaText": "Cards/4020011/Card_4020011_gachatext.png"
         }
     },
     {
@@ -2661,7 +4011,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120014/Card_4120014_1_c.png",
             "Normal": "Cards/4120014/Card_4120014_1_b.png",
             "Blooming_thumb": "Cards/4120014/Card_4120014_2_c.png",
-            "Blooming": "Cards/4120014/Card_4120014_2_b.png"
+            "Blooming": "Cards/4120014/Card_4120014_2_b.png",
+            "Normal_withName": "Cards/4120014/Card_4120014_1_a.png",
+            "Normal_vertical": "Cards/4120014/Card_4120014_1_d.png",
+            "Normal_withWhite": "Cards/4120014/Card_4120014_1_e.png",
+            "Blooming_withName": "Cards/4120014/Card_4120014_2_a.png",
+            "Blooming_vertical": "Cards/4120014/Card_4120014_2_d.png",
+            "Blooming_withWhite": "Cards/4120014/Card_4120014_2_e.png",
+            "Cardname": "Cards/4120014/Card_4120014_name.png",
+            "GachaText": "Cards/4120014/Card_4120014_gachatext.png"
         }
     },
     {
@@ -2674,7 +4032,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4030012/Card_4030012_1_c.png",
             "Normal": "Cards/4030012/Card_4030012_1_b.png",
             "Blooming_thumb": "Cards/4030012/Card_4030012_2_c.png",
-            "Blooming": "Cards/4030012/Card_4030012_2_b.png"
+            "Blooming": "Cards/4030012/Card_4030012_2_b.png",
+            "Normal_withName": "Cards/4030012/Card_4030012_1_a.png",
+            "Normal_vertical": "Cards/4030012/Card_4030012_1_d.png",
+            "Normal_withWhite": "Cards/4030012/Card_4030012_1_e.png",
+            "Blooming_withName": "Cards/4030012/Card_4030012_2_a.png",
+            "Blooming_vertical": "Cards/4030012/Card_4030012_2_d.png",
+            "Blooming_withWhite": "Cards/4030012/Card_4030012_2_e.png",
+            "Cardname": "Cards/4030012/Card_4030012_name.png",
+            "GachaText": "Cards/4030012/Card_4030012_gachatext.png"
         }
     },
     {
@@ -2687,7 +4053,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110012/Card_4110012_1_c.png",
             "Normal": "Cards/4110012/Card_4110012_1_b.png",
             "Blooming_thumb": "Cards/4110012/Card_4110012_2_c.png",
-            "Blooming": "Cards/4110012/Card_4110012_2_b.png"
+            "Blooming": "Cards/4110012/Card_4110012_2_b.png",
+            "Normal_withName": "Cards/4110012/Card_4110012_1_a.png",
+            "Normal_vertical": "Cards/4110012/Card_4110012_1_d.png",
+            "Normal_withWhite": "Cards/4110012/Card_4110012_1_e.png",
+            "Blooming_withName": "Cards/4110012/Card_4110012_2_a.png",
+            "Blooming_vertical": "Cards/4110012/Card_4110012_2_d.png",
+            "Blooming_withWhite": "Cards/4110012/Card_4110012_2_e.png",
+            "Cardname": "Cards/4110012/Card_4110012_name.png",
+            "GachaText": "Cards/4110012/Card_4110012_gachatext.png"
         }
     },
     {
@@ -2700,7 +4074,13 @@ export const CardsData = [
             "Normal_thumb": "Cards/3070013/Card_3070013_1_c.png",
             "Normal": "Cards/3070013/Card_3070013_1_b.png",
             "Blooming_thumb": "Cards/3070013/Card_3070013_2_c.png",
-            "Blooming": "Cards/3070013/Card_3070013_2_b.png"
+            "Blooming": "Cards/3070013/Card_3070013_2_b.png",
+            "Normal_withName": "Cards/3070013/Card_3070013_1_a.png",
+            "Normal_vertical": "Cards/3070013/Card_3070013_1_d.png",
+            "Normal_withWhite": "Cards/3070013/Card_3070013_1_e.png",
+            "Blooming_withName": "Cards/3070013/Card_3070013_2_a.png",
+            "Blooming_vertical": "Cards/3070013/Card_3070013_2_d.png",
+            "Blooming_withWhite": "Cards/3070013/Card_3070013_2_e.png"
         }
     },
     {
@@ -2713,7 +4093,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130013/Card_4130013_1_c.png",
             "Normal": "Cards/4130013/Card_4130013_1_b.png",
             "Blooming_thumb": "Cards/4130013/Card_4130013_2_c.png",
-            "Blooming": "Cards/4130013/Card_4130013_2_b.png"
+            "Blooming": "Cards/4130013/Card_4130013_2_b.png",
+            "Normal_withName": "Cards/4130013/Card_4130013_1_a.png",
+            "Normal_vertical": "Cards/4130013/Card_4130013_1_d.png",
+            "Normal_withWhite": "Cards/4130013/Card_4130013_1_e.png",
+            "Blooming_withName": "Cards/4130013/Card_4130013_2_a.png",
+            "Blooming_vertical": "Cards/4130013/Card_4130013_2_d.png",
+            "Blooming_withWhite": "Cards/4130013/Card_4130013_2_e.png",
+            "Cardname": "Cards/4130013/Card_4130013_name.png",
+            "GachaText": "Cards/4130013/Card_4130013_gachatext.png"
         }
     },
     {
@@ -2726,7 +4114,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140013/Card_4140013_1_c.png",
             "Normal": "Cards/4140013/Card_4140013_1_b.png",
             "Blooming_thumb": "Cards/4140013/Card_4140013_2_c.png",
-            "Blooming": "Cards/4140013/Card_4140013_2_b.png"
+            "Blooming": "Cards/4140013/Card_4140013_2_b.png",
+            "Normal_withName": "Cards/4140013/Card_4140013_1_a.png",
+            "Normal_vertical": "Cards/4140013/Card_4140013_1_d.png",
+            "Normal_withWhite": "Cards/4140013/Card_4140013_1_e.png",
+            "Blooming_withName": "Cards/4140013/Card_4140013_2_a.png",
+            "Blooming_vertical": "Cards/4140013/Card_4140013_2_d.png",
+            "Blooming_withWhite": "Cards/4140013/Card_4140013_2_e.png",
+            "Cardname": "Cards/4140013/Card_4140013_name.png"
         }
     },
     {
@@ -2739,7 +4134,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040014/Card_4040014_1_c.png",
             "Normal": "Cards/4040014/Card_4040014_1_b.png",
             "Blooming_thumb": "Cards/4040014/Card_4040014_2_c.png",
-            "Blooming": "Cards/4040014/Card_4040014_2_b.png"
+            "Blooming": "Cards/4040014/Card_4040014_2_b.png",
+            "Normal_withName": "Cards/4040014/Card_4040014_1_a.png",
+            "Normal_vertical": "Cards/4040014/Card_4040014_1_d.png",
+            "Normal_withWhite": "Cards/4040014/Card_4040014_1_e.png",
+            "Blooming_withName": "Cards/4040014/Card_4040014_2_a.png",
+            "Blooming_vertical": "Cards/4040014/Card_4040014_2_d.png",
+            "Blooming_withWhite": "Cards/4040014/Card_4040014_2_e.png",
+            "Cardname": "Cards/4040014/Card_4040014_name.png",
+            "GachaText": "Cards/4040014/Card_4040014_gachatext.png"
         }
     },
     {
@@ -2752,7 +4155,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3020012/Card_3020012_1_c.png",
             "Normal": "Cards/3020012/Card_3020012_1_b.png",
             "Blooming_thumb": "Cards/3020012/Card_3020012_2_c.png",
-            "Blooming": "Cards/3020012/Card_3020012_2_b.png"
+            "Blooming": "Cards/3020012/Card_3020012_2_b.png",
+            "Normal_withName": "Cards/3020012/Card_3020012_1_a.png",
+            "Normal_vertical": "Cards/3020012/Card_3020012_1_d.png",
+            "Normal_withWhite": "Cards/3020012/Card_3020012_1_e.png",
+            "Blooming_withName": "Cards/3020012/Card_3020012_2_a.png",
+            "Blooming_vertical": "Cards/3020012/Card_3020012_2_d.png",
+            "Blooming_withWhite": "Cards/3020012/Card_3020012_2_e.png",
+            "Cardname": "Cards/3020012/Card_3020012_name.png"
         }
     },
     {
@@ -2765,7 +4175,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3100012/Card_3100012_1_c.png",
             "Normal": "Cards/3100012/Card_3100012_1_b.png",
             "Blooming_thumb": "Cards/3100012/Card_3100012_2_c.png",
-            "Blooming": "Cards/3100012/Card_3100012_2_b.png"
+            "Blooming": "Cards/3100012/Card_3100012_2_b.png",
+            "Normal_withName": "Cards/3100012/Card_3100012_1_a.png",
+            "Normal_vertical": "Cards/3100012/Card_3100012_1_d.png",
+            "Normal_withWhite": "Cards/3100012/Card_3100012_1_e.png",
+            "Blooming_withName": "Cards/3100012/Card_3100012_2_a.png",
+            "Blooming_vertical": "Cards/3100012/Card_3100012_2_d.png",
+            "Blooming_withWhite": "Cards/3100012/Card_3100012_2_e.png",
+            "Cardname": "Cards/3100012/Card_3100012_name.png"
         }
     },
     {
@@ -2778,7 +4195,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050014/Card_4050014_1_c.png",
             "Normal": "Cards/4050014/Card_4050014_1_b.png",
             "Blooming_thumb": "Cards/4050014/Card_4050014_2_c.png",
-            "Blooming": "Cards/4050014/Card_4050014_2_b.png"
+            "Blooming": "Cards/4050014/Card_4050014_2_b.png",
+            "Normal_withName": "Cards/4050014/Card_4050014_1_a.png",
+            "Normal_vertical": "Cards/4050014/Card_4050014_1_d.png",
+            "Normal_withWhite": "Cards/4050014/Card_4050014_1_e.png",
+            "Blooming_withName": "Cards/4050014/Card_4050014_2_a.png",
+            "Blooming_vertical": "Cards/4050014/Card_4050014_2_d.png",
+            "Blooming_withWhite": "Cards/4050014/Card_4050014_2_e.png",
+            "Cardname": "Cards/4050014/Card_4050014_name.png",
+            "GachaText": "Cards/4050014/Card_4050014_gachatext.png"
         }
     },
     {
@@ -2791,7 +4216,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160012/Card_4160012_1_c.png",
             "Normal": "Cards/4160012/Card_4160012_1_b.png",
             "Blooming_thumb": "Cards/4160012/Card_4160012_2_c.png",
-            "Blooming": "Cards/4160012/Card_4160012_2_b.png"
+            "Blooming": "Cards/4160012/Card_4160012_2_b.png",
+            "Normal_withName": "Cards/4160012/Card_4160012_1_a.png",
+            "Normal_vertical": "Cards/4160012/Card_4160012_1_d.png",
+            "Normal_withWhite": "Cards/4160012/Card_4160012_1_e.png",
+            "Blooming_withName": "Cards/4160012/Card_4160012_2_a.png",
+            "Blooming_vertical": "Cards/4160012/Card_4160012_2_d.png",
+            "Blooming_withWhite": "Cards/4160012/Card_4160012_2_e.png",
+            "Cardname": "Cards/4160012/Card_4160012_name.png",
+            "GachaText": "Cards/4160012/Card_4160012_gachatext.png"
         }
     },
     {
@@ -2804,7 +4237,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080014/Card_4080014_1_c.png",
             "Normal": "Cards/4080014/Card_4080014_1_b.png",
             "Blooming_thumb": "Cards/4080014/Card_4080014_2_c.png",
-            "Blooming": "Cards/4080014/Card_4080014_2_b.png"
+            "Blooming": "Cards/4080014/Card_4080014_2_b.png",
+            "Normal_withName": "Cards/4080014/Card_4080014_1_a.png",
+            "Normal_vertical": "Cards/4080014/Card_4080014_1_d.png",
+            "Normal_withWhite": "Cards/4080014/Card_4080014_1_e.png",
+            "Blooming_withName": "Cards/4080014/Card_4080014_2_a.png",
+            "Blooming_vertical": "Cards/4080014/Card_4080014_2_d.png",
+            "Blooming_withWhite": "Cards/4080014/Card_4080014_2_e.png",
+            "Cardname": "Cards/4080014/Card_4080014_name.png",
+            "GachaText": "Cards/4080014/Card_4080014_gachatext.png"
         }
     },
     {
@@ -2817,7 +4258,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3150012/Card_3150012_1_c.png",
             "Normal": "Cards/3150012/Card_3150012_1_b.png",
             "Blooming_thumb": "Cards/3150012/Card_3150012_2_c.png",
-            "Blooming": "Cards/3150012/Card_3150012_2_b.png"
+            "Blooming": "Cards/3150012/Card_3150012_2_b.png",
+            "Normal_withName": "Cards/3150012/Card_3150012_1_a.png",
+            "Normal_vertical": "Cards/3150012/Card_3150012_1_d.png",
+            "Normal_withWhite": "Cards/3150012/Card_3150012_1_e.png",
+            "Blooming_withName": "Cards/3150012/Card_3150012_2_a.png",
+            "Blooming_vertical": "Cards/3150012/Card_3150012_2_d.png",
+            "Blooming_withWhite": "Cards/3150012/Card_3150012_2_e.png",
+            "Cardname": "Cards/3150012/Card_3150012_name.png"
         }
     },
     {
@@ -2830,7 +4278,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010014/Card_4010014_1_c.png",
             "Normal": "Cards/4010014/Card_4010014_1_b.png",
             "Blooming_thumb": "Cards/4010014/Card_4010014_2_c.png",
-            "Blooming": "Cards/4010014/Card_4010014_2_b.png"
+            "Blooming": "Cards/4010014/Card_4010014_2_b.png",
+            "Normal_withName": "Cards/4010014/Card_4010014_1_a.png",
+            "Normal_vertical": "Cards/4010014/Card_4010014_1_d.png",
+            "Normal_withWhite": "Cards/4010014/Card_4010014_1_e.png",
+            "Blooming_withName": "Cards/4010014/Card_4010014_2_a.png",
+            "Blooming_vertical": "Cards/4010014/Card_4010014_2_d.png",
+            "Blooming_withWhite": "Cards/4010014/Card_4010014_2_e.png",
+            "Cardname": "Cards/4010014/Card_4010014_name.png",
+            "GachaText": "Cards/4010014/Card_4010014_gachatext.png"
         }
     },
     {
@@ -2843,7 +4299,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3140014/Card_3140014_1_c.png",
             "Normal": "Cards/3140014/Card_3140014_1_b.png",
             "Blooming_thumb": "Cards/3140014/Card_3140014_2_c.png",
-            "Blooming": "Cards/3140014/Card_3140014_2_b.png"
+            "Blooming": "Cards/3140014/Card_3140014_2_b.png",
+            "Normal_withName": "Cards/3140014/Card_3140014_1_a.png",
+            "Normal_vertical": "Cards/3140014/Card_3140014_1_d.png",
+            "Normal_withWhite": "Cards/3140014/Card_3140014_1_e.png",
+            "Blooming_withName": "Cards/3140014/Card_3140014_2_a.png",
+            "Blooming_vertical": "Cards/3140014/Card_3140014_2_d.png",
+            "Blooming_withWhite": "Cards/3140014/Card_3140014_2_e.png",
+            "Cardname": "Cards/3140014/Card_3140014_name.png"
         }
     },
     {
@@ -2856,7 +4319,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090014/Card_4090014_1_c.png",
             "Normal": "Cards/4090014/Card_4090014_1_b.png",
             "Blooming_thumb": "Cards/4090014/Card_4090014_2_c.png",
-            "Blooming": "Cards/4090014/Card_4090014_2_b.png"
+            "Blooming": "Cards/4090014/Card_4090014_2_b.png",
+            "Normal_withName": "Cards/4090014/Card_4090014_1_a.png",
+            "Normal_vertical": "Cards/4090014/Card_4090014_1_d.png",
+            "Normal_withWhite": "Cards/4090014/Card_4090014_1_e.png",
+            "Blooming_withName": "Cards/4090014/Card_4090014_2_a.png",
+            "Blooming_vertical": "Cards/4090014/Card_4090014_2_d.png",
+            "Blooming_withWhite": "Cards/4090014/Card_4090014_2_e.png",
+            "Cardname": "Cards/4090014/Card_4090014_name.png"
         }
     },
     {
@@ -2867,7 +4337,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9030013/Card_9030013_1_c.png",
-            "Normal": "Cards/9030013/Card_9030013_1_b.png"
+            "Normal": "Cards/9030013/Card_9030013_1_b.png",
+            "Normal_withName": "Cards/9030013/Card_9030013_1_a.png",
+            "Normal_vertical": "Cards/9030013/Card_9030013_1_d.png",
+            "Normal_withWhite": "Cards/9030013/Card_9030013_1_e.png",
+            "Cardname": "Cards/9030013/Card_9030013_name.png"
         }
     },
     {
@@ -2880,7 +4354,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4020013/Card_4020013_1_c.png",
             "Normal": "Cards/4020013/Card_4020013_1_b.png",
             "Blooming_thumb": "Cards/4020013/Card_4020013_2_c.png",
-            "Blooming": "Cards/4020013/Card_4020013_2_b.png"
+            "Blooming": "Cards/4020013/Card_4020013_2_b.png",
+            "Normal_withName": "Cards/4020013/Card_4020013_1_a.png",
+            "Normal_vertical": "Cards/4020013/Card_4020013_1_d.png",
+            "Normal_withWhite": "Cards/4020013/Card_4020013_1_e.png",
+            "Blooming_withName": "Cards/4020013/Card_4020013_2_a.png",
+            "Blooming_vertical": "Cards/4020013/Card_4020013_2_d.png",
+            "Blooming_withWhite": "Cards/4020013/Card_4020013_2_e.png",
+            "Cardname": "Cards/4020013/Card_4020013_name.png",
+            "GachaText": "Cards/4020013/Card_4020013_gachatext.png"
         }
     },
     {
@@ -2891,7 +4373,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9010016/Card_9010016_1_c.png",
-            "Normal": "Cards/9010016/Card_9010016_1_b.png"
+            "Normal": "Cards/9010016/Card_9010016_1_b.png",
+            "Normal_withName": "Cards/9010016/Card_9010016_1_a.png",
+            "Normal_vertical": "Cards/9010016/Card_9010016_1_d.png",
+            "Normal_withWhite": "Cards/9010016/Card_9010016_1_e.png",
+            "Cardname": "Cards/9010016/Card_9010016_name.png"
         }
     },
     {
@@ -2904,7 +4390,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110014/Card_4110014_1_c.png",
             "Normal": "Cards/4110014/Card_4110014_1_b.png",
             "Blooming_thumb": "Cards/4110014/Card_4110014_2_c.png",
-            "Blooming": "Cards/4110014/Card_4110014_2_b.png"
+            "Blooming": "Cards/4110014/Card_4110014_2_b.png",
+            "Normal_withName": "Cards/4110014/Card_4110014_1_a.png",
+            "Normal_vertical": "Cards/4110014/Card_4110014_1_d.png",
+            "Normal_withWhite": "Cards/4110014/Card_4110014_1_e.png",
+            "Blooming_withName": "Cards/4110014/Card_4110014_2_a.png",
+            "Blooming_vertical": "Cards/4110014/Card_4110014_2_d.png",
+            "Blooming_withWhite": "Cards/4110014/Card_4110014_2_e.png",
+            "Cardname": "Cards/4110014/Card_4110014_name.png",
+            "GachaText": "Cards/4110014/Card_4110014_gachatext.png"
         }
     },
     {
@@ -2917,7 +4411,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3120015/Card_3120015_1_c.png",
             "Normal": "Cards/3120015/Card_3120015_1_b.png",
             "Blooming_thumb": "Cards/3120015/Card_3120015_2_c.png",
-            "Blooming": "Cards/3120015/Card_3120015_2_b.png"
+            "Blooming": "Cards/3120015/Card_3120015_2_b.png",
+            "Normal_withName": "Cards/3120015/Card_3120015_1_a.png",
+            "Normal_vertical": "Cards/3120015/Card_3120015_1_d.png",
+            "Normal_withWhite": "Cards/3120015/Card_3120015_1_e.png",
+            "Blooming_withName": "Cards/3120015/Card_3120015_2_a.png",
+            "Blooming_vertical": "Cards/3120015/Card_3120015_2_d.png",
+            "Blooming_withWhite": "Cards/3120015/Card_3120015_2_e.png",
+            "Cardname": "Cards/3120015/Card_3120015_name.png"
         }
     },
     {
@@ -2930,7 +4431,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150013/Card_4150013_1_c.png",
             "Normal": "Cards/4150013/Card_4150013_1_b.png",
             "Blooming_thumb": "Cards/4150013/Card_4150013_2_c.png",
-            "Blooming": "Cards/4150013/Card_4150013_2_b.png"
+            "Blooming": "Cards/4150013/Card_4150013_2_b.png",
+            "Normal_withName": "Cards/4150013/Card_4150013_1_a.png",
+            "Normal_vertical": "Cards/4150013/Card_4150013_1_d.png",
+            "Normal_withWhite": "Cards/4150013/Card_4150013_1_e.png",
+            "Blooming_withName": "Cards/4150013/Card_4150013_2_a.png",
+            "Blooming_vertical": "Cards/4150013/Card_4150013_2_d.png",
+            "Blooming_withWhite": "Cards/4150013/Card_4150013_2_e.png",
+            "Cardname": "Cards/4150013/Card_4150013_name.png",
+            "GachaText": "Cards/4150013/Card_4150013_gachatext.png"
         }
     },
     {
@@ -2943,7 +4452,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3160013/Card_3160013_1_c.png",
             "Normal": "Cards/3160013/Card_3160013_1_b.png",
             "Blooming_thumb": "Cards/3160013/Card_3160013_2_c.png",
-            "Blooming": "Cards/3160013/Card_3160013_2_b.png"
+            "Blooming": "Cards/3160013/Card_3160013_2_b.png",
+            "Normal_withName": "Cards/3160013/Card_3160013_1_a.png",
+            "Normal_vertical": "Cards/3160013/Card_3160013_1_d.png",
+            "Normal_withWhite": "Cards/3160013/Card_3160013_1_e.png",
+            "Blooming_withName": "Cards/3160013/Card_3160013_2_a.png",
+            "Blooming_vertical": "Cards/3160013/Card_3160013_2_d.png",
+            "Blooming_withWhite": "Cards/3160013/Card_3160013_2_e.png",
+            "Cardname": "Cards/3160013/Card_3160013_name.png"
         }
     },
     {
@@ -2956,7 +4472,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060014/Card_4060014_1_c.png",
             "Normal": "Cards/4060014/Card_4060014_1_b.png",
             "Blooming_thumb": "Cards/4060014/Card_4060014_2_c.png",
-            "Blooming": "Cards/4060014/Card_4060014_2_b.png"
+            "Blooming": "Cards/4060014/Card_4060014_2_b.png",
+            "Normal_withName": "Cards/4060014/Card_4060014_1_a.png",
+            "Normal_vertical": "Cards/4060014/Card_4060014_1_d.png",
+            "Normal_withWhite": "Cards/4060014/Card_4060014_1_e.png",
+            "Blooming_withName": "Cards/4060014/Card_4060014_2_a.png",
+            "Blooming_vertical": "Cards/4060014/Card_4060014_2_d.png",
+            "Blooming_withWhite": "Cards/4060014/Card_4060014_2_e.png",
+            "Cardname": "Cards/4060014/Card_4060014_name.png",
+            "GachaText": "Cards/4060014/Card_4060014_gachatext.png"
         }
     },
     {
@@ -2969,7 +4493,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3070014/Card_3070014_1_c.png",
             "Normal": "Cards/3070014/Card_3070014_1_b.png",
             "Blooming_thumb": "Cards/3070014/Card_3070014_2_c.png",
-            "Blooming": "Cards/3070014/Card_3070014_2_b.png"
+            "Blooming": "Cards/3070014/Card_3070014_2_b.png",
+            "Normal_withName": "Cards/3070014/Card_3070014_1_a.png",
+            "Normal_vertical": "Cards/3070014/Card_3070014_1_d.png",
+            "Normal_withWhite": "Cards/3070014/Card_3070014_1_e.png",
+            "Blooming_withName": "Cards/3070014/Card_3070014_2_a.png",
+            "Blooming_vertical": "Cards/3070014/Card_3070014_2_d.png",
+            "Blooming_withWhite": "Cards/3070014/Card_3070014_2_e.png",
+            "Cardname": "Cards/3070014/Card_3070014_name.png"
         }
     },
     {
@@ -2982,7 +4513,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080015/Card_4080015_1_c.png",
             "Normal": "Cards/4080015/Card_4080015_1_b.png",
             "Blooming_thumb": "Cards/4080015/Card_4080015_2_c.png",
-            "Blooming": "Cards/4080015/Card_4080015_2_b.png"
+            "Blooming": "Cards/4080015/Card_4080015_2_b.png",
+            "Normal_withName": "Cards/4080015/Card_4080015_1_a.png",
+            "Normal_vertical": "Cards/4080015/Card_4080015_1_d.png",
+            "Normal_withWhite": "Cards/4080015/Card_4080015_1_e.png",
+            "Blooming_withName": "Cards/4080015/Card_4080015_2_a.png",
+            "Blooming_vertical": "Cards/4080015/Card_4080015_2_d.png",
+            "Blooming_withWhite": "Cards/4080015/Card_4080015_2_e.png",
+            "Cardname": "Cards/4080015/Card_4080015_name.png"
         }
     },
     {
@@ -2995,7 +4533,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4130014/Card_4130014_1_c.png",
             "Normal": "Cards/4130014/Card_4130014_1_b.png",
             "Blooming_thumb": "Cards/4130014/Card_4130014_2_c.png",
-            "Blooming": "Cards/4130014/Card_4130014_2_b.png"
+            "Blooming": "Cards/4130014/Card_4130014_2_b.png",
+            "Normal_withName": "Cards/4130014/Card_4130014_1_a.png",
+            "Normal_vertical": "Cards/4130014/Card_4130014_1_d.png",
+            "Normal_withWhite": "Cards/4130014/Card_4130014_1_e.png",
+            "Blooming_withName": "Cards/4130014/Card_4130014_2_a.png",
+            "Blooming_vertical": "Cards/4130014/Card_4130014_2_d.png",
+            "Blooming_withWhite": "Cards/4130014/Card_4130014_2_e.png",
+            "Cardname": "Cards/4130014/Card_4130014_name.png",
+            "GachaText": "Cards/4130014/Card_4130014_gachatext.png"
         }
     },
     {
@@ -3008,7 +4554,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4030014/Card_4030014_1_c.png",
             "Normal": "Cards/4030014/Card_4030014_1_b.png",
             "Blooming_thumb": "Cards/4030014/Card_4030014_2_c.png",
-            "Blooming": "Cards/4030014/Card_4030014_2_b.png"
+            "Blooming": "Cards/4030014/Card_4030014_2_b.png",
+            "Normal_withName": "Cards/4030014/Card_4030014_1_a.png",
+            "Normal_vertical": "Cards/4030014/Card_4030014_1_d.png",
+            "Normal_withWhite": "Cards/4030014/Card_4030014_1_e.png",
+            "Blooming_withName": "Cards/4030014/Card_4030014_2_a.png",
+            "Blooming_vertical": "Cards/4030014/Card_4030014_2_d.png",
+            "Blooming_withWhite": "Cards/4030014/Card_4030014_2_e.png",
+            "Cardname": "Cards/4030014/Card_4030014_name.png",
+            "GachaText": "Cards/4030014/Card_4030014_gachatext.png"
         }
     },
     {
@@ -3021,7 +4575,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110013/Card_4110013_1_c.png",
             "Normal": "Cards/4110013/Card_4110013_1_b.png",
             "Blooming_thumb": "Cards/4110013/Card_4110013_2_c.png",
-            "Blooming": "Cards/4110013/Card_4110013_2_b.png"
+            "Blooming": "Cards/4110013/Card_4110013_2_b.png",
+            "Normal_withName": "Cards/4110013/Card_4110013_1_a.png",
+            "Normal_vertical": "Cards/4110013/Card_4110013_1_d.png",
+            "Normal_withWhite": "Cards/4110013/Card_4110013_1_e.png",
+            "Blooming_withName": "Cards/4110013/Card_4110013_2_a.png",
+            "Blooming_vertical": "Cards/4110013/Card_4110013_2_d.png",
+            "Blooming_withWhite": "Cards/4110013/Card_4110013_2_e.png",
+            "Cardname": "Cards/4110013/Card_4110013_name.png",
+            "GachaText": "Cards/4110013/Card_4110013_gachatext.png"
         }
     },
     {
@@ -3032,7 +4594,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9140015/Card_9140015_1_c.png",
-            "Normal": "Cards/9140015/Card_9140015_1_b.png"
+            "Normal": "Cards/9140015/Card_9140015_1_b.png",
+            "Normal_withName": "Cards/9140015/Card_9140015_1_a.png",
+            "Normal_vertical": "Cards/9140015/Card_9140015_1_d.png",
+            "Normal_withWhite": "Cards/9140015/Card_9140015_1_e.png",
+            "Cardname": "Cards/9140015/Card_9140015_name.png"
         }
     },
     {
@@ -3045,7 +4611,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4100013/Card_4100013_1_c.png",
             "Normal": "Cards/4100013/Card_4100013_1_b.png",
             "Blooming_thumb": "Cards/4100013/Card_4100013_2_c.png",
-            "Blooming": "Cards/4100013/Card_4100013_2_b.png"
+            "Blooming": "Cards/4100013/Card_4100013_2_b.png",
+            "Normal_withName": "Cards/4100013/Card_4100013_1_a.png",
+            "Normal_vertical": "Cards/4100013/Card_4100013_1_d.png",
+            "Normal_withWhite": "Cards/4100013/Card_4100013_1_e.png",
+            "Blooming_withName": "Cards/4100013/Card_4100013_2_a.png",
+            "Blooming_vertical": "Cards/4100013/Card_4100013_2_d.png",
+            "Blooming_withWhite": "Cards/4100013/Card_4100013_2_e.png",
+            "Cardname": "Cards/4100013/Card_4100013_name.png",
+            "GachaText": "Cards/4100013/Card_4100013_gachatext.png"
         }
     },
     {
@@ -3058,7 +4632,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3090015/Card_3090015_1_c.png",
             "Normal": "Cards/3090015/Card_3090015_1_b.png",
             "Blooming_thumb": "Cards/3090015/Card_3090015_2_c.png",
-            "Blooming": "Cards/3090015/Card_3090015_2_b.png"
+            "Blooming": "Cards/3090015/Card_3090015_2_b.png",
+            "Normal_withName": "Cards/3090015/Card_3090015_1_a.png",
+            "Normal_vertical": "Cards/3090015/Card_3090015_1_d.png",
+            "Normal_withWhite": "Cards/3090015/Card_3090015_1_e.png",
+            "Blooming_withName": "Cards/3090015/Card_3090015_2_a.png",
+            "Blooming_vertical": "Cards/3090015/Card_3090015_2_d.png",
+            "Blooming_withWhite": "Cards/3090015/Card_3090015_2_e.png",
+            "Cardname": "Cards/3090015/Card_3090015_name.png"
         }
     },
     {
@@ -3071,7 +4652,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010015/Card_4010015_1_c.png",
             "Normal": "Cards/4010015/Card_4010015_1_b.png",
             "Blooming_thumb": "Cards/4010015/Card_4010015_2_c.png",
-            "Blooming": "Cards/4010015/Card_4010015_2_b.png"
+            "Blooming": "Cards/4010015/Card_4010015_2_b.png",
+            "Normal_withName": "Cards/4010015/Card_4010015_1_a.png",
+            "Normal_vertical": "Cards/4010015/Card_4010015_1_d.png",
+            "Normal_withWhite": "Cards/4010015/Card_4010015_1_e.png",
+            "Blooming_withName": "Cards/4010015/Card_4010015_2_a.png",
+            "Blooming_vertical": "Cards/4010015/Card_4010015_2_d.png",
+            "Blooming_withWhite": "Cards/4010015/Card_4010015_2_e.png",
+            "Cardname": "Cards/4010015/Card_4010015_name.png"
         }
     },
     {
@@ -3084,7 +4672,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120016/Card_4120016_1_c.png",
             "Normal": "Cards/4120016/Card_4120016_1_b.png",
             "Blooming_thumb": "Cards/4120016/Card_4120016_2_c.png",
-            "Blooming": "Cards/4120016/Card_4120016_2_b.png"
+            "Blooming": "Cards/4120016/Card_4120016_2_b.png",
+            "Normal_withName": "Cards/4120016/Card_4120016_1_a.png",
+            "Normal_vertical": "Cards/4120016/Card_4120016_1_d.png",
+            "Normal_withWhite": "Cards/4120016/Card_4120016_1_e.png",
+            "Blooming_withName": "Cards/4120016/Card_4120016_2_a.png",
+            "Blooming_vertical": "Cards/4120016/Card_4120016_2_d.png",
+            "Blooming_withWhite": "Cards/4120016/Card_4120016_2_e.png",
+            "Cardname": "Cards/4120016/Card_4120016_name.png",
+            "GachaText": "Cards/4120016/Card_4120016_gachatext.png"
         }
     },
     {
@@ -3095,7 +4691,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9060015/Card_9060015_1_c.png",
-            "Normal": "Cards/9060015/Card_9060015_1_b.png"
+            "Normal": "Cards/9060015/Card_9060015_1_b.png",
+            "Normal_withName": "Cards/9060015/Card_9060015_1_a.png",
+            "Normal_vertical": "Cards/9060015/Card_9060015_1_d.png",
+            "Normal_withWhite": "Cards/9060015/Card_9060015_1_e.png",
+            "Cardname": "Cards/9060015/Card_9060015_name.png"
         }
     },
     {
@@ -3108,7 +4708,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040016/Card_4040016_1_c.png",
             "Normal": "Cards/4040016/Card_4040016_1_b.png",
             "Blooming_thumb": "Cards/4040016/Card_4040016_2_c.png",
-            "Blooming": "Cards/4040016/Card_4040016_2_b.png"
+            "Blooming": "Cards/4040016/Card_4040016_2_b.png",
+            "Normal_withName": "Cards/4040016/Card_4040016_1_a.png",
+            "Normal_vertical": "Cards/4040016/Card_4040016_1_d.png",
+            "Normal_withWhite": "Cards/4040016/Card_4040016_1_e.png",
+            "Blooming_withName": "Cards/4040016/Card_4040016_2_a.png",
+            "Blooming_vertical": "Cards/4040016/Card_4040016_2_d.png",
+            "Blooming_withWhite": "Cards/4040016/Card_4040016_2_e.png",
+            "Cardname": "Cards/4040016/Card_4040016_name.png",
+            "GachaText": "Cards/4040016/Card_4040016_gachatext.png"
         }
     },
     {
@@ -3121,7 +4729,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160014/Card_4160014_1_c.png",
             "Normal": "Cards/4160014/Card_4160014_1_b.png",
             "Blooming_thumb": "Cards/4160014/Card_4160014_2_c.png",
-            "Blooming": "Cards/4160014/Card_4160014_2_b.png"
+            "Blooming": "Cards/4160014/Card_4160014_2_b.png",
+            "Normal_withName": "Cards/4160014/Card_4160014_1_a.png",
+            "Normal_vertical": "Cards/4160014/Card_4160014_1_d.png",
+            "Normal_withWhite": "Cards/4160014/Card_4160014_1_e.png",
+            "Blooming_withName": "Cards/4160014/Card_4160014_2_a.png",
+            "Blooming_vertical": "Cards/4160014/Card_4160014_2_d.png",
+            "Blooming_withWhite": "Cards/4160014/Card_4160014_2_e.png",
+            "Cardname": "Cards/4160014/Card_4160014_name.png",
+            "GachaText": "Cards/4160014/Card_4160014_gachatext.png"
         }
     },
     {
@@ -3134,7 +4750,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140016/Card_4140016_1_c.png",
             "Normal": "Cards/4140016/Card_4140016_1_b.png",
             "Blooming_thumb": "Cards/4140016/Card_4140016_2_c.png",
-            "Blooming": "Cards/4140016/Card_4140016_2_b.png"
+            "Blooming": "Cards/4140016/Card_4140016_2_b.png",
+            "Normal_withName": "Cards/4140016/Card_4140016_1_a.png",
+            "Normal_vertical": "Cards/4140016/Card_4140016_1_d.png",
+            "Normal_withWhite": "Cards/4140016/Card_4140016_1_e.png",
+            "Blooming_withName": "Cards/4140016/Card_4140016_2_a.png",
+            "Blooming_vertical": "Cards/4140016/Card_4140016_2_d.png",
+            "Blooming_withWhite": "Cards/4140016/Card_4140016_2_e.png",
+            "Cardname": "Cards/4140016/Card_4140016_name.png",
+            "GachaText": "Cards/4140016/Card_4140016_gachatext.png"
         }
     },
     {
@@ -3147,7 +4771,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3080016/Card_3080016_1_c.png",
             "Normal": "Cards/3080016/Card_3080016_1_b.png",
             "Blooming_thumb": "Cards/3080016/Card_3080016_2_c.png",
-            "Blooming": "Cards/3080016/Card_3080016_2_b.png"
+            "Blooming": "Cards/3080016/Card_3080016_2_b.png",
+            "Normal_withName": "Cards/3080016/Card_3080016_1_a.png",
+            "Normal_vertical": "Cards/3080016/Card_3080016_1_d.png",
+            "Normal_withWhite": "Cards/3080016/Card_3080016_1_e.png",
+            "Blooming_withName": "Cards/3080016/Card_3080016_2_a.png",
+            "Blooming_vertical": "Cards/3080016/Card_3080016_2_d.png",
+            "Blooming_withWhite": "Cards/3080016/Card_3080016_2_e.png",
+            "Cardname": "Cards/3080016/Card_3080016_name.png"
         }
     },
     {
@@ -3158,7 +4789,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9110015/Card_9110015_1_c.png",
-            "Normal": "Cards/9110015/Card_9110015_1_b.png"
+            "Normal": "Cards/9110015/Card_9110015_1_b.png",
+            "Normal_withName": "Cards/9110015/Card_9110015_1_a.png",
+            "Normal_vertical": "Cards/9110015/Card_9110015_1_d.png",
+            "Normal_withWhite": "Cards/9110015/Card_9110015_1_e.png",
+            "Cardname": "Cards/9110015/Card_9110015_name.png"
         }
     },
     {
@@ -3171,7 +4806,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070016/Card_4070016_1_c.png",
             "Normal": "Cards/4070016/Card_4070016_1_b.png",
             "Blooming_thumb": "Cards/4070016/Card_4070016_2_c.png",
-            "Blooming": "Cards/4070016/Card_4070016_2_b.png"
+            "Blooming": "Cards/4070016/Card_4070016_2_b.png",
+            "Normal_withName": "Cards/4070016/Card_4070016_1_a.png",
+            "Normal_vertical": "Cards/4070016/Card_4070016_1_d.png",
+            "Normal_withWhite": "Cards/4070016/Card_4070016_1_e.png",
+            "Blooming_withName": "Cards/4070016/Card_4070016_2_a.png",
+            "Blooming_vertical": "Cards/4070016/Card_4070016_2_d.png",
+            "Blooming_withWhite": "Cards/4070016/Card_4070016_2_e.png",
+            "Cardname": "Cards/4070016/Card_4070016_name.png",
+            "GachaText": "Cards/4070016/Card_4070016_gachatext.png"
         }
     },
     {
@@ -3184,7 +4827,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4150014/Card_4150014_1_c.png",
             "Normal": "Cards/4150014/Card_4150014_1_b.png",
             "Blooming_thumb": "Cards/4150014/Card_4150014_2_c.png",
-            "Blooming": "Cards/4150014/Card_4150014_2_b.png"
+            "Blooming": "Cards/4150014/Card_4150014_2_b.png",
+            "Normal_withName": "Cards/4150014/Card_4150014_1_a.png",
+            "Normal_vertical": "Cards/4150014/Card_4150014_1_d.png",
+            "Normal_withWhite": "Cards/4150014/Card_4150014_1_e.png",
+            "Blooming_withName": "Cards/4150014/Card_4150014_2_a.png",
+            "Blooming_vertical": "Cards/4150014/Card_4150014_2_d.png",
+            "Blooming_withWhite": "Cards/4150014/Card_4150014_2_e.png",
+            "Cardname": "Cards/4150014/Card_4150014_name.png",
+            "GachaText": "Cards/4150014/Card_4150014_gachatext.png"
         }
     },
     {
@@ -3197,7 +4848,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3010017/Card_3010017_1_c.png",
             "Normal": "Cards/3010017/Card_3010017_1_b.png",
             "Blooming_thumb": "Cards/3010017/Card_3010017_2_c.png",
-            "Blooming": "Cards/3010017/Card_3010017_2_b.png"
+            "Blooming": "Cards/3010017/Card_3010017_2_b.png",
+            "Normal_withName": "Cards/3010017/Card_3010017_1_a.png",
+            "Normal_vertical": "Cards/3010017/Card_3010017_1_d.png",
+            "Normal_withWhite": "Cards/3010017/Card_3010017_1_e.png",
+            "Blooming_withName": "Cards/3010017/Card_3010017_2_a.png",
+            "Blooming_vertical": "Cards/3010017/Card_3010017_2_d.png",
+            "Blooming_withWhite": "Cards/3010017/Card_3010017_2_e.png",
+            "Cardname": "Cards/3010017/Card_3010017_name.png"
         }
     },
     {
@@ -3210,7 +4868,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3130015/Card_3130015_1_c.png",
             "Normal": "Cards/3130015/Card_3130015_1_b.png",
             "Blooming_thumb": "Cards/3130015/Card_3130015_2_c.png",
-            "Blooming": "Cards/3130015/Card_3130015_2_b.png"
+            "Blooming": "Cards/3130015/Card_3130015_2_b.png",
+            "Normal_withName": "Cards/3130015/Card_3130015_1_a.png",
+            "Normal_vertical": "Cards/3130015/Card_3130015_1_d.png",
+            "Normal_withWhite": "Cards/3130015/Card_3130015_1_e.png",
+            "Blooming_withName": "Cards/3130015/Card_3130015_2_a.png",
+            "Blooming_vertical": "Cards/3130015/Card_3130015_2_d.png",
+            "Blooming_withWhite": "Cards/3130015/Card_3130015_2_e.png",
+            "Cardname": "Cards/3130015/Card_3130015_name.png"
         }
     },
     {
@@ -3223,7 +4888,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4060016/Card_4060016_1_c.png",
             "Normal": "Cards/4060016/Card_4060016_1_b.png",
             "Blooming_thumb": "Cards/4060016/Card_4060016_2_c.png",
-            "Blooming": "Cards/4060016/Card_4060016_2_b.png"
+            "Blooming": "Cards/4060016/Card_4060016_2_b.png",
+            "Normal_withName": "Cards/4060016/Card_4060016_1_a.png",
+            "Normal_vertical": "Cards/4060016/Card_4060016_1_d.png",
+            "Normal_withWhite": "Cards/4060016/Card_4060016_1_e.png",
+            "Blooming_withName": "Cards/4060016/Card_4060016_2_a.png",
+            "Blooming_vertical": "Cards/4060016/Card_4060016_2_d.png",
+            "Blooming_withWhite": "Cards/4060016/Card_4060016_2_e.png",
+            "Cardname": "Cards/4060016/Card_4060016_name.png",
+            "GachaText": "Cards/4060016/Card_4060016_gachatext.png"
         }
     },
     {
@@ -3236,7 +4909,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4050016/Card_4050016_1_c.png",
             "Normal": "Cards/4050016/Card_4050016_1_b.png",
             "Blooming_thumb": "Cards/4050016/Card_4050016_2_c.png",
-            "Blooming": "Cards/4050016/Card_4050016_2_b.png"
+            "Blooming": "Cards/4050016/Card_4050016_2_b.png",
+            "Normal_withName": "Cards/4050016/Card_4050016_1_a.png",
+            "Normal_vertical": "Cards/4050016/Card_4050016_1_d.png",
+            "Normal_withWhite": "Cards/4050016/Card_4050016_1_e.png",
+            "Blooming_withName": "Cards/4050016/Card_4050016_2_a.png",
+            "Blooming_vertical": "Cards/4050016/Card_4050016_2_d.png",
+            "Blooming_withWhite": "Cards/4050016/Card_4050016_2_e.png",
+            "Cardname": "Cards/4050016/Card_4050016_name.png",
+            "GachaText": "Cards/4050016/Card_4050016_gachatext.png"
         }
     },
     {
@@ -3249,7 +4930,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4020014/Card_4020014_1_c.png",
             "Normal": "Cards/4020014/Card_4020014_1_b.png",
             "Blooming_thumb": "Cards/4020014/Card_4020014_2_c.png",
-            "Blooming": "Cards/4020014/Card_4020014_2_b.png"
+            "Blooming": "Cards/4020014/Card_4020014_2_b.png",
+            "Normal_withName": "Cards/4020014/Card_4020014_1_a.png",
+            "Normal_vertical": "Cards/4020014/Card_4020014_1_d.png",
+            "Normal_withWhite": "Cards/4020014/Card_4020014_1_e.png",
+            "Blooming_withName": "Cards/4020014/Card_4020014_2_a.png",
+            "Blooming_vertical": "Cards/4020014/Card_4020014_2_d.png",
+            "Blooming_withWhite": "Cards/4020014/Card_4020014_2_e.png",
+            "Cardname": "Cards/4020014/Card_4020014_name.png",
+            "GachaText": "Cards/4020014/Card_4020014_gachatext.png"
         }
     },
     {
@@ -3260,7 +4949,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9040017/Card_9040017_1_c.png",
-            "Normal": "Cards/9040017/Card_9040017_1_b.png"
+            "Normal": "Cards/9040017/Card_9040017_1_b.png",
+            "Normal_withName": "Cards/9040017/Card_9040017_1_a.png",
+            "Normal_vertical": "Cards/9040017/Card_9040017_1_d.png",
+            "Normal_withWhite": "Cards/9040017/Card_9040017_1_e.png",
+            "Cardname": "Cards/9040017/Card_9040017_name.png"
         }
     },
     {
@@ -3273,7 +4966,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4080017/Card_4080017_1_c.png",
             "Normal": "Cards/4080017/Card_4080017_1_b.png",
             "Blooming_thumb": "Cards/4080017/Card_4080017_2_c.png",
-            "Blooming": "Cards/4080017/Card_4080017_2_b.png"
+            "Blooming": "Cards/4080017/Card_4080017_2_b.png",
+            "Normal_withName": "Cards/4080017/Card_4080017_1_a.png",
+            "Normal_vertical": "Cards/4080017/Card_4080017_1_d.png",
+            "Normal_withWhite": "Cards/4080017/Card_4080017_1_e.png",
+            "Blooming_withName": "Cards/4080017/Card_4080017_2_a.png",
+            "Blooming_vertical": "Cards/4080017/Card_4080017_2_d.png",
+            "Blooming_withWhite": "Cards/4080017/Card_4080017_2_e.png",
+            "Cardname": "Cards/4080017/Card_4080017_name.png",
+            "GachaText": "Cards/4080017/Card_4080017_gachatext.png"
         }
     },
     {
@@ -3286,7 +4987,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3030015/Card_3030015_1_c.png",
             "Normal": "Cards/3030015/Card_3030015_1_b.png",
             "Blooming_thumb": "Cards/3030015/Card_3030015_2_c.png",
-            "Blooming": "Cards/3030015/Card_3030015_2_b.png"
+            "Blooming": "Cards/3030015/Card_3030015_2_b.png",
+            "Normal_withName": "Cards/3030015/Card_3030015_1_a.png",
+            "Normal_vertical": "Cards/3030015/Card_3030015_1_d.png",
+            "Normal_withWhite": "Cards/3030015/Card_3030015_1_e.png",
+            "Blooming_withName": "Cards/3030015/Card_3030015_2_a.png",
+            "Blooming_vertical": "Cards/3030015/Card_3030015_2_d.png",
+            "Blooming_withWhite": "Cards/3030015/Card_3030015_2_e.png",
+            "Cardname": "Cards/3030015/Card_3030015_name.png"
         }
     },
     {
@@ -3299,7 +5007,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4090016/Card_4090016_1_c.png",
             "Normal": "Cards/4090016/Card_4090016_1_b.png",
             "Blooming_thumb": "Cards/4090016/Card_4090016_2_c.png",
-            "Blooming": "Cards/4090016/Card_4090016_2_b.png"
+            "Blooming": "Cards/4090016/Card_4090016_2_b.png",
+            "Normal_withName": "Cards/4090016/Card_4090016_1_a.png",
+            "Normal_vertical": "Cards/4090016/Card_4090016_1_d.png",
+            "Normal_withWhite": "Cards/4090016/Card_4090016_1_e.png",
+            "Blooming_withName": "Cards/4090016/Card_4090016_2_a.png",
+            "Blooming_vertical": "Cards/4090016/Card_4090016_2_d.png",
+            "Blooming_withWhite": "Cards/4090016/Card_4090016_2_e.png",
+            "Cardname": "Cards/4090016/Card_4090016_name.png",
+            "GachaText": "Cards/4090016/Card_4090016_gachatext.png"
         }
     },
     {
@@ -3312,7 +5028,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160015/Card_4160015_1_c.png",
             "Normal": "Cards/4160015/Card_4160015_1_b.png",
             "Blooming_thumb": "Cards/4160015/Card_4160015_2_c.png",
-            "Blooming": "Cards/4160015/Card_4160015_2_b.png"
+            "Blooming": "Cards/4160015/Card_4160015_2_b.png",
+            "Normal_withName": "Cards/4160015/Card_4160015_1_a.png",
+            "Normal_vertical": "Cards/4160015/Card_4160015_1_d.png",
+            "Normal_withWhite": "Cards/4160015/Card_4160015_1_e.png",
+            "Blooming_withName": "Cards/4160015/Card_4160015_2_a.png",
+            "Blooming_vertical": "Cards/4160015/Card_4160015_2_d.png",
+            "Blooming_withWhite": "Cards/4160015/Card_4160015_2_e.png",
+            "Cardname": "Cards/4160015/Card_4160015_name.png"
         }
     },
     {
@@ -3325,7 +5048,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4010018/Card_4010018_1_c.png",
             "Normal": "Cards/4010018/Card_4010018_1_b.png",
             "Blooming_thumb": "Cards/4010018/Card_4010018_2_c.png",
-            "Blooming": "Cards/4010018/Card_4010018_2_b.png"
+            "Blooming": "Cards/4010018/Card_4010018_2_b.png",
+            "Normal_withName": "Cards/4010018/Card_4010018_1_a.png",
+            "Normal_vertical": "Cards/4010018/Card_4010018_1_d.png",
+            "Normal_withWhite": "Cards/4010018/Card_4010018_1_e.png",
+            "Blooming_withName": "Cards/4010018/Card_4010018_2_a.png",
+            "Blooming_vertical": "Cards/4010018/Card_4010018_2_d.png",
+            "Blooming_withWhite": "Cards/4010018/Card_4010018_2_e.png",
+            "Cardname": "Cards/4010018/Card_4010018_name.png",
+            "GachaText": "Cards/4010018/Card_4010018_gachatext.png"
         }
     },
     {
@@ -3338,7 +5069,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4070017/Card_4070017_1_c.png",
             "Normal": "Cards/4070017/Card_4070017_1_b.png",
             "Blooming_thumb": "Cards/4070017/Card_4070017_2_c.png",
-            "Blooming": "Cards/4070017/Card_4070017_2_b.png"
+            "Blooming": "Cards/4070017/Card_4070017_2_b.png",
+            "Normal_withName": "Cards/4070017/Card_4070017_1_a.png",
+            "Normal_vertical": "Cards/4070017/Card_4070017_1_d.png",
+            "Normal_withWhite": "Cards/4070017/Card_4070017_1_e.png",
+            "Blooming_withName": "Cards/4070017/Card_4070017_2_a.png",
+            "Blooming_vertical": "Cards/4070017/Card_4070017_2_d.png",
+            "Blooming_withWhite": "Cards/4070017/Card_4070017_2_e.png",
+            "Cardname": "Cards/4070017/Card_4070017_name.png",
+            "GachaText": "Cards/4070017/Card_4070017_gachatext.png"
         }
     },
     {
@@ -3351,7 +5090,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4140017/Card_4140017_1_c.png",
             "Normal": "Cards/4140017/Card_4140017_1_b.png",
             "Blooming_thumb": "Cards/4140017/Card_4140017_2_c.png",
-            "Blooming": "Cards/4140017/Card_4140017_2_b.png"
+            "Blooming": "Cards/4140017/Card_4140017_2_b.png",
+            "Normal_withName": "Cards/4140017/Card_4140017_1_a.png",
+            "Normal_vertical": "Cards/4140017/Card_4140017_1_d.png",
+            "Normal_withWhite": "Cards/4140017/Card_4140017_1_e.png",
+            "Blooming_withName": "Cards/4140017/Card_4140017_2_a.png",
+            "Blooming_vertical": "Cards/4140017/Card_4140017_2_d.png",
+            "Blooming_withWhite": "Cards/4140017/Card_4140017_2_e.png",
+            "Cardname": "Cards/4140017/Card_4140017_name.png",
+            "GachaText": "Cards/4140017/Card_4140017_gachatext.png"
         }
     },
     {
@@ -3364,7 +5111,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3100014/Card_3100014_1_c.png",
             "Normal": "Cards/3100014/Card_3100014_1_b.png",
             "Blooming_thumb": "Cards/3100014/Card_3100014_2_c.png",
-            "Blooming": "Cards/3100014/Card_3100014_2_b.png"
+            "Blooming": "Cards/3100014/Card_3100014_2_b.png",
+            "Normal_withName": "Cards/3100014/Card_3100014_1_a.png",
+            "Normal_vertical": "Cards/3100014/Card_3100014_1_d.png",
+            "Normal_withWhite": "Cards/3100014/Card_3100014_1_e.png",
+            "Blooming_withName": "Cards/3100014/Card_3100014_2_a.png",
+            "Blooming_vertical": "Cards/3100014/Card_3100014_2_d.png",
+            "Blooming_withWhite": "Cards/3100014/Card_3100014_2_e.png",
+            "Cardname": "Cards/3100014/Card_3100014_name.png"
         }
     },
     {
@@ -3377,7 +5131,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4120017/Card_4120017_1_c.png",
             "Normal": "Cards/4120017/Card_4120017_1_b.png",
             "Blooming_thumb": "Cards/4120017/Card_4120017_2_c.png",
-            "Blooming": "Cards/4120017/Card_4120017_2_b.png"
+            "Blooming": "Cards/4120017/Card_4120017_2_b.png",
+            "Normal_withName": "Cards/4120017/Card_4120017_1_a.png",
+            "Normal_vertical": "Cards/4120017/Card_4120017_1_d.png",
+            "Normal_withWhite": "Cards/4120017/Card_4120017_1_e.png",
+            "Blooming_withName": "Cards/4120017/Card_4120017_2_a.png",
+            "Blooming_vertical": "Cards/4120017/Card_4120017_2_d.png",
+            "Blooming_withWhite": "Cards/4120017/Card_4120017_2_e.png",
+            "Cardname": "Cards/4120017/Card_4120017_name.png",
+            "GachaText": "Cards/4120017/Card_4120017_gachatext.png"
         }
     },
     {
@@ -3388,7 +5150,11 @@ export const CardsData = [
         "animation": "",
         "image": {
             "Normal_thumb": "Cards/9150015/Card_9150015_1_c.png",
-            "Normal": "Cards/9150015/Card_9150015_1_b.png"
+            "Normal": "Cards/9150015/Card_9150015_1_b.png",
+            "Normal_withName": "Cards/9150015/Card_9150015_1_a.png",
+            "Normal_vertical": "Cards/9150015/Card_9150015_1_d.png",
+            "Normal_withWhite": "Cards/9150015/Card_9150015_1_e.png",
+            "Cardname": "Cards/9150015/Card_9150015_name.png"
         }
     },
     {
@@ -3401,7 +5167,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4160016/Card_4160016_1_c.png",
             "Normal": "Cards/4160016/Card_4160016_1_b.png",
             "Blooming_thumb": "Cards/4160016/Card_4160016_2_c.png",
-            "Blooming": "Cards/4160016/Card_4160016_2_b.png"
+            "Blooming": "Cards/4160016/Card_4160016_2_b.png",
+            "Normal_withName": "Cards/4160016/Card_4160016_1_a.png",
+            "Normal_vertical": "Cards/4160016/Card_4160016_1_d.png",
+            "Normal_withWhite": "Cards/4160016/Card_4160016_1_e.png",
+            "Blooming_withName": "Cards/4160016/Card_4160016_2_a.png",
+            "Blooming_vertical": "Cards/4160016/Card_4160016_2_d.png",
+            "Blooming_withWhite": "Cards/4160016/Card_4160016_2_e.png",
+            "Cardname": "Cards/4160016/Card_4160016_name.png",
+            "GachaText": "Cards/4160016/Card_4160016_gachatext.png"
         }
     },
     {
@@ -3414,7 +5188,15 @@ export const CardsData = [
             "Normal_thumb": "Cards/4110016/Card_4110016_1_c.png",
             "Normal": "Cards/4110016/Card_4110016_1_b.png",
             "Blooming_thumb": "Cards/4110016/Card_4110016_2_c.png",
-            "Blooming": "Cards/4110016/Card_4110016_2_b.png"
+            "Blooming": "Cards/4110016/Card_4110016_2_b.png",
+            "Normal_withName": "Cards/4110016/Card_4110016_1_a.png",
+            "Normal_vertical": "Cards/4110016/Card_4110016_1_d.png",
+            "Normal_withWhite": "Cards/4110016/Card_4110016_1_e.png",
+            "Blooming_withName": "Cards/4110016/Card_4110016_2_a.png",
+            "Blooming_vertical": "Cards/4110016/Card_4110016_2_d.png",
+            "Blooming_withWhite": "Cards/4110016/Card_4110016_2_e.png",
+            "Cardname": "Cards/4110016/Card_4110016_name.png",
+            "GachaText": "Cards/4110016/Card_4110016_gachatext.png"
         }
     },
     {
@@ -3427,7 +5209,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/3080018/Card_3080018_1_c.png",
             "Normal": "Cards/3080018/Card_3080018_1_b.png",
             "Blooming_thumb": "Cards/3080018/Card_3080018_2_c.png",
-            "Blooming": "Cards/3080018/Card_3080018_2_b.png"
+            "Blooming": "Cards/3080018/Card_3080018_2_b.png",
+            "Normal_withName": "Cards/3080018/Card_3080018_1_a.png",
+            "Normal_vertical": "Cards/3080018/Card_3080018_1_d.png",
+            "Normal_withWhite": "Cards/3080018/Card_3080018_1_e.png",
+            "Blooming_withName": "Cards/3080018/Card_3080018_2_a.png",
+            "Blooming_vertical": "Cards/3080018/Card_3080018_2_d.png",
+            "Blooming_withWhite": "Cards/3080018/Card_3080018_2_e.png",
+            "Cardname": "Cards/3080018/Card_3080018_name.png"
         }
     },
     {
@@ -3440,7 +5229,14 @@ export const CardsData = [
             "Normal_thumb": "Cards/4040018/Card_4040018_1_c.png",
             "Normal": "Cards/4040018/Card_4040018_1_b.png",
             "Blooming_thumb": "Cards/4040018/Card_4040018_2_c.png",
-            "Blooming": "Cards/4040018/Card_4040018_2_b.png"
+            "Blooming": "Cards/4040018/Card_4040018_2_b.png",
+            "Normal_withName": "Cards/4040018/Card_4040018_1_a.png",
+            "Normal_vertical": "Cards/4040018/Card_4040018_1_d.png",
+            "Normal_withWhite": "Cards/4040018/Card_4040018_1_e.png",
+            "Blooming_withName": "Cards/4040018/Card_4040018_2_a.png",
+            "Blooming_vertical": "Cards/4040018/Card_4040018_2_d.png",
+            "Blooming_withWhite": "Cards/4040018/Card_4040018_2_e.png",
+            "Cardname": "Cards/4040018/Card_4040018_name.png"
         }
     }
 ];
